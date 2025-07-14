@@ -1,0 +1,94 @@
+{
+  "books": [
+    {
+      "id": 11,
+      "title": "StrengthsFinder 2.0",
+      "author": "Tom Rath",
+      "summary": "A practical guide to identifying and leveraging your unique strengths to become a more effective leader.",
+      "generative_title": "StrengthsFinder 2.0 by Tom Rath",
+      "info": "leadership_books/strengthsfinder_20_by_tom_rath/strengthsfinder_20_by_tom_rath_summary.json",
+      "strategies": "leadership_books/strengthsfinder_20_by_tom_rath/strengthsfinder_20_by_tom_rath_strategies.json",
+      "studyPlan": {
+        "module_path": "leadership_books/strengthsfinder_20_by_tom_rath/strengthsfinder_20_by_tom_rath_modules.json",
+        "lesson_path": "leadership_books/strengthsfinder_20_by_tom_rath/strengthsfinder_20_by_tom_rath_lessons.json"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Start with Why",
+      "author": "Simon Sinek",
+      "summary": "Explores the importance of understanding your purpose and how it drives effective leadership.",
+      "generative_title": "Start with Why by Simon Sinek"
+    },
+    {
+      "id": 13,
+      "title": "Crucial Conversations",
+      "author": "Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler",
+      "summary": "Provides tools for handling high-stakes conversations and communicating effectively under pressure.",
+      "generative_title": "Crucial Conversations by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler"
+    },
+    {
+      "id": 14,
+      "title": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "summary": "Classic principles for building relationships and influencing people in a positive way.",
+      "generative_title": "How to Win Friends and Influence People by Dale Carnegie"
+    },
+    {
+      "id": 15,
+      "title": "Emotional Intelligence",
+      "author": "Daniel Goleman",
+      "summary": "Explains the critical role of emotional intelligence in personal and professional success.",
+      "generative_title": "Emotional Intelligence by Daniel Goleman"
+    },
+    {
+      "id": 16,
+      "title": "The Five Dysfunctions of a Team",
+      "author": "Patrick Lencioni",
+      "summary": "Identifies common pitfalls teams face and provides actionable strategies for building cohesive teams.",
+      "generative_title": "The Five Dysfunctions of a Team by Patrick Lencioni"
+    },
+    {
+      "id": 17,
+      "title": "Decisive",
+      "author": "Chip Heath & Dan Heath",
+      "summary": "Offers a framework for making better choices and avoiding common decision-making traps.",
+      "generative_title": "Decisive by Chip Heath & Dan Heath"
+    },
+    {
+      "id": 18,
+      "title": "Leading Change",
+      "author": "John P. Kotter",
+      "summary": "Outlines an eight-step process for successfully leading organizational change.",
+      "generative_title": "Leading Change by John P. Kotter"
+    },
+    {
+      "id": 19,
+      "title": "The Coaching Habit",
+      "author": "Michael Bungay Stanier",
+      "summary": "Provides practical techniques for becoming a more effective coach and leader.",
+      "generative_title": "The Coaching Habit by Michael Bungay Stanier"
+    },
+    {
+      "id": 20,
+      "title": "Good to Great",
+      "author": "Jim Collins",
+      "summary": "Examines what differentiates great organizations from good ones and how leaders can drive lasting success.",
+      "generative_title": "Good to Great by Jim Collins"
+    },
+    {
+      "id": 21,
+      "title": "Dare to Lead",
+      "author": "Bren\u00e9 Brown",
+      "summary": "Focuses on the power of vulnerability, courage, and authenticity in leadership.",
+      "generative_title": "Dare to Lead by Bren\u00e9 Brown"
+    },
+    {
+      "id": 22,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "summary": "Explains how small habits can lead to remarkable results and how to build habits that support leadership growth.",
+      "generative_title": "Atomic Habits by James Clear"
+    }
+  ]
+}
