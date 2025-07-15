@@ -1,49 +1,49 @@
 {
   "id": "how_to_win_friends_and_influence_people",
   "title": "How to Win Friends and Influence People",
-  "description": "Dale Carnegie's classic book focuses on practical strategies for improving social skills, building positive relationships, and influencing others. It provides timeless advice on effective communication, empathy, and leadership. Through real-world examples and actionable principles, readers learn how to connect with people, resolve conflicts, and inspire cooperation. The book is a foundational guide for personal and professional success through better human relations.",
+  "description": "Dale Carnegie's classic book offers timeless advice on building relationships, communicating effectively, and positively influencing others. Through practical principles and real-life stories, Carnegie reveals the keys to winning people over, handling conflict, and becoming a better leader. The book emphasizes empathy, genuine interest, and respect for others as foundations for both personal and professional success. Its lessons remain relevant for anyone seeking to improve their social skills, persuasion abilities, and overall impact.",
   "modules": [
     {
       "id": "fundamental_techniques_in_handling_people",
       "title": "Fundamental Techniques in Handling People",
-      "goal": "Understand the basic principles for successful interactions and how to positively influence others.",
+      "goal": "Understand the essential principles for interacting positively with others.",
       "key_points": [
-        "Don't criticize, condemn, or complain about others.",
+        "Avoid criticizing, condemning, or complaining about others.",
         "Give honest and sincere appreciation to people.",
-        "Arouse in others an eager want, making them feel their needs are important."
+        "Arouse in others an eager want, focusing on their needs and desires."
       ]
     },
     {
-      "id": "six_ways_to_make_people_like_you",
+      "id": "ways_to_make_people_like_you",
       "title": "Six Ways to Make People Like You",
-      "goal": "Learn actionable techniques to build rapport and make lasting positive impressions.",
+      "goal": "Learn strategies to build rapport and genuine friendships.",
       "key_points": [
-        "Become genuinely interested in other people.",
-        "Smile to create a welcoming atmosphere.",
-        "Remember and use people\u2019s names.",
-        "Be a good listener and encourage others to talk about themselves."
+        "Show genuine interest in other people.",
+        "Smile and use positive body language.",
+        "Remember and use people's names.",
+        "Encourage others to talk about themselves and be a good listener."
       ]
     },
     {
-      "id": "win_people_to_your_way_of_thinking",
+      "id": "how_to_win_people_to_your_way_of_thinking",
       "title": "How to Win People to Your Way of Thinking",
-      "goal": "Develop persuasive communication skills to encourage agreement and cooperation.",
+      "goal": "Develop persuasive communication skills that foster cooperation.",
       "key_points": [
-        "Show respect for others\u2019 opinions and never say, 'You\u2019re wrong.'",
+        "Avoid arguments and show respect for others' opinions.",
         "If you are wrong, admit it quickly and emphatically.",
         "Begin conversations in a friendly way and get the other person saying 'yes' early.",
-        "Let the other person feel the idea is theirs."
+        "Let the other person feel that the idea is theirs."
       ]
     },
     {
-      "id": "be_a_leader_change_people_without_giving_offense",
+      "id": "be_a_leader_how_to_change_people_without_giving_offense_or_arousing_resentment",
       "title": "Be a Leader: How to Change People Without Giving Offense or Arousing Resentment",
-      "goal": "Master leadership strategies for guiding others\u2019 behavior while maintaining goodwill.",
+      "goal": "Master the art of influencing and guiding others constructively.",
       "key_points": [
         "Begin with praise and honest appreciation before addressing mistakes.",
-        "Call attention to errors indirectly and talk about your own mistakes first.",
+        "Call attention to mistakes indirectly and talk about your own errors first.",
         "Ask questions instead of giving direct orders.",
-        "Let others save face and encourage improvement with positive reinforcement."
+        "Let the other person save face and offer encouragement."
       ]
     }
   ]

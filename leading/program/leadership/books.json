@@ -46,7 +46,11 @@
       "summary": "Classic principles for building relationships and influencing people in a positive way.",
       "generative_title": "How to Win Friends and Influence People by Dale Carnegie",
       "info": "leadership_books/how_to_win_friends_and/how_to_win_friends_and_summary.json",
-      "strategies": "leadership_books/how_to_win_friends_and/how_to_win_friends_and_strategies.json"
+      "strategies": "leadership_books/how_to_win_friends_and/how_to_win_friends_and_strategies.json",
+      "studyPlan": {
+        "module_path": "leadership_books/how_to_win_friends_and/how_to_win_friends_and_modules.json",
+        "lesson_path": "leadership_books/how_to_win_friends_and/how_to_win_friends_and_lessons.json"
+      }
     },
     {
       "id": 15,
