@@ -1,0 +1,127 @@
+[
+  {
+    "id": 51,
+    "bookId": 1,
+    "title": "Building Trust",
+    "summary": "Foster vulnerability-based trust among team members to create a safe environment for open communication.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Without trust, team members are unwilling to be vulnerable, admit mistakes, or ask for help, which undermines collaboration and problem-solving."
+      },
+      {
+        "section": "Example",
+        "content": "A team member openly shares a recent mistake in a meeting, prompting others to offer support and solutions rather than criticism."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Encourage team members to share personal stories or challenges.",
+          "Model vulnerability by admitting your own mistakes as a leader.",
+          "Create regular opportunities for team-building activities.",
+          "Acknowledge and appreciate honesty and openness."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "bookId": 1,
+    "title": "Mastering Conflict",
+    "summary": "Promote healthy debate and constructive conflict to surface the best ideas and resolve issues quickly.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Avoiding conflict leads to artificial harmony and unresolved issues, while productive conflict encourages innovation and clarity."
+      },
+      {
+        "section": "Example",
+        "content": "During a project discussion, team members respectfully challenge each other's ideas, leading to a stronger final plan."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set ground rules for respectful disagreement.",
+          "Encourage all voices to be heard, especially quieter members.",
+          "Address issues directly rather than letting them fester.",
+          "Debrief after conflicts to reinforce positive behaviors."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "bookId": 1,
+    "title": "Achieving Commitment",
+    "summary": "Ensure all team members are clear on decisions and committed to agreed-upon actions, even if there is initial disagreement.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Lack of commitment leads to ambiguity and inconsistent follow-through, while clarity and buy-in drive coordinated action."
+      },
+      {
+        "section": "Example",
+        "content": "After a heated discussion, the team agrees on a course of action and each member publicly states their commitment to the plan."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Summarize decisions at the end of meetings.",
+          "Ask each member to voice their understanding and commitment.",
+          "Clarify roles and responsibilities for follow-up.",
+          "Encourage questions to address lingering doubts."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "bookId": 1,
+    "title": "Embracing Accountability",
+    "summary": "Hold yourself and others accountable for delivering on commitments and upholding team standards.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Without accountability, mediocrity and missed deadlines become acceptable, undermining team performance and trust."
+      },
+      {
+        "section": "Example",
+        "content": "A team member reminds a colleague about a missed deadline in a supportive way, prompting corrective action."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set clear expectations and deadlines.",
+          "Regularly review progress as a team.",
+          "Encourage peer-to-peer feedback.",
+          "Address missed commitments promptly and constructively."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "bookId": 1,
+    "title": "Focusing on Results",
+    "summary": "Keep the team focused on collective outcomes rather than individual goals or departmental interests.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "When team members prioritize personal success over team results, overall performance suffers and goals are missed."
+      },
+      {
+        "section": "Example",
+        "content": "The team celebrates achieving a shared sales target, recognizing contributions from all members rather than just top performers."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Define clear, measurable team goals.",
+          "Track progress publicly and regularly.",
+          "Reward team achievements over individual accomplishments.",
+          "Remind the team of the bigger picture and shared purpose."
+        ]
+      }
+    ]
+  }
+]

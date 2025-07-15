@@ -1,0 +1,87 @@
+{
+  "id": "emotional_intelligence_goleman",
+  "title": "Emotional Intelligence",
+  "description": "Emotional Intelligence by Daniel Goleman explores the crucial role emotions play in our lives and how emotional intelligence (EQ) can be more important than IQ for success and well-being. The book breaks down the five key components of EQ and examines their influence on relationships, work, and health. Goleman combines scientific research with real-world examples to illustrate how emotional skills can be learned and strengthened. The book offers a roadmap for personal growth, social effectiveness, and building emotionally healthy environments.",
+  "modules": [
+    {
+      "id": "introduction_to_emotional_intelligence",
+      "title": "Introduction to Emotional Intelligence",
+      "goal": "Understand what emotional intelligence is and why it matters.",
+      "key_points": [
+        "Defines emotional intelligence and distinguishes it from IQ.",
+        "Explains the importance of EQ in personal and professional success.",
+        "Describes how emotions influence decision-making and behavior."
+      ]
+    },
+    {
+      "id": "self_awareness",
+      "title": "Self-Awareness",
+      "goal": "Learn the value of recognizing and understanding your own emotions.",
+      "key_points": [
+        "Explains the concept of self-awareness as the foundation of EQ.",
+        "Describes strategies for identifying and naming emotions.",
+        "Highlights the benefits of self-awareness for growth and resilience."
+      ]
+    },
+    {
+      "id": "self_regulation",
+      "title": "Self-Regulation",
+      "goal": "Discover techniques to manage and control emotional responses.",
+      "key_points": [
+        "Defines self-regulation and its role in emotional intelligence.",
+        "Explores methods for handling anger, anxiety, and impulsive reactions.",
+        "Discusses the impact of self-control on health and relationships."
+      ]
+    },
+    {
+      "id": "motivation",
+      "title": "Motivation",
+      "goal": "Understand how emotional intelligence drives motivation and achievement.",
+      "key_points": [
+        "Explains the link between emotions and intrinsic motivation.",
+        "Describes how optimism and persistence contribute to reaching goals.",
+        "Illustrates strategies for cultivating positive motivation."
+      ]
+    },
+    {
+      "id": "empathy",
+      "title": "Empathy",
+      "goal": "Recognize and appreciate the emotions of others.",
+      "key_points": [
+        "Defines empathy as a key component of EQ.",
+        "Explores how understanding others\u2019 feelings improves communication.",
+        "Examines the role of empathy in conflict resolution and teamwork."
+      ]
+    },
+    {
+      "id": "social_skills",
+      "title": "Social Skills",
+      "goal": "Build and maintain healthy relationships through effective social skills.",
+      "key_points": [
+        "Explains the importance of social competence for success.",
+        "Describes skills such as active listening, collaboration, and persuasion.",
+        "Highlights how social skills foster leadership and cooperation."
+      ]
+    },
+    {
+      "id": "emotional_intelligence_in_practice",
+      "title": "Emotional Intelligence in Practice",
+      "goal": "Apply emotional intelligence concepts in daily life and work.",
+      "key_points": [
+        "Presents real-life examples of EQ in action.",
+        "Discusses strategies for integrating EQ skills into everyday situations.",
+        "Explores the benefits of emotionally intelligent cultures in organizations and communities."
+      ]
+    },
+    {
+      "id": "developing_emotional_intelligence",
+      "title": "Developing Emotional Intelligence",
+      "goal": "Learn how to strengthen and cultivate emotional intelligence over time.",
+      "key_points": [
+        "Offers practical exercises for building each EQ component.",
+        "Discusses the role of education and lifelong learning in EQ development.",
+        "Encourages personal reflection and feedback for continuous improvement."
+      ]
+    }
+  ]
+}

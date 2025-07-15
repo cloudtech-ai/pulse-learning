@@ -1,0 +1,52 @@
+{
+  "id": 5,
+  "title": "The Five Dysfunctions of a Team",
+  "description": "A leadership fable that explores the root causes of team dysfunction and provides a model for building a cohesive, effective team.",
+  "videoPreview": "Overcoming Team Dysfunctions",
+  "image": "https://openclipart.org/image/800px/30764",
+  "keyStrategies": [
+    {
+      "id": 51,
+      "title": "Building Trust",
+      "focused": true
+    },
+    {
+      "id": 52,
+      "title": "Mastering Conflict"
+    },
+    {
+      "id": 53,
+      "title": "Achieving Commitment"
+    },
+    {
+      "id": 54,
+      "title": "Embracing Accountability"
+    },
+    {
+      "id": 55,
+      "title": "Focusing on Results"
+    }
+  ],
+  "videos": [
+    {
+      "id": "75bO_XWk7fw",
+      "title": "The Five Dysfunctions of a Team – Overview"
+    },
+    {
+      "id": "UMVGmfmPQHE",
+      "title": "Building Trust in Teams"
+    },
+    {
+      "id": "lujO8QZJy98",
+      "title": "Achieving Commitment in Teams"
+    },
+    {
+      "id": "PqYIs60bsPk",
+      "title": "Embracing Accountability in Teams"
+    },
+    {
+      "id": "8bG5Z232I3Y",
+      "title": "Focusing on Results for Team Success"
+    }
+  ]
+}

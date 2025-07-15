@@ -57,21 +57,39 @@
       "title": "Emotional Intelligence",
       "author": "Daniel Goleman",
       "summary": "Explains the critical role of emotional intelligence in personal and professional success.",
-      "generative_title": "Emotional Intelligence by Daniel Goleman"
+      "generative_title": "Emotional Intelligence by Daniel Goleman",
+      "info": "leadership_books/emotional_intelligence_by_daniel_goleman/emotional_intelligence_by_daniel_goleman_summary.json",
+      "strategies": "leadership_books/emotional_intelligence_by_daniel_goleman/emotional_intelligence_by_daniel_goleman_strategies.json",
+      "studyPlan": {
+        "module_path": "leadership_books/emotional_intelligence_by_daniel_goleman/emotional_intelligence_by_daniel_goleman_modules.json",
+        "lesson_path": "leadership_books/emotional_intelligence_by_daniel_goleman/emotional_intelligence_by_daniel_goleman_lessons.json"
+      }
     },
     {
       "id": 16,
       "title": "The Five Dysfunctions of a Team",
       "author": "Patrick Lencioni",
       "summary": "Identifies common pitfalls teams face and provides actionable strategies for building cohesive teams.",
-      "generative_title": "The Five Dysfunctions of a Team by Patrick Lencioni"
+      "generative_title": "The Five Dysfunctions of a Team by Patrick Lencioni",
+      "info": "leadership_books/five_dysfunctions_of_a/five_dysfunctions_of_a_summary.json",
+      "strategies": "leadership_books/five_dysfunctions_of_a/five_dysfunctions_of_a_strategies.json",
+      "studyPlan": {
+        "module_path": "leadership_books/five_dysfunctions_of_a/five_dysfunctions_of_a_modules.json",
+        "lesson_path": "leadership_books/five_dysfunctions_of_a/five_dysfunctions_of_a_lessons.json"
+      }
     },
     {
       "id": 17,
       "title": "Decisive",
       "author": "Chip Heath & Dan Heath",
       "summary": "Offers a framework for making better choices and avoiding common decision-making traps.",
-      "generative_title": "Decisive by Chip Heath & Dan Heath"
+      "generative_title": "Decisive by Chip Heath & Dan Heath",
+      "info": "leadership_books/decisive_by_chip_heath_and/decisive_by_chip_heath_and_summary.json",
+      "strategies": "leadership_books/decisive_by_chip_heath_and/decisive_by_chip_heath_and_strategies.json",
+      "studyPlan": {
+        "module_path": "leadership_books/decisive_by_chip_heath_and/decisive_by_chip_heath_and_modules.json",
+        "lesson_path": "leadership_books/decisive_by_chip_heath_and/decisive_by_chip_heath_and_lessons.json"
+      }
     },
     {
       "id": 18,

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 51,
+    "bookId": 1,
+    "title": "Widen Your Options",
+    "summary": "Avoid narrow framing by generating more choices before making a decision.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "When we focus too narrowly on a single option, we miss out on better alternatives and creative solutions. Expanding options leads to more informed and effective decisions."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of asking, 'Should I take this job offer or not?', consider, 'What other roles or companies could I explore? Are there ways to negotiate this offer or create new opportunities?'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Ask yourself, 'What else could I do?' before deciding.",
+          "Consider the 'AND' option instead of 'OR'\u2014can you combine choices?",
+          "Seek input from others to uncover overlooked alternatives.",
+          "Imagine you can't choose your current options\u2014what would you do then?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "bookId": 1,
+    "title": "Reality-Test Your Assumptions",
+    "summary": "Challenge your beliefs and gather real-world evidence before committing to a decision.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "We often seek information that confirms our existing beliefs, leading to biased decisions. Testing assumptions helps uncover blind spots and reduces overconfidence."
+      },
+      {
+        "section": "Example",
+        "content": "If you assume a new product will succeed, talk to potential customers, run small experiments, or seek disconfirming evidence before investing heavily."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Ask, 'What would convince me that I'm wrong?'",
+          "Run small tests or pilots to gather data.",
+          "Seek out people with opposing viewpoints.",
+          "Use the 'vanishing options' test: If your current choice disappeared, what would you do?"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "bookId": 1,
+    "title": "Attain Distance Before Deciding",
+    "summary": "Step back emotionally and gain perspective to make more objective decisions.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Emotions and short-term pressures can cloud judgment. Gaining distance helps you focus on long-term goals and values."
+      },
+      {
+        "section": "Example",
+        "content": "When facing a tough personnel decision, ask yourself, 'What would I advise my best friend to do in this situation?'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Sleep on important decisions to reduce emotional bias.",
+          "Ask, 'What will I think about this choice in 10 minutes, 10 months, and 10 years?'",
+          "Imagine advising someone else in your situation.",
+          "Clarify your core priorities before deciding."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "bookId": 1,
+    "title": "Prepare to Be Wrong",
+    "summary": "Plan for possible failures and setbacks to increase resilience and adaptability.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "We tend to be overconfident about our predictions. Anticipating what could go wrong helps us create safeguards and respond effectively to surprises."
+      },
+      {
+        "section": "Example",
+        "content": "Before launching a new project, identify possible obstacles and create contingency plans for each."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Conduct a 'premortem': Imagine your decision failed\u2014why did it happen?",
+          "Set tripwires or checkpoints to monitor progress and trigger reassessment.",
+          "List possible risks and how you would respond.",
+          "Accept that mistakes are part of the process and plan to learn from them."
+        ]
+      }
+    ]
+  }
+]

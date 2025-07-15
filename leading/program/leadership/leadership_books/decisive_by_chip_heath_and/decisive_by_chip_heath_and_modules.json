@@ -1,0 +1,67 @@
+{
+  "id": "decisive_heath_brothers",
+  "title": "Decisive: How to Make Better Choices in Life and Work",
+  "description": "Decisive by Chip Heath and Dan Heath explores why humans often make poor decisions and offers a research-backed framework to improve decision-making. The book introduces the WRAP process\u2014Widen Your Options, Reality-Test Your Assumptions, Attain Distance Before Deciding, and Prepare to Be Wrong. Through engaging stories and practical tools, the Heath brothers help readers recognize and overcome common decision-making biases. The book empowers individuals and organizations to make smarter, more confident choices in both personal and professional contexts.",
+  "modules": [
+    {
+      "id": "introduction_and_the_four_villains",
+      "title": "Introduction & The Four Villains of Decision Making",
+      "goal": "Understand the common pitfalls that undermine good decisions and set the stage for the WRAP framework.",
+      "key_points": [
+        "Identifies four villains: narrow framing, confirmation bias, short-term emotion, and overconfidence.",
+        "Explains why traditional decision-making is often flawed.",
+        "Introduces the need for a systematic process to counteract these villains."
+      ]
+    },
+    {
+      "id": "widen_your_options",
+      "title": "Widen Your Options",
+      "goal": "Learn techniques to break out of narrow framing and generate better alternatives.",
+      "key_points": [
+        "People tend to limit choices and miss alternatives due to narrow framing.",
+        "Encourages using 'And' instead of 'Or' to expand choices.",
+        "Suggests considering opportunity cost and seeking outside perspectives."
+      ]
+    },
+    {
+      "id": "reality_test_your_assumptions",
+      "title": "Reality-Test Your Assumptions",
+      "goal": "Develop strategies to question assumptions and gather unbiased information.",
+      "key_points": [
+        "Describes confirmation bias and how it distorts information gathering.",
+        "Advocates for testing hypotheses with small experiments.",
+        "Recommends seeking disconfirming evidence and asking tough questions."
+      ]
+    },
+    {
+      "id": "attain_distance_before_deciding",
+      "title": "Attain Distance Before Deciding",
+      "goal": "Learn how to gain perspective and prevent short-term emotions from dominating decisions.",
+      "key_points": [
+        "Short-term emotions can cloud judgment and lead to impulsive decisions.",
+        "Promotes the '10/10/10 Rule' to consider long-term impacts.",
+        "Suggests using an outsider's perspective for objectivity."
+      ]
+    },
+    {
+      "id": "prepare_to_be_wrong",
+      "title": "Prepare to Be Wrong",
+      "goal": "Understand how to anticipate obstacles and create plans for dealing with uncertainty and mistakes.",
+      "key_points": [
+        "People are often overconfident in their predictions and plans.",
+        "Encourages setting tripwires and pre-committing to actions.",
+        "Promotes the use of premortems to envision and address possible failures."
+      ]
+    },
+    {
+      "id": "wrapping_up_applying_wrap",
+      "title": "Wrapping Up: Applying WRAP",
+      "goal": "Consolidate the WRAP process and learn how to apply it in real-world situations.",
+      "key_points": [
+        "Summarizes each step of the WRAP process and their interplay.",
+        "Offers practical tools and checklists for everyday decisions.",
+        "Highlights case studies and examples of successful implementation."
+      ]
+    }
+  ]
+}

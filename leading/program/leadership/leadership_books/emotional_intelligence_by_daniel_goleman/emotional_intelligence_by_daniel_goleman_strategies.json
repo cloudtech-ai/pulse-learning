@@ -1,0 +1,127 @@
+[
+  {
+    "id": 11,
+    "bookId": 1,
+    "title": "Self-Awareness",
+    "summary": "Recognize and understand your own emotions, strengths, weaknesses, values, and motives.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Self-awareness is the foundation of emotional intelligence. It allows you to accurately assess your feelings and how they influence your thoughts and behavior, leading to better decision-making and personal growth."
+      },
+      {
+        "section": "Example",
+        "content": "Noticing that you feel anxious before a big presentation helps you prepare coping strategies, rather than being blindsided by nerves."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Keep a daily journal to reflect on your emotions and triggers.",
+          "Pause and name your feelings in the moment.",
+          "Ask for feedback from trusted friends or colleagues.",
+          "Practice mindfulness meditation to increase present-moment awareness."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "bookId": 1,
+    "title": "Self-Regulation",
+    "summary": "Manage and control your emotions, impulses, and reactions in healthy and constructive ways.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Self-regulation helps you respond thoughtfully rather than react impulsively, reducing conflict and stress while building trust with others."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of snapping at a coworker when frustrated, you take a deep breath and calmly express your concerns."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Pause before responding when you feel strong emotions.",
+          "Use deep breathing or grounding techniques to calm down.",
+          "Reframe negative thoughts into more balanced perspectives.",
+          "Set clear intentions for how you want to act in challenging situations."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "bookId": 1,
+    "title": "Motivation",
+    "summary": "Harness your emotions to pursue goals with energy, persistence, and optimism.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Intrinsic motivation drives you to achieve goals for personal satisfaction, leading to greater fulfillment and resilience in the face of setbacks."
+      },
+      {
+        "section": "Example",
+        "content": "After failing an exam, you focus on your long-term goal of mastering the subject and create a new study plan instead of giving up."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set meaningful, achievable goals and track your progress.",
+          "Celebrate small wins to maintain momentum.",
+          "Visualize success and connect tasks to your core values.",
+          "Remind yourself of your purpose during challenging times."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "bookId": 1,
+    "title": "Empathy",
+    "summary": "Understand and share the feelings of others, recognizing their perspectives and emotional states.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Empathy strengthens relationships, improves communication, and fosters compassion, making it easier to resolve conflicts and support others."
+      },
+      {
+        "section": "Example",
+        "content": "You notice a friend is unusually quiet and ask if they\u2019re okay, listening attentively to their concerns."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Listen actively without interrupting or judging.",
+          "Pay attention to nonverbal cues like tone and body language.",
+          "Ask open-ended questions to understand others\u2019 experiences.",
+          "Imagine yourself in someone else\u2019s situation."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "bookId": 1,
+    "title": "Social Skills",
+    "summary": "Build and maintain healthy relationships, communicate effectively, and work well with others.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Strong social skills help you collaborate, resolve conflicts, and inspire others, contributing to personal and professional success."
+      },
+      {
+        "section": "Example",
+        "content": "You mediate a disagreement between team members by encouraging open dialogue and finding common ground."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Practice active listening and clear communication.",
+          "Give and receive constructive feedback.",
+          "Show appreciation and acknowledge others\u2019 contributions.",
+          "Work on conflict resolution and negotiation skills."
+        ]
+      }
+    ]
+  }
+]

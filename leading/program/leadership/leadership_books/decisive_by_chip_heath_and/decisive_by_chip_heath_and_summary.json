@@ -1,0 +1,52 @@
+{
+  "id": 5,
+  "title": "Decisive",
+  "description": "A guide to making better decisions by overcoming common biases and pitfalls. The book introduces a four-step process to improve decision-making: Widen Your Options, Reality-Test Your Assumptions, Attain Distance Before Deciding, and Prepare to Be Wrong.",
+  "videoPreview": "Making Better Decisions",
+  "image": "https://openclipart.org/image/800px/20764",
+  "keyStrategies": [
+    {
+      "id": 51,
+      "title": "Widen Your Options",
+      "focused": true
+    },
+    {
+      "id": 52,
+      "title": "Reality-Test Your Assumptions"
+    },
+    {
+      "id": 53,
+      "title": "Attain Distance Before Deciding"
+    },
+    {
+      "id": 54,
+      "title": "Prepare to Be Wrong"
+    }
+  ],
+  "videos": [
+    {
+      "id": "HngC6R4AjzA",
+      "title": "Decisive \u2013 Quick Overview of All Strategies"
+    },
+    {
+      "id": "puoddnGTAJk",
+      "title": "How to Make Better Decisions \u2013 Decisive Strategies"
+    },
+    {
+      "id": "cIXQOb4klUw",
+      "title": "Decisive Strategies: Widen Your Options"
+    },
+    {
+      "id": "pyI-a9BS-cU",
+      "title": "Decisive Strategies: Reality-Test Your Assumptions"
+    },
+    {
+      "id": "_FpM9ZgkYk4",
+      "title": "Decisive Strategies: Attain Distance Before Deciding"
+    },
+    {
+      "id": "5uIANt2_A8A",
+      "title": "Decisive Strategies: Prepare to Be Wrong"
+    }
+  ]
+}

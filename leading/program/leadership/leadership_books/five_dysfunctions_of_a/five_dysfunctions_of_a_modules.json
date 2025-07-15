@@ -1,0 +1,77 @@
+{
+  "id": "five_dysfunctions_of_a_team",
+  "title": "The Five Dysfunctions of a Team",
+  "description": "This book by Patrick Lencioni explores the common pitfalls that teams face in their journey towards effectiveness. Presented as a leadership fable, it identifies five core dysfunctions that hinder teamwork and offers practical solutions to overcome them. By understanding and addressing these dysfunctions, teams can build trust, foster commitment, embrace accountability, and achieve collective results. The book provides actionable insights for leaders and team members seeking to enhance collaboration and performance.",
+  "modules": [
+    {
+      "id": "introduction_and_model_overview",
+      "title": "Introduction & Model Overview",
+      "goal": "Understand the foundational concept of the five dysfunctions and why teamwork is critical to organizational success.",
+      "key_points": [
+        "Teamwork is the ultimate competitive advantage for organizations.",
+        "The five dysfunctions model provides a framework for diagnosing and addressing team-related problems.",
+        "Teams rarely master all five areas, but improvement is possible through focused effort."
+      ]
+    },
+    {
+      "id": "dysfunction_one_absence_of_trust",
+      "title": "Dysfunction 1: Absence of Trust",
+      "goal": "Recognize the importance of vulnerability-based trust and learn how its absence undermines teamwork.",
+      "key_points": [
+        "Lack of trust stems from team members\u2019 unwillingness to be vulnerable with one another.",
+        "Without trust, people conceal weaknesses, mistakes, and ask for help less often.",
+        "Building trust requires shared experiences, open dialogue, and genuine vulnerability."
+      ]
+    },
+    {
+      "id": "dysfunction_two_fear_of_conflict",
+      "title": "Dysfunction 2: Fear of Conflict",
+      "goal": "Identify how fear of conflict hampers healthy debate and decision-making within teams.",
+      "key_points": [
+        "Teams lacking trust are unable to engage in unfiltered, passionate debate about ideas.",
+        "Avoiding conflict leads to artificial harmony and unresolved issues.",
+        "Productive conflict is necessary for innovation, problem-solving, and team growth."
+      ]
+    },
+    {
+      "id": "dysfunction_three_lack_of_commitment",
+      "title": "Dysfunction 3: Lack of Commitment",
+      "goal": "Understand how a lack of clarity or buy-in prevents teams from making decisions and moving forward.",
+      "key_points": [
+        "Without healthy conflict, teams struggle to commit to decisions, even if everyone\u2019s opinions have been heard.",
+        "Ambiguity leads to lack of direction and reluctance to embrace group decisions.",
+        "Commitment requires clarity, buy-in, and clear communication of decisions."
+      ]
+    },
+    {
+      "id": "dysfunction_four_avoidance_of_accountability",
+      "title": "Dysfunction 4: Avoidance of Accountability",
+      "goal": "Learn why holding each other accountable is essential for high-performing teams.",
+      "key_points": [
+        "Teams that lack commitment often avoid holding peers accountable for behaviors and results.",
+        "Accountability is uncomfortable but vital for maintaining high standards.",
+        "Peer-to-peer accountability fosters respect, discipline, and improved performance."
+      ]
+    },
+    {
+      "id": "dysfunction_five_inattention_to_results",
+      "title": "Dysfunction 5: Inattention to Results",
+      "goal": "Recognize how prioritizing individual or departmental interests over collective results undermines team success.",
+      "key_points": [
+        "When accountability is lacking, team members may put personal goals ahead of team objectives.",
+        "Successful teams keep collective results as their primary focus.",
+        "Measuring progress and celebrating team achievements are crucial motivators."
+      ]
+    },
+    {
+      "id": "practical_application_and_overcoming_dysfunctions",
+      "title": "Practical Application & Overcoming Dysfunctions",
+      "goal": "Apply the five dysfunctions framework to real-world teams and develop strategies for overcoming them.",
+      "key_points": [
+        "Teams must intentionally work through each dysfunction, starting with trust.",
+        "Leaders play a critical role in modeling vulnerability and championing change.",
+        "Ongoing assessment and commitment to improvement are key to sustained team success."
+      ]
+    }
+  ]
+}

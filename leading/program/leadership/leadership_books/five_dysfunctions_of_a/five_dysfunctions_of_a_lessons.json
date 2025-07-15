@@ -1,0 +1,647 @@
+{
+  "introduction_and_model_overview": [
+    {
+      "id": "lesson_1_teamwork_advantage",
+      "title": "Why Teamwork is a Competitive Advantage",
+      "goal": "Recognize the unique value that effective teamwork brings to organizations.",
+      "keyConcept": "Teamwork is more than just collaboration\u2014it's a powerful advantage that can set organizations apart. When teams work well together, they solve problems faster, innovate more effectively, and achieve goals that individuals alone cannot. Organizations with strong teamwork outperform their competitors, making teamwork a critical factor for success.",
+      "example": "A company launches a new product ahead of schedule because its marketing, engineering, and sales teams communicate openly and support each other, leading to faster problem-solving and fewer delays.",
+      "practiceTip": "In your next team meeting, observe how your team collaborates. Identify one way you can encourage more open communication or support among team members.",
+      "reflectionPrompt": "How has effective or ineffective teamwork impacted your experience in past projects?",
+      "quizQuestion": {
+        "question": "Why is teamwork considered a competitive advantage for organizations?",
+        "options": [
+          "It allows teams to solve problems and innovate more effectively.",
+          "It reduces the need for leadership.",
+          "It eliminates all workplace conflicts."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_2_introducing_the_model",
+      "title": "Introducing the Five Dysfunctions Model",
+      "goal": "Familiarize yourself with the five dysfunctions framework for diagnosing team challenges.",
+      "keyConcept": "Patrick Lencioni\u2019s model identifies five common dysfunctions that hinder teams: absence of trust, fear of conflict, lack of commitment, avoidance of accountability, and inattention to results. Understanding these dysfunctions helps leaders pinpoint where their teams struggle and guides targeted improvement.",
+      "example": "A manager notices that team members rarely share honest feedback. By learning about the five dysfunctions, she realizes the team may lack trust, which is the foundation for addressing other issues.",
+      "practiceTip": "Review the five dysfunctions and reflect on which one might be most relevant to your current team.",
+      "reflectionPrompt": "Which of the five dysfunctions do you think is most present in your team, and why?",
+      "quizQuestion": {
+        "question": "Which of the following is NOT one of the five dysfunctions of a team?",
+        "options": [
+          "Absence of trust",
+          "Lack of resources",
+          "Fear of conflict"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_3_improvement_is_possible",
+      "title": "Improvement is a Journey, Not a Destination",
+      "goal": "Understand that mastering teamwork is an ongoing process and improvement is always possible.",
+      "keyConcept": "No team is perfect, and even high-performing teams face challenges in one or more of the five dysfunctions. The key is to recognize that improvement is a continuous journey. With focused effort and regular reflection, teams can make meaningful progress over time.",
+      "example": "A project team regularly reviews its performance and openly discusses setbacks, leading to gradual but steady improvements in trust and accountability.",
+      "practiceTip": "Schedule a regular team check-in to discuss what\u2019s working well and what could be improved, focusing on one dysfunction at a time.",
+      "reflectionPrompt": "What small step could you take this week to help your team improve in one area?",
+      "quizQuestion": {
+        "question": "What is the best approach to improving team performance according to the five dysfunctions model?",
+        "options": [
+          "Expecting immediate perfection",
+          "Continuous, focused effort and reflection",
+          "Ignoring dysfunctions and hoping they resolve themselves"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_4_self_assessment",
+      "title": "Assessing Your Team\u2019s Strengths and Weaknesses",
+      "goal": "Learn how to evaluate your team\u2019s current state using the five dysfunctions model.",
+      "keyConcept": "Self-assessment is the first step toward improvement. By honestly evaluating where your team stands on each dysfunction, you can prioritize areas for growth. This process requires openness and a willingness to address uncomfortable truths.",
+      "example": "A team leader uses a simple survey to ask team members how comfortable they feel sharing mistakes, helping identify a lack of trust as a key issue.",
+      "practiceTip": "Invite your team to anonymously rate how well you perform in each of the five dysfunction areas. Use the results to start a conversation about improvement.",
+      "reflectionPrompt": "Which dysfunction do you feel least comfortable discussing with your team, and what might be holding you back?",
+      "quizQuestion": {
+        "question": "What is the main benefit of assessing your team using the five dysfunctions model?",
+        "options": [
+          "To assign blame for problems",
+          "To identify and prioritize areas for improvement",
+          "To compare your team to others"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_5_commit_to_action",
+      "title": "Committing to Team Improvement",
+      "goal": "Develop a personal commitment to fostering better teamwork.",
+      "keyConcept": "Lasting change starts with commitment. As a leader, your willingness to address dysfunctions and model positive behaviors sets the tone for your team. By committing to ongoing learning and action, you inspire others to do the same.",
+      "example": "A team leader openly acknowledges past mistakes and shares a plan for building trust, encouraging others to participate in the improvement process.",
+      "practiceTip": "Share one area you want to improve with your team and ask for their support and feedback.",
+      "reflectionPrompt": "What is one commitment you can make today to help your team become more effective?",
+      "quizQuestion": {
+        "question": "What is a leader\u2019s most important role in improving team effectiveness?",
+        "options": [
+          "Modeling positive behaviors and committing to improvement",
+          "Avoiding difficult conversations",
+          "Delegating all responsibility to team members"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "dysfunction_one_absence_of_trust": [
+    {
+      "id": "lesson1_understanding_trust",
+      "title": "Understanding Trust in Teams",
+      "goal": "Recognize what vulnerability-based trust means and why it matters.",
+      "keyConcept": "Trust in teams goes beyond simply believing others will do their jobs; it\u2019s about feeling safe to be open and vulnerable. When team members trust each other, they can admit mistakes, ask for help, and share concerns without fear of judgment. This kind of trust is the foundation for effective teamwork and honest communication.",
+      "example": "In a project meeting, a team member admits they misunderstood a task and asks for clarification. Instead of criticism, the team offers support and guidance, strengthening their trust.",
+      "practiceTip": "Start your next team meeting by sharing a small personal challenge or mistake you\u2019ve faced recently. Invite others to do the same.",
+      "reflectionPrompt": "When was the last time you admitted a mistake to your team? How did they respond?",
+      "quizQuestion": {
+        "question": "What is vulnerability-based trust?",
+        "options": [
+          "Trusting that team members will complete their tasks on time.",
+          "Feeling safe to admit mistakes and ask for help.",
+          "Relying on formal rules and procedures."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_signs_of_absence_of_trust",
+      "title": "Spotting the Absence of Trust",
+      "goal": "Identify behaviors that signal a lack of trust within your team.",
+      "keyConcept": "When trust is missing, team members hide their weaknesses, avoid asking for help, and rarely admit mistakes. This leads to guarded communication, unresolved issues, and missed opportunities for collaboration. Recognizing these signs early allows leaders to address them before they undermine team performance.",
+      "example": "During a group discussion, no one volunteers when asked who needs assistance, even though deadlines are being missed and quality is slipping.",
+      "practiceTip": "Observe your team\u2019s next interaction. Note if people openly ask for help or admit when they\u2019re unsure about something.",
+      "reflectionPrompt": "What behaviors have you noticed in your team that might indicate a lack of trust?",
+      "quizQuestion": {
+        "question": "Which of the following is a sign of low trust in a team?",
+        "options": [
+          "Team members frequently ask each other for feedback.",
+          "Team members rarely admit when they need help.",
+          "Team members celebrate each other's successes."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_building_trust_with_vulnerability",
+      "title": "Building Trust Through Vulnerability",
+      "goal": "Learn how to foster trust by modeling vulnerability as a leader.",
+      "keyConcept": "Leaders set the tone for trust by being the first to show vulnerability. When you admit your own mistakes or uncertainties, you signal to others that it\u2019s safe to do the same. This encourages openness and helps break down barriers that prevent honest communication.",
+      "example": "A manager begins a meeting by sharing a recent error in judgment and what they learned from it, inviting others to share their own experiences.",
+      "practiceTip": "In your next team interaction, share something you\u2019re struggling with or a recent mistake, and ask for input or advice.",
+      "reflectionPrompt": "How comfortable are you with showing vulnerability to your team? What holds you back?",
+      "quizQuestion": {
+        "question": "What is one way a leader can build trust in their team?",
+        "options": [
+          "By always appearing perfect and in control.",
+          "By admitting their own mistakes and asking for help.",
+          "By avoiding personal topics in meetings."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_creating_shared_experiences",
+      "title": "Creating Shared Experiences",
+      "goal": "Understand how shared experiences help build trust among team members.",
+      "keyConcept": "Trust grows when team members spend time together and face challenges as a group. Shared experiences\u2014whether through team projects, problem-solving, or informal activities\u2014help people see each other\u2019s strengths and vulnerabilities, deepening their connection and trust.",
+      "example": "A team participates in a workshop where they solve a complex problem together, learning to rely on each other\u2019s skills and perspectives.",
+      "practiceTip": "Organize a team activity that requires collaboration, such as a brainstorming session or a group lunch, to encourage informal interactions.",
+      "reflectionPrompt": "What shared experiences has your team had recently? How did they impact your relationships?",
+      "quizQuestion": {
+        "question": "Why are shared experiences important for building trust?",
+        "options": [
+          "They help team members see each other's strengths and vulnerabilities.",
+          "They keep everyone busy.",
+          "They reduce the need for communication."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_encouraging_open_dialogue",
+      "title": "Encouraging Open Dialogue",
+      "goal": "Learn strategies to promote honest and open communication within your team.",
+      "keyConcept": "Open dialogue is essential for building and maintaining trust. When team members feel safe to speak up, share ideas, and express concerns, it leads to better problem-solving and stronger relationships. Leaders can encourage this by actively listening, asking open-ended questions, and responding with empathy.",
+      "example": "During a team meeting, the leader asks, 'What concerns do you have about our current project?' and listens attentively to each response.",
+      "practiceTip": "At your next meeting, ask an open-ended question and give everyone a chance to respond without interruption.",
+      "reflectionPrompt": "How do you react when someone shares a concern or criticism in your team? What could you do differently?",
+      "quizQuestion": {
+        "question": "What is a key behavior that encourages open dialogue?",
+        "options": [
+          "Interrupting to correct mistakes immediately.",
+          "Listening attentively and responding with empathy.",
+          "Avoiding difficult topics."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "dysfunction_two_fear_of_conflict": [
+    {
+      "id": "lesson1_understanding_conflict",
+      "title": "Understanding the Role of Conflict in Teams",
+      "goal": "Recognize why conflict is essential for team growth and decision-making.",
+      "keyConcept": "Conflict, when managed well, is a sign of a healthy team. It allows team members to express differing opinions, challenge ideas, and arrive at better solutions. Avoiding conflict may create a false sense of harmony, but it often leaves important issues unresolved and stifles innovation.",
+      "example": "In a team meeting, everyone agrees quickly with the manager\u2019s idea, but after the meeting, several members privately express concerns. Because they avoided open disagreement, the team misses out on valuable insights.",
+      "practiceTip": "Encourage open dialogue by inviting team members to share alternative viewpoints during discussions. Say, 'Does anyone see this differently?' to signal that disagreement is welcome.",
+      "reflectionPrompt": "Think of a time when you avoided a disagreement at work. What was the outcome, and how might open discussion have changed it?",
+      "quizQuestion": {
+        "question": "What is a common result of avoiding conflict in teams?",
+        "options": [
+          "Artificial harmony and unresolved issues",
+          "Faster decision-making",
+          "Increased trust among members"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_building_trust_for_conflict",
+      "title": "Building Trust to Enable Healthy Conflict",
+      "goal": "Learn how trust creates a foundation for open and productive conflict.",
+      "keyConcept": "Trust is the cornerstone of productive conflict. When team members trust each other, they feel safe to express honest opinions without fear of retaliation or embarrassment. Without trust, people hold back, and important issues remain unspoken.",
+      "example": "A project team that regularly shares feedback and admits mistakes is more likely to have open debates about project direction, leading to better outcomes.",
+      "practiceTip": "Foster trust by modeling vulnerability\u2014admit when you don\u2019t know something or when you\u2019ve made a mistake. This encourages others to do the same.",
+      "reflectionPrompt": "How comfortable do you feel sharing your honest opinions with your team? What could help increase that comfort?",
+      "quizQuestion": {
+        "question": "What is a key prerequisite for healthy conflict in teams?",
+        "options": [
+          "Strict rules",
+          "Trust among team members",
+          "A strong leader"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_identifying_artificial_harmony",
+      "title": "Spotting Artificial Harmony",
+      "goal": "Identify signs that your team may be avoiding necessary conflict.",
+      "keyConcept": "Artificial harmony occurs when teams appear to agree on the surface but avoid addressing real disagreements. This can lead to frustration, lack of engagement, and poor decision-making because underlying issues are never resolved.",
+      "example": "During meetings, everyone nods in agreement, but after the meeting, side conversations reveal that several people have concerns they didn\u2019t voice.",
+      "practiceTip": "Pay attention to signs like lack of debate, quick consensus, or frequent side conversations. Ask directly, 'Is there anything we\u2019re not saying that should be discussed?'",
+      "reflectionPrompt": "Have you noticed situations where your team seemed to agree too easily? What might have been left unsaid?",
+      "quizQuestion": {
+        "question": "Which of the following is a sign of artificial harmony?",
+        "options": [
+          "Open debate during meetings",
+          "Everyone quickly agreeing without discussion",
+          "Team members challenging each other's ideas"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_encouraging_productive_conflict",
+      "title": "Encouraging Productive Conflict",
+      "goal": "Practice techniques to foster healthy debate and disagreement.",
+      "keyConcept": "Productive conflict means debating ideas passionately while maintaining respect for each other. It\u2019s not about personal attacks, but about challenging assumptions and exploring alternatives to reach the best decision.",
+      "example": "A team leader sets ground rules for discussions, such as focusing on ideas, not individuals, and encourages everyone to play 'devil\u2019s advocate' at least once per meeting.",
+      "practiceTip": "Set a positive tone by thanking team members for voicing different opinions. Use phrases like, 'I appreciate your perspective\u2014let\u2019s explore that further.'",
+      "reflectionPrompt": "How can you make it safer for your team to disagree openly? What ground rules or behaviors could help?",
+      "quizQuestion": {
+        "question": "What is a characteristic of productive conflict?",
+        "options": [
+          "Personal criticism",
+          "Respectful debate of ideas",
+          "Avoiding disagreement"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_addressing_conflict_avoidance",
+      "title": "Addressing Conflict Avoidance in Yourself",
+      "goal": "Reflect on your own comfort with conflict and take steps to engage more openly.",
+      "keyConcept": "Leaders set the tone for how conflict is handled. If you avoid conflict, your team will likely do the same. By recognizing your own tendencies and practicing open disagreement, you model the behavior you want to see.",
+      "example": "A manager who notices their reluctance to challenge a team member\u2019s idea decides to voice their concerns constructively in the next meeting, leading to a more robust discussion.",
+      "practiceTip": "Before your next team discussion, identify one area where you have a different opinion. Practice sharing it respectfully, focusing on the issue, not the person.",
+      "reflectionPrompt": "What holds you back from engaging in conflict? What is one small step you can take to become more comfortable with healthy disagreement?",
+      "quizQuestion": {
+        "question": "What is one way leaders can encourage healthy conflict?",
+        "options": [
+          "Model open disagreement themselves",
+          "Avoid sharing their own opinions",
+          "Discourage debate to keep meetings short"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "dysfunction_three_lack_of_commitment": [
+    {
+      "id": "lesson1_value_of_commitment",
+      "title": "Why Commitment Matters in Teams",
+      "goal": "Recognize the importance of commitment for team effectiveness.",
+      "keyConcept": "Commitment in teams means that everyone is aligned and willing to support group decisions, even if there are disagreements. Without commitment, teams can become stagnant, miss deadlines, or fail to achieve goals. True commitment is not about consensus, but about clarity and buy-in from all members.",
+      "example": "A project team debates two approaches to a problem. After discussion, the leader summarizes the decision and asks everyone to support it, even if it wasn\u2019t their first choice. The team moves forward confidently, knowing the direction is clear.",
+      "practiceTip": "After a team decision, clearly restate the chosen path and ask each member to verbally agree to support it.",
+      "reflectionPrompt": "Think of a time when your team struggled to move forward. Was lack of commitment a factor?",
+      "quizQuestion": {
+        "question": "What is the main benefit of team commitment?",
+        "options": [
+          "Everyone always agrees with the decision.",
+          "The team moves forward with clarity and purpose.",
+          "Decisions are delayed until everyone is happy."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_healthy_conflict_and_commitment",
+      "title": "The Link Between Healthy Conflict and Commitment",
+      "goal": "Understand how open debate leads to stronger commitment.",
+      "keyConcept": "Teams that avoid conflict often fail to fully explore ideas, leading to weak commitment. When team members feel heard and can express differing opinions, they are more likely to support the final decision, even if it\u2019s not their preferred choice.",
+      "example": "During a meeting, two team members disagree on a strategy. The leader encourages respectful debate, ensuring all viewpoints are considered. After the discussion, the team agrees on a direction, and everyone commits to it.",
+      "practiceTip": "Encourage open discussion by asking, 'Does anyone have a different perspective we haven\u2019t considered yet?'",
+      "reflectionPrompt": "How comfortable are you with encouraging debate in your team? What could you do to make it safer for others to speak up?",
+      "quizQuestion": {
+        "question": "What is a positive outcome of healthy conflict in teams?",
+        "options": [
+          "It leads to personal arguments.",
+          "It helps everyone feel heard and increases commitment.",
+          "It wastes meeting time."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_clarity_drives_commitment",
+      "title": "Clarity Drives Commitment",
+      "goal": "Learn how clear decisions foster team commitment.",
+      "keyConcept": "Ambiguity about decisions or next steps undermines commitment. Teams need to know exactly what has been decided, who is responsible, and what the expectations are. Clarity removes confusion and helps everyone move in the same direction.",
+      "example": "After a planning session, the team leader summarizes the key decisions and assigns clear action items to each member, ensuring everyone knows their role.",
+      "practiceTip": "At the end of each meeting, review decisions and action items out loud to confirm everyone\u2019s understanding.",
+      "reflectionPrompt": "Do you always leave meetings knowing exactly what was decided and what your responsibilities are?",
+      "quizQuestion": {
+        "question": "What is a sign of lack of clarity in a team?",
+        "options": [
+          "Everyone knows their tasks.",
+          "Team members are unsure about next steps.",
+          "Decisions are summarized at the end."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_buy_in_even_without_consensus",
+      "title": "Gaining Buy-In Without Consensus",
+      "goal": "Discover how to achieve buy-in even when not everyone agrees.",
+      "keyConcept": "Buy-in means team members support a decision, even if it wasn\u2019t their first choice. Leaders can foster buy-in by ensuring everyone\u2019s opinions are heard and explaining the rationale behind decisions. This helps team members feel respected and more willing to commit.",
+      "example": "A team votes on a new process. Some members have reservations, but after discussing concerns and hearing the reasoning, they agree to support the group\u2019s choice.",
+      "practiceTip": "When making a decision, acknowledge differing opinions and explain why the final choice was made.",
+      "reflectionPrompt": "How do you respond when a team decision doesn\u2019t go your way? What helps you support the group\u2019s direction?",
+      "quizQuestion": {
+        "question": "What does buy-in mean in a team context?",
+        "options": [
+          "Everyone agrees with the decision.",
+          "Everyone supports the decision, even if they disagreed initially.",
+          "No one voices their opinions."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_communicating_decisions_clearly",
+      "title": "Communicating Decisions Clearly",
+      "goal": "Practice clear communication to reinforce commitment.",
+      "keyConcept": "Once a decision is made, it\u2019s crucial to communicate it clearly to the whole team. This includes what was decided, why, and what the next steps are. Clear communication prevents misunderstandings and ensures everyone is on the same page.",
+      "example": "After a strategy meeting, the leader sends a follow-up email summarizing the decision, the reasons behind it, and each person\u2019s responsibilities.",
+      "practiceTip": "After important decisions, send a written summary to all team members outlining the decision, rationale, and action items.",
+      "reflectionPrompt": "How do you usually communicate decisions to your team? Could you make your communication clearer?",
+      "quizQuestion": {
+        "question": "What is a good way to ensure everyone understands a team decision?",
+        "options": [
+          "Assume everyone remembers the meeting details.",
+          "Send a summary with decisions and next steps.",
+          "Let team members figure it out themselves."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "dysfunction_four_avoidance_of_accountability": [
+    {
+      "id": "lesson_1_understanding_accountability",
+      "title": "Understanding Accountability in Teams",
+      "goal": "Recognize why accountability is crucial for team success.",
+      "keyConcept": "Accountability means team members are willing to call out unproductive behaviors and ensure everyone meets agreed-upon standards. Without accountability, teams may tolerate mediocrity, leading to missed goals and frustration. High-performing teams embrace accountability as a way to maintain trust and drive results.",
+      "example": "In a project team, one member consistently misses deadlines. If no one addresses this, others may also start missing deadlines, and the team's performance suffers.",
+      "practiceTip": "Start by observing your team's current approach to accountability. Notice if issues are addressed directly or ignored.",
+      "reflectionPrompt": "How does your team currently handle missed commitments or poor performance?",
+      "quizQuestion": {
+        "question": "Why is accountability important for teams?",
+        "options": [
+          "It helps maintain high standards and trust.",
+          "It makes meetings shorter.",
+          "It reduces the need for communication."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_2_peer_to_peer_accountability",
+      "title": "Embracing Peer-to-Peer Accountability",
+      "goal": "Learn how peer-to-peer accountability strengthens teams.",
+      "keyConcept": "Accountability is most effective when it comes from peers, not just leaders. When team members hold each other accountable, it creates a culture of mutual respect and shared responsibility. This approach reduces dependency on the leader and empowers everyone to contribute to the team's standards.",
+      "example": "During a team meeting, a colleague gently reminds another about a missed action item, reinforcing that everyone is responsible for the team's success.",
+      "practiceTip": "Encourage team members to give each other feedback on commitments and behaviors, not just rely on the leader to do so.",
+      "reflectionPrompt": "When was the last time you held a peer accountable, or a peer held you accountable? How did it feel?",
+      "quizQuestion": {
+        "question": "Who should ideally hold team members accountable?",
+        "options": [
+          "Only the team leader",
+          "Peers within the team",
+          "External consultants"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_3_overcoming_discomfort",
+      "title": "Overcoming the Discomfort of Accountability",
+      "goal": "Develop strategies to address the discomfort of holding others accountable.",
+      "keyConcept": "Many people avoid accountability conversations because they fear conflict or damaging relationships. However, avoiding these conversations can harm the team more in the long run. Learning to approach accountability with empathy and clarity can make these discussions less intimidating and more productive.",
+      "example": "A team member hesitates to mention a colleague's repeated tardiness, worrying it might cause tension. Instead, they frame the conversation around the team's shared goals and the impact of punctuality.",
+      "practiceTip": "Use 'I' statements and focus on the impact of behaviors, e.g., 'I noticed the report was late, which made it hard for us to meet our deadline.'",
+      "reflectionPrompt": "What makes you hesitant to hold others accountable, and how can you address those concerns?",
+      "quizQuestion": {
+        "question": "What is a helpful way to approach accountability conversations?",
+        "options": [
+          "Focus on the person's character",
+          "Use 'I' statements and discuss the impact",
+          "Avoid the conversation to keep peace"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_4_setting_clear_expectations",
+      "title": "Setting Clear Expectations for Accountability",
+      "goal": "Learn how clear expectations make accountability easier.",
+      "keyConcept": "Accountability is only possible when everyone knows what is expected of them. Clear, specific goals and standards provide a reference point for holding each other accountable. When expectations are vague, it becomes difficult to address issues or measure performance.",
+      "example": "A team agrees that all project updates must be submitted by Friday noon. When someone misses the deadline, it's easy to point to the agreed-upon expectation.",
+      "practiceTip": "At the start of each project or meeting, clarify roles, responsibilities, and deadlines. Document them for reference.",
+      "reflectionPrompt": "Are your team's expectations and standards clear to everyone? How could they be clarified?",
+      "quizQuestion": {
+        "question": "Why are clear expectations important for accountability?",
+        "options": [
+          "They make it easier to address issues objectively.",
+          "They allow more flexibility.",
+          "They reduce the need for feedback."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_5_following_up_consistently",
+      "title": "Following Up and Reinforcing Accountability",
+      "goal": "Understand the importance of consistent follow-up in maintaining accountability.",
+      "keyConcept": "Accountability is not a one-time event but an ongoing process. Regular follow-up ensures commitments are met and signals that standards matter. Consistent reinforcement helps build a culture where accountability is expected and valued.",
+      "example": "After assigning tasks in a meeting, the team leader checks in the following week to review progress and address any obstacles.",
+      "practiceTip": "Schedule regular check-ins to review commitments and celebrate follow-through. Address missed commitments promptly and constructively.",
+      "reflectionPrompt": "How often do you or your team follow up on commitments? What could you do to make follow-up more consistent?",
+      "quizQuestion": {
+        "question": "What is a key element of sustaining accountability?",
+        "options": [
+          "Ignoring missed commitments",
+          "Consistent follow-up and feedback",
+          "Letting team members self-manage without check-ins"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "dysfunction_five_inattention_to_results": [
+    {
+      "id": "lesson1_collective_results_focus",
+      "title": "Prioritizing Collective Results",
+      "goal": "Understand why keeping team results as the main focus is essential for success.",
+      "keyConcept": "When team members focus on collective results rather than individual achievements, the team is more likely to succeed. Prioritizing the team's goals ensures that everyone works together and supports one another, rather than competing or acting in isolation. This shared commitment creates a sense of unity and purpose.",
+      "example": "A sales team that celebrates only the top individual performer may see others lose motivation or focus on personal quotas. However, when the team celebrates reaching a group sales target, everyone feels invested in helping each other succeed.",
+      "practiceTip": "At your next team meeting, ask everyone to share one way their work contributes to the team's overall goal. Reinforce the importance of the team's shared objectives.",
+      "reflectionPrompt": "How often do you think about your team's collective results compared to your personal achievements?",
+      "quizQuestion": {
+        "question": "What is the main benefit of focusing on collective results?",
+        "options": [
+          "It encourages healthy competition among team members.",
+          "It unites the team around a common goal.",
+          "It allows individuals to prioritize their own interests."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_identifying_personal_agendas",
+      "title": "Spotting Personal Agendas",
+      "goal": "Learn to recognize when personal or departmental interests are taking priority over team results.",
+      "keyConcept": "Personal agendas can subtly undermine team performance when individuals or departments prioritize their own goals over the team's objectives. Recognizing these behaviors early allows leaders to address them and realign the team\u2019s focus.",
+      "example": "During a project, a department insists on using its preferred software, even though it complicates collaboration for the rest of the team. This slows progress and creates frustration.",
+      "practiceTip": "Pay attention to discussions where team members defend their own interests. Gently ask, 'How does this help us achieve our team goal?' to refocus the conversation.",
+      "reflectionPrompt": "Can you recall a time when personal interests conflicted with your team's goals? How was it handled?",
+      "quizQuestion": {
+        "question": "What is a sign that personal agendas are interfering with team results?",
+        "options": [
+          "Team members frequently discuss how their work supports the team goal.",
+          "Departments insist on their own way, even if it hinders others.",
+          "The team regularly celebrates group achievements."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_measuring_team_progress",
+      "title": "Tracking Team Progress",
+      "goal": "Discover how measuring progress keeps the team motivated and focused on results.",
+      "keyConcept": "Regularly tracking and sharing progress toward team goals helps maintain focus and accountability. When everyone can see how the team is doing, it encourages continued effort and highlights areas needing attention.",
+      "example": "A product development team uses a shared dashboard to track milestones. When progress stalls, the team discusses solutions together, keeping everyone engaged and accountable.",
+      "practiceTip": "Implement a simple visual tracker (like a chart or dashboard) that shows your team's progress toward its main goal. Review it together at regular intervals.",
+      "reflectionPrompt": "How does your team currently track progress? What could make it more visible or engaging?",
+      "quizQuestion": {
+        "question": "Why is it important to measure team progress?",
+        "options": [
+          "To identify and celebrate individual achievements.",
+          "To keep the team focused and motivated toward shared goals.",
+          "To create competition within the team."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_celebrating_team_achievements",
+      "title": "Celebrating Team Achievements",
+      "goal": "Learn how celebrating team wins reinforces a results-oriented culture.",
+      "keyConcept": "Acknowledging and celebrating team achievements boosts morale and reinforces the value of working together. It reminds everyone that collective success is the ultimate goal, not just individual accomplishments.",
+      "example": "After completing a challenging project, a manager organizes a team lunch to thank everyone for their contributions, highlighting how each person helped achieve the result.",
+      "practiceTip": "After reaching a milestone, take time to publicly recognize the team's effort. Share specific examples of collaboration that led to success.",
+      "reflectionPrompt": "When was the last time your team celebrated a win together? How did it affect team spirit?",
+      "quizQuestion": {
+        "question": "What is the main purpose of celebrating team achievements?",
+        "options": [
+          "To reward only the highest performers.",
+          "To reinforce the importance of collective results.",
+          "To increase individual competition."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_maintaining_accountability",
+      "title": "Maintaining Accountability for Results",
+      "goal": "Understand how accountability supports a focus on team results.",
+      "keyConcept": "When team members hold each other accountable for contributing to shared goals, it prevents individuals from drifting toward personal interests. Accountability ensures that everyone remains committed to the team\u2019s success.",
+      "example": "In a weekly check-in, team members review their commitments and discuss any obstacles. If someone falls behind, others offer support and solutions, keeping everyone aligned.",
+      "practiceTip": "Set up regular check-ins where team members report on their progress toward team goals. Encourage open, supportive feedback.",
+      "reflectionPrompt": "How comfortable are you holding others accountable for team results? What could help you improve?",
+      "quizQuestion": {
+        "question": "How does accountability help teams stay focused on results?",
+        "options": [
+          "It encourages team members to focus only on their own tasks.",
+          "It helps ensure everyone is contributing to shared goals.",
+          "It reduces the need for team communication."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "practical_application_and_overcoming_dysfunctions": [
+    {
+      "id": "lesson_1_building_trust",
+      "title": "Building Trust Through Vulnerability",
+      "goal": "Understand how to foster trust within your team by modeling vulnerability.",
+      "keyConcept": "Trust is the foundation of a cohesive team. As a leader, demonstrating vulnerability\u2014such as admitting mistakes or asking for help\u2014encourages team members to do the same. This openness creates a safe environment where people feel comfortable sharing ideas and concerns, which is essential for effective teamwork.",
+      "example": "During a team meeting, a leader shares a recent mistake and what they learned from it. This openness prompts others to share their own challenges, leading to a more honest and supportive team culture.",
+      "practiceTip": "In your next team interaction, openly acknowledge something you\u2019re working to improve or a recent error you made. Invite others to share their experiences as well.",
+      "reflectionPrompt": "When was the last time you admitted a mistake to your team? How did it affect the team dynamic?",
+      "quizQuestion": {
+        "question": "What is the most effective way for a leader to build trust within a team?",
+        "options": [
+          "By modeling vulnerability and openness",
+          "By always having the right answers",
+          "By avoiding discussions about mistakes"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_2_encouraging_constructive_conflict",
+      "title": "Encouraging Constructive Conflict",
+      "goal": "Learn how to promote healthy debate and open dialogue in your team.",
+      "keyConcept": "Teams that trust each other are more willing to engage in constructive conflict. Healthy debate allows teams to surface different perspectives, leading to better decisions. Leaders should encourage respectful disagreement and ensure all voices are heard, rather than suppressing conflict.",
+      "example": "A project team disagrees on the best approach to a problem. The leader facilitates a structured discussion where each member presents their viewpoint, resulting in a well-considered solution.",
+      "practiceTip": "At your next meeting, ask for opinions that differ from your own and thank team members for sharing alternative viewpoints.",
+      "reflectionPrompt": "How do you currently handle disagreements in your team? What could you do to make conflict more productive?",
+      "quizQuestion": {
+        "question": "Why is constructive conflict important for teams?",
+        "options": [
+          "It helps avoid difficult conversations",
+          "It leads to better decisions through diverse perspectives",
+          "It creates unnecessary tension",
+          "It wastes time"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_3_driving_commitment",
+      "title": "Driving Commitment Through Clarity",
+      "goal": "Discover how to foster team commitment by ensuring clarity and buy-in.",
+      "keyConcept": "Commitment comes when everyone understands and agrees on decisions, even if there is initial disagreement. Leaders must ensure that all team members are clear about goals, roles, and next steps, and that everyone has had a chance to voice their opinion before moving forward.",
+      "example": "After a heated discussion, the leader summarizes the agreed-upon plan and asks each team member to confirm their understanding and commitment to the next steps.",
+      "practiceTip": "At the end of each meeting, recap decisions and ask each person to state their commitment to the agreed actions.",
+      "reflectionPrompt": "Do all team members leave meetings knowing exactly what was decided and what is expected of them?",
+      "quizQuestion": {
+        "question": "What is a key factor in achieving team commitment?",
+        "options": [
+          "Ensuring everyone agrees silently",
+          "Clarifying decisions and next steps for all",
+          "Moving on quickly after a decision"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_4_accountability_in_action",
+      "title": "Accountability in Action",
+      "goal": "Learn how to create a culture of accountability within your team.",
+      "keyConcept": "Teams that are committed to decisions are more likely to hold each other accountable. Leaders should set clear expectations and encourage team members to remind each other of commitments. Peer-to-peer accountability is more effective than relying solely on the leader.",
+      "example": "A team member reminds a colleague about a missed deadline in a supportive way, and the leader thanks them for upholding the team\u2019s standards.",
+      "practiceTip": "Encourage your team to check in with each other about progress on shared goals, and publicly recognize when someone holds a peer accountable.",
+      "reflectionPrompt": "How comfortable are team members with holding each other accountable? What could you do to make this easier?",
+      "quizQuestion": {
+        "question": "Who should be responsible for holding team members accountable?",
+        "options": [
+          "Only the team leader",
+          "Everyone on the team",
+          "No one, to avoid conflict"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_5_focusing_on_results",
+      "title": "Focusing on Collective Results",
+      "goal": "Understand how to keep the team focused on shared goals and outcomes.",
+      "keyConcept": "The ultimate goal of overcoming team dysfunctions is to achieve collective results. Leaders must keep the team\u2019s focus on shared objectives, rather than individual agendas or departmental goals. Celebrating team achievements reinforces the importance of working together for common success.",
+      "example": "Instead of rewarding only individual performance, a manager highlights the team\u2019s achievement in reaching a sales target and celebrates everyone\u2019s contribution.",
+      "practiceTip": "Set clear, measurable team goals and regularly review progress together. Celebrate wins as a group, not just individual accomplishments.",
+      "reflectionPrompt": "Are your team\u2019s goals truly shared, or do individuals focus more on personal achievements?",
+      "quizQuestion": {
+        "question": "What is the primary focus of a high-performing team?",
+        "options": [
+          "Individual recognition",
+          "Collective results",
+          "Avoiding mistakes"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ]
+}

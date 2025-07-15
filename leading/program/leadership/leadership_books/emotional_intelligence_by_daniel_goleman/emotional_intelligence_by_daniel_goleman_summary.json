@@ -1,0 +1,56 @@
+{
+  "id": 1,
+  "title": "Emotional Intelligence",
+  "description": "Exploration of how emotional intelligence can be more important than IQ in determining success in life, focusing on self-awareness, self-regulation, motivation, empathy, and social skills.",
+  "videoPreview": "Understanding Emotional Intelligence",
+  "image": "https://example.com/emotional-intelligence-image",
+  "keyStrategies": [
+    {
+      "id": 11,
+      "title": "Self-Awareness",
+      "focused": true
+    },
+    {
+      "id": 12,
+      "title": "Self-Regulation"
+    },
+    {
+      "id": 13,
+      "title": "Motivation"
+    },
+    {
+      "id": 14,
+      "title": "Empathy"
+    },
+    {
+      "id": 15,
+      "title": "Social Skills"
+    }
+  ],
+  "videos": [
+    {
+      "id": "8C7mtw-a2j4",
+      "title": "Introduction to Emotional Intelligence"
+    },
+    {
+      "id": "f7TwnENunmI",
+      "title": "The Importance of Self-Awareness"
+    },
+    {
+      "id": "va1r9mDTdJo",
+      "title": "How to Improve Self-Regulation"
+    },
+    {
+      "id": "tCd1km5yID8",
+      "title": "Harnessing Motivation for Success"
+    },
+    {
+      "id": "X8CJUvwq8Og",
+      "title": "Developing Empathy in Relationships"
+    },
+    {
+      "id": "zWIXm1vwLFQ",
+      "title": "Building Strong Social Skills"
+    }
+  ]
+}

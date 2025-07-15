@@ -1,0 +1,554 @@
+{
+  "introduction_and_the_four_villains": [
+    {
+      "id": "lesson_1_understanding_decision_villains",
+      "title": "Meet the Four Villains of Decision Making",
+      "goal": "Identify and describe the four common pitfalls that undermine good decisions.",
+      "keyConcept": "Most poor decisions can be traced back to four key pitfalls: narrow framing (focusing too narrowly on one option), confirmation bias (seeking information that supports what we already believe), short-term emotion (letting immediate feelings cloud judgment), and overconfidence (overestimating our knowledge or ability to predict outcomes). Recognizing these villains is the first step to overcoming them.",
+      "example": "A manager needs to hire a new team member and only considers internal candidates (narrow framing), seeks feedback that supports her favorite candidate (confirmation bias), feels pressured to decide quickly after a stressful meeting (short-term emotion), and assumes she can predict how the new hire will perform (overconfidence).",
+      "practiceTip": "Before making your next important decision, pause and ask yourself: Am I falling into any of these four traps?",
+      "reflectionPrompt": "Which of the four villains do you most often encounter in your own decision-making?",
+      "quizQuestion": {
+        "question": "Which of the following is NOT one of the four villains of decision making?",
+        "options": [
+          "Narrow framing",
+          "Short-term emotion",
+          "Groupthink"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "lesson_2_narrow_framing",
+      "title": "Widen Your Options: Avoid Narrow Framing",
+      "goal": "Learn how to avoid making decisions with too few options.",
+      "keyConcept": "Narrow framing occurs when we see our choices too narrowly, often as a simple 'yes or no' or 'either/or' decision. This limits creativity and can cause us to miss better alternatives. Expanding your options leads to more thoughtful and effective decisions.",
+      "example": "Instead of asking, 'Should I promote Alex to team lead?', a leader asks, 'What are all the ways I could strengthen my team\u2019s leadership?'",
+      "practiceTip": "When facing a decision, challenge yourself to generate at least one additional option before choosing.",
+      "reflectionPrompt": "Think of a recent decision\u2014did you consider more than two options? How might the outcome have changed if you had?",
+      "quizQuestion": {
+        "question": "What is a simple way to avoid narrow framing?",
+        "options": [
+          "Consider at least one more option before deciding",
+          "Make decisions quickly",
+          "Rely on your first instinct"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_3_confirmation_bias",
+      "title": "Seek Disconfirming Evidence: Tackle Confirmation Bias",
+      "goal": "Understand how to counteract the tendency to seek only supporting information.",
+      "keyConcept": "Confirmation bias leads us to favor information that supports our existing beliefs and ignore or downplay evidence that contradicts them. This can result in poor decisions and missed warning signs. Actively seeking out opposing viewpoints helps ensure a more balanced perspective.",
+      "example": "A leader believes a new project will succeed and only asks team members who are enthusiastic about it, missing concerns from others who see potential problems.",
+      "practiceTip": "Before finalizing a decision, ask someone you trust to play 'devil\u2019s advocate' and challenge your assumptions.",
+      "reflectionPrompt": "When was the last time you actively sought out information that contradicted your initial opinion?",
+      "quizQuestion": {
+        "question": "What is a practical way to reduce confirmation bias?",
+        "options": [
+          "Ask for feedback only from supporters",
+          "Invite someone to challenge your thinking",
+          "Ignore negative feedback"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_4_short_term_emotion",
+      "title": "Pause for Perspective: Manage Short-Term Emotion",
+      "goal": "Learn to prevent temporary feelings from hijacking your decisions.",
+      "keyConcept": "Short-term emotions\u2014like excitement, fear, or frustration\u2014can cloud our judgment and lead to impulsive decisions. Taking time to let emotions settle allows for clearer thinking and better choices.",
+      "example": "After a heated disagreement, a leader feels angry and considers firing a team member on the spot. By waiting a day, she gains perspective and chooses a more constructive approach.",
+      "practiceTip": "If you feel emotional about a decision, give yourself at least 24 hours before acting.",
+      "reflectionPrompt": "Can you recall a time when waiting before deciding led to a better outcome?",
+      "quizQuestion": {
+        "question": "What is a recommended strategy for managing short-term emotion in decision making?",
+        "options": [
+          "Make the decision immediately",
+          "Delay the decision to gain perspective",
+          "Ignore your feelings"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_5_overconfidence",
+      "title": "Reality-Check Your Assumptions: Guard Against Overconfidence",
+      "goal": "Recognize and reduce overconfidence in your decision-making.",
+      "keyConcept": "Overconfidence makes us believe we know more than we do or can predict the future accurately. This can lead to risky decisions and missed warning signs. Testing your assumptions and considering what could go wrong helps you make more realistic choices.",
+      "example": "A leader is certain a new product will succeed and skips market testing, only to find there\u2019s little demand after launch.",
+      "practiceTip": "Before committing, ask yourself: 'What would have to be true for this decision to fail?'",
+      "reflectionPrompt": "How can you build more reality checks into your decision process?",
+      "quizQuestion": {
+        "question": "Which question helps guard against overconfidence?",
+        "options": [
+          "What would have to be true for this to fail?",
+          "How quickly can I decide?",
+          "Who agrees with me?"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "widen_your_options": [
+    {
+      "id": "lesson1_narrow_framing",
+      "title": "Spotting Narrow Framing",
+      "goal": "Recognize when you are limiting your choices due to narrow framing.",
+      "keyConcept": "Narrow framing happens when we see decisions as binary or only consider a limited set of options. This can lead to missed opportunities and suboptimal outcomes. By becoming aware of this tendency, you can start to look for additional possibilities and make better decisions.",
+      "example": "A manager needs to fill a role and only considers promoting one of two team members, overlooking the possibility of hiring externally or restructuring the team.",
+      "practiceTip": "Before making a decision, ask yourself: 'Am I limiting my options? What other choices might exist that I haven't considered?'",
+      "reflectionPrompt": "Think of a recent decision you made. Did you consider all possible options, or did you default to just one or two?",
+      "quizQuestion": {
+        "question": "What is narrow framing?",
+        "options": [
+          "Considering only a limited set of options when making a decision",
+          "Seeking advice from multiple people",
+          "Making decisions quickly"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_and_instead_of_or",
+      "title": "Use 'And' Instead of 'Or'",
+      "goal": "Expand your choices by combining options rather than choosing between them.",
+      "keyConcept": "We often think in terms of 'either/or' when making decisions, but sometimes the best solution is to combine elements from multiple options. Using 'and' thinking helps you create more creative and effective solutions.",
+      "example": "Instead of choosing between investing in marketing or product development, a leader allocates resources to both, finding a balance that supports company growth.",
+      "practiceTip": "When faced with a choice, ask: 'Is there a way to do both? What would it look like if I combined these options?'",
+      "reflectionPrompt": "Recall a time you faced an 'either/or' decision. Could an 'and' approach have worked better?",
+      "quizQuestion": {
+        "question": "What does 'and' thinking encourage you to do?",
+        "options": [
+          "Pick only one option",
+          "Combine options for a better solution",
+          "Delay making a decision"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_opportunity_cost",
+      "title": "Consider Opportunity Costs",
+      "goal": "Learn to factor in what you give up when making a choice.",
+      "keyConcept": "Every decision involves opportunity costs\u2014the benefits you miss out on by choosing one option over another. Being explicit about these costs helps you make more informed and balanced decisions.",
+      "example": "A leader chooses to spend budget on a new software tool, realizing this means postponing a planned team training session.",
+      "practiceTip": "Before finalizing a decision, list what you are giving up by not choosing other options. Ask: 'What am I sacrificing with this choice?'",
+      "reflectionPrompt": "How might considering opportunity costs change the way you approach important decisions?",
+      "quizQuestion": {
+        "question": "What is an opportunity cost?",
+        "options": [
+          "The time it takes to make a decision",
+          "The benefit you give up by not choosing another option",
+          "The cost of implementing your decision"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_seek_outside_perspectives",
+      "title": "Seek Outside Perspectives",
+      "goal": "Broaden your options by consulting others and gathering diverse viewpoints.",
+      "keyConcept": "We all have blind spots and biases that can limit our thinking. By seeking input from people with different experiences or expertise, you can uncover alternatives you might not have considered on your own.",
+      "example": "Before launching a new project, a leader asks colleagues from different departments for their input, discovering potential challenges and new ideas.",
+      "practiceTip": "Identify someone outside your immediate team or usual circle and ask for their perspective on a current decision.",
+      "reflectionPrompt": "Who could you consult to gain a fresh perspective on a decision you\u2019re facing?",
+      "quizQuestion": {
+        "question": "Why is it helpful to seek outside perspectives?",
+        "options": [
+          "It helps you avoid making decisions",
+          "It can reveal options and risks you might have missed",
+          "It guarantees you will make the right choice"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_generate_more_options",
+      "title": "Actively Generate More Options",
+      "goal": "Practice techniques to create a broader set of alternatives before deciding.",
+      "keyConcept": "Deliberately generating more options can lead to better decisions. Techniques like brainstorming, asking 'What else could we do?', or imagining you cannot choose any of your current options can help you break out of narrow thinking.",
+      "example": "A team is stuck between two marketing strategies. They pause and brainstorm five additional approaches, eventually finding a hybrid solution that works better than the original two.",
+      "practiceTip": "Next time you\u2019re making a decision, challenge yourself to list at least three possible options\u2014even if some seem unconventional.",
+      "reflectionPrompt": "How might your decisions improve if you always generated more than two options?",
+      "quizQuestion": {
+        "question": "What is a benefit of generating more options before deciding?",
+        "options": [
+          "It increases the chance of finding a better solution",
+          "It makes decisions more confusing",
+          "It wastes time"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "reality_test_your_assumptions": [
+    {
+      "id": "lesson1_understanding_confirmation_bias",
+      "title": "Spotting Confirmation Bias",
+      "goal": "Learn to recognize confirmation bias in your decision-making.",
+      "keyConcept": "Confirmation bias is our tendency to seek out information that supports what we already believe, while ignoring or dismissing evidence that contradicts our views. This bias can lead to poor decisions because it limits our perspective and prevents us from seeing the full picture. Leaders must be vigilant in identifying when confirmation bias is influencing their thinking.",
+      "example": "A manager believes a new hire is underperforming and only notices mistakes, overlooking the employee's successes. This selective attention reinforces the manager's initial belief, even if it's not accurate.",
+      "practiceTip": "Before making a decision, ask yourself: 'Am I only looking for information that supports what I already think?' Make a conscious effort to seek out opposing viewpoints.",
+      "reflectionPrompt": "Can you recall a recent decision where you may have ignored evidence that challenged your assumptions?",
+      "quizQuestion": {
+        "question": "What is confirmation bias?",
+        "options": [
+          "The tendency to seek information that supports our existing beliefs.",
+          "The habit of always questioning authority.",
+          "The skill of making quick decisions."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_seek_disconfirming_evidence",
+      "title": "Actively Seek Disconfirming Evidence",
+      "goal": "Practice looking for information that challenges your assumptions.",
+      "keyConcept": "Great leaders don't just look for evidence that supports their ideas\u2014they actively search for information that could prove them wrong. This approach helps ensure decisions are based on reality, not just wishful thinking. By inviting dissent and considering alternative explanations, you reduce the risk of blind spots.",
+      "example": "Before launching a new product, a team leader asks colleagues to play 'devil's advocate' and point out potential flaws in the plan.",
+      "practiceTip": "When evaluating a decision, ask at least one person to argue against your preferred option. Listen carefully to their reasoning.",
+      "reflectionPrompt": "How comfortable are you with hearing criticism or alternative viewpoints? What can you do to become more open to them?",
+      "quizQuestion": {
+        "question": "Why is it important to seek disconfirming evidence?",
+        "options": [
+          "To make decisions faster.",
+          "To avoid blind spots and make better decisions.",
+          "To prove others wrong."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_run_small_experiments",
+      "title": "Test Your Ideas with Small Experiments",
+      "goal": "Learn to reduce risk by experimenting before committing fully.",
+      "keyConcept": "Instead of making big decisions based on assumptions, leaders can run small, low-risk experiments to gather real-world feedback. These 'test runs' provide valuable data and help you adjust your approach before making a major commitment. Experimentation turns uncertainty into learning.",
+      "example": "A team is unsure if a new sales script will work. Instead of rolling it out to everyone, they test it with a few customers and analyze the results.",
+      "practiceTip": "Before implementing a big change, design a small pilot or trial run. Use the results to inform your next steps.",
+      "reflectionPrompt": "What is one decision you\u2019re facing where you could run a small experiment instead of making an all-or-nothing choice?",
+      "quizQuestion": {
+        "question": "What is the main benefit of running small experiments?",
+        "options": [
+          "It eliminates all risk.",
+          "It provides real-world feedback before making big decisions.",
+          "It speeds up the decision-making process."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_ask_tough_questions",
+      "title": "Ask Tough, Insightful Questions",
+      "goal": "Develop the habit of challenging your own and others\u2019 assumptions with probing questions.",
+      "keyConcept": "Leaders improve decisions by asking tough questions that challenge the status quo. These questions uncover hidden assumptions and force deeper thinking. By not settling for easy answers, you encourage your team to think critically and consider all angles.",
+      "example": "During a project review, a leader asks, 'What would have to be true for this plan to fail?' This prompts the team to identify risks they hadn\u2019t considered.",
+      "practiceTip": "Use questions like: 'What evidence would change our minds?' or 'What are we assuming, and how can we test those assumptions?' in your next meeting.",
+      "reflectionPrompt": "What tough question could you ask about a current project to uncover hidden risks or assumptions?",
+      "quizQuestion": {
+        "question": "What is the purpose of asking tough questions in decision-making?",
+        "options": [
+          "To challenge assumptions and uncover potential risks.",
+          "To make meetings longer.",
+          "To avoid making decisions."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_balance_information_sources",
+      "title": "Balance Your Information Sources",
+      "goal": "Ensure you gather information from diverse and unbiased sources.",
+      "keyConcept": "Relying on a single source or like-minded group can skew your perspective. Leaders should seek out information from a variety of sources, including those who may disagree with them. This balanced approach helps you make more informed, objective decisions.",
+      "example": "Before deciding on a new policy, a leader consults employees from different departments and backgrounds to get a range of opinions.",
+      "practiceTip": "Identify at least one source of information that challenges your usual perspective and include it in your research for important decisions.",
+      "reflectionPrompt": "Who could you consult to get a different perspective on a decision you\u2019re facing?",
+      "quizQuestion": {
+        "question": "Why is it important to balance your information sources?",
+        "options": [
+          "To avoid bias and make well-rounded decisions.",
+          "To save time.",
+          "To please everyone."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "attain_distance_before_deciding": [
+    {
+      "id": "lesson1_identify_emotional_bias",
+      "title": "Spotting Short-Term Emotions in Decisions",
+      "goal": "Recognize when your emotions may be influencing your choices.",
+      "keyConcept": "Short-term emotions, such as excitement, fear, or frustration, can cloud your judgment and lead to decisions you might later regret. Being aware of your emotional state is the first step to making more objective choices. Leaders who pause to identify their feelings before deciding are less likely to act impulsively.",
+      "example": "You receive an angry email from a team member and feel the urge to respond immediately. Recognizing your frustration, you decide to wait before replying.",
+      "practiceTip": "Before making a decision, pause and ask yourself: 'What am I feeling right now, and could this emotion be affecting my judgment?'",
+      "reflectionPrompt": "Think of a recent decision you made quickly. Were your emotions influencing your choice?",
+      "quizQuestion": {
+        "question": "Why is it important to recognize your emotions before making a decision?",
+        "options": [
+          "Emotions can cloud judgment and lead to impulsive choices.",
+          "It helps you make decisions faster.",
+          "It ensures others agree with your decision."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_apply_10_10_10_rule",
+      "title": "Using the 10/10/10 Rule for Perspective",
+      "goal": "Learn to use the 10/10/10 Rule to consider long-term consequences.",
+      "keyConcept": "The 10/10/10 Rule encourages you to ask: How will I feel about this decision in 10 minutes, 10 months, and 10 years? This technique helps you step back from immediate emotions and consider the broader impact of your choices.",
+      "example": "You're deciding whether to give tough feedback to a colleague. In 10 minutes, you might feel anxious, but in 10 months or 10 years, you may be glad you addressed the issue.",
+      "practiceTip": "Before finalizing a decision, ask yourself the 10/10/10 questions and write down your answers.",
+      "reflectionPrompt": "How might your current decision look different when viewed from the perspective of 10 months or 10 years in the future?",
+      "quizQuestion": {
+        "question": "What does the 10/10/10 Rule help you do?",
+        "options": [
+          "Consider how a decision will feel in the short, medium, and long term.",
+          "Make decisions faster.",
+          "Avoid making any decisions."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_take_outsider_perspective",
+      "title": "Adopting an Outsider\u2019s Perspective",
+      "goal": "Learn to view your decision as an outsider would for greater objectivity.",
+      "keyConcept": "When you\u2019re close to a problem, it\u2019s easy to get stuck in your own viewpoint. By imagining how an outsider would approach the situation, you can gain fresh insights and reduce bias. This strategy helps leaders make more balanced and fair decisions.",
+      "example": "You\u2019re struggling to choose between two job candidates. You ask yourself, 'If I were advising a friend, what would I suggest?'",
+      "practiceTip": "When facing a tough choice, pretend you\u2019re giving advice to someone else in your situation.",
+      "reflectionPrompt": "How might your advice to a friend differ from the decision you\u2019re currently considering for yourself?",
+      "quizQuestion": {
+        "question": "What is the benefit of taking an outsider\u2019s perspective?",
+        "options": [
+          "It helps you see the situation more objectively.",
+          "It makes the decision more emotional.",
+          "It guarantees a perfect outcome."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_create_decision_space",
+      "title": "Building Space Between Emotion and Action",
+      "goal": "Practice creating a pause before making important decisions.",
+      "keyConcept": "Deliberately pausing before acting allows emotions to settle and gives you time to reflect. Even a brief break\u2014such as taking a walk or sleeping on it\u2014can help you see the situation more clearly and avoid rash decisions.",
+      "example": "After a heated meeting, you decide to wait until the next day to send a follow-up email, allowing yourself time to cool off.",
+      "practiceTip": "When you feel pressured to decide quickly, give yourself permission to pause, even if it\u2019s just for a few minutes.",
+      "reflectionPrompt": "When was the last time you benefited from waiting before making a decision?",
+      "quizQuestion": {
+        "question": "Why is it helpful to pause before making a decision?",
+        "options": [
+          "It gives time for emotions to settle and for clearer thinking.",
+          "It makes you forget the decision.",
+          "It impresses others with your indecisiveness."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_commit_to_objective_decisions",
+      "title": "Committing to Objective Decision-Making",
+      "goal": "Develop a personal commitment to distance yourself from short-term emotions in leadership decisions.",
+      "keyConcept": "Consistently applying strategies like the 10/10/10 Rule, outsider perspective, and intentional pauses can help you make more objective, thoughtful decisions. As a leader, modeling this approach encourages your team to do the same.",
+      "example": "You share with your team how you used the 10/10/10 Rule to make a recent decision, encouraging them to try it as well.",
+      "practiceTip": "Set a reminder to use at least one distancing strategy for every major decision you make this week.",
+      "reflectionPrompt": "Which distancing strategy do you find most helpful, and how can you incorporate it into your leadership style?",
+      "quizQuestion": {
+        "question": "What is a benefit of consistently using distancing strategies in decision-making?",
+        "options": [
+          "It leads to more objective and thoughtful decisions.",
+          "It eliminates all risk.",
+          "It makes decisions for you."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "prepare_to_be_wrong": [
+    {
+      "id": "lesson1_overconfidence_awareness",
+      "title": "Recognize Overconfidence in Planning",
+      "goal": "Identify and challenge overconfidence in your own predictions and plans.",
+      "keyConcept": "Leaders often fall into the trap of being overly confident about their decisions and the outcomes of their plans. This overconfidence can lead to missed risks and unpreparedness for setbacks. By acknowledging that your predictions may be flawed, you open yourself to better decision-making and adaptability.",
+      "example": "A manager launches a new project, assuming it will finish on time because similar projects have succeeded before, but fails to account for unexpected delays, leading to missed deadlines.",
+      "practiceTip": "Before finalizing a plan, ask yourself: 'What could I be missing? What assumptions am I making that might not hold true?'",
+      "reflectionPrompt": "When was the last time you were surprised by an outcome you felt certain about? What did you overlook?",
+      "quizQuestion": {
+        "question": "What is a common risk when leaders are overconfident in their plans?",
+        "options": [
+          "They may underestimate potential obstacles.",
+          "They will always achieve better results.",
+          "They avoid making decisions."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_set_tripwires",
+      "title": "Set Tripwires to Stay Alert",
+      "goal": "Learn how to use tripwires to detect problems early and prompt timely action.",
+      "keyConcept": "Tripwires are pre-set signals or checkpoints that alert you when things are going off track. They help leaders avoid drifting into trouble by making it clear when to pause, reassess, or act. Tripwires can be deadlines, budget limits, or specific performance indicators.",
+      "example": "A team leader sets a rule: if sales drop below a certain number for two consecutive weeks, the team will meet to review their strategy.",
+      "practiceTip": "Identify one key metric or milestone in your current project and set a clear threshold that, if crossed, will trigger a review or change in approach.",
+      "reflectionPrompt": "What is one area in your work where a tripwire could help you catch issues sooner?",
+      "quizQuestion": {
+        "question": "What is the main purpose of a tripwire in decision-making?",
+        "options": [
+          "To automatically solve problems",
+          "To alert you when attention or action is needed",
+          "To delay decisions"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_precommit_to_actions",
+      "title": "Pre-Commit to Specific Actions",
+      "goal": "Understand how pre-committing to actions can help you follow through on your intentions.",
+      "keyConcept": "Pre-committing means deciding in advance what you will do if certain situations arise. This reduces hesitation and helps you stick to your values or plans, even under pressure. It\u2019s a way to make good decisions easier to follow through when the moment comes.",
+      "example": "A leader decides that if a project exceeds its budget by 10%, they will pause spending and hold a team review, rather than waiting until the overspend is much larger.",
+      "practiceTip": "Write down one situation where you often hesitate or struggle to act, and specify in advance what you will do next time it occurs.",
+      "reflectionPrompt": "How could pre-committing to a specific action help you handle a recurring challenge in your leadership?",
+      "quizQuestion": {
+        "question": "What is the benefit of pre-committing to actions?",
+        "options": [
+          "It removes the need for any planning",
+          "It helps you act decisively when situations arise",
+          "It guarantees success"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_use_premortems",
+      "title": "Use Premortems to Anticipate Failure",
+      "goal": "Learn how to use premortems to foresee and address potential problems before they occur.",
+      "keyConcept": "A premortem is an exercise where you imagine that your plan has failed and then work backward to determine what could have caused the failure. This helps you identify risks and weaknesses in advance, so you can address them proactively.",
+      "example": "Before launching a new product, a team imagines it flopped and brainstorms all the reasons why, such as poor marketing or technical issues, then creates plans to prevent those problems.",
+      "practiceTip": "Before starting a major initiative, hold a premortem with your team: ask everyone to imagine the project has failed and list possible reasons why.",
+      "reflectionPrompt": "What is one project you\u2019re working on where a premortem could reveal hidden risks?",
+      "quizQuestion": {
+        "question": "What is the main goal of a premortem?",
+        "options": [
+          "To celebrate success in advance",
+          "To identify possible causes of failure before they happen",
+          "To assign blame for past mistakes"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_plan_for_uncertainty",
+      "title": "Plan for Uncertainty and Adaptability",
+      "goal": "Develop strategies to stay flexible and prepared for unexpected changes.",
+      "keyConcept": "No plan is perfect, and unexpected events can derail even the best strategies. By building flexibility into your plans and being ready to adapt, you can respond more effectively to surprises and setbacks. This mindset helps leaders remain resilient and resourceful.",
+      "example": "A project manager creates backup plans for key tasks and regularly checks in with the team to adjust timelines as needed when new challenges arise.",
+      "practiceTip": "For your next project, identify two potential obstacles and outline how you would adapt your plan if they occurred.",
+      "reflectionPrompt": "How can you make your current plans more adaptable to change?",
+      "quizQuestion": {
+        "question": "Why is it important to plan for uncertainty?",
+        "options": [
+          "Because plans always work perfectly",
+          "Because unexpected events can impact outcomes",
+          "Because it avoids all risks"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "wrapping_up_applying_wrap": [
+    {
+      "id": "wrap_micro1_widen_options",
+      "title": "Widen Your Options",
+      "goal": "Learn to avoid narrow framing by generating more choices.",
+      "keyConcept": "Leaders often fall into the trap of making decisions between only two options, missing out on better alternatives. By deliberately seeking additional possibilities, you can make more informed and creative choices. Widening your options helps prevent tunnel vision and leads to better outcomes.",
+      "example": "Instead of deciding whether to promote an employee or not, a manager considers other options: offering a special project, providing mentorship, or creating a new role.",
+      "practiceTip": "Before making your next decision, write down at least three different options, even if some seem unconventional.",
+      "reflectionPrompt": "Think of a recent decision where you only considered two options. What other possibilities could you have explored?",
+      "quizQuestion": {
+        "question": "What is a common mistake leaders make when making decisions?",
+        "options": [
+          "Considering too many options",
+          "Narrow framing with limited choices",
+          "Ignoring deadlines"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "wrap_micro2_reality_test",
+      "title": "Reality-Test Your Assumptions",
+      "goal": "Understand how to challenge and validate your assumptions before deciding.",
+      "keyConcept": "We often make decisions based on assumptions that may not be accurate. Reality-testing involves seeking information that challenges your beliefs, such as running small experiments or asking disconfirming questions. This reduces overconfidence and helps you make more reliable choices.",
+      "example": "A team leader assumes a new software will improve productivity. Instead of fully committing, she pilots it with a small group and gathers feedback before rolling it out.",
+      "practiceTip": "Before finalizing a decision, ask yourself: 'What evidence would prove me wrong?' Seek out that evidence.",
+      "reflectionPrompt": "Recall a time when your assumptions led you astray. How could you have reality-tested them?",
+      "quizQuestion": {
+        "question": "What is the main purpose of reality-testing your assumptions?",
+        "options": [
+          "To confirm your initial beliefs",
+          "To challenge and validate your assumptions",
+          "To speed up decision-making"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "wrap_micro3_attain_distance",
+      "title": "Attain Emotional Distance",
+      "goal": "Learn to reduce bias by gaining perspective before making decisions.",
+      "keyConcept": "Emotions can cloud judgment and lead to impulsive decisions. By creating distance\u2014such as sleeping on it or imagining what advice you\u2019d give a friend\u2014you can make more objective choices. This helps you focus on long-term goals rather than short-term emotions.",
+      "example": "A leader feels frustrated after a heated meeting and wants to reprimand a team member. Instead, she waits a day and then addresses the issue calmly.",
+      "practiceTip": "When facing a tough decision, ask yourself: 'What would I advise a colleague to do in this situation?'",
+      "reflectionPrompt": "Think of a decision you made impulsively. How might emotional distance have changed your choice?",
+      "quizQuestion": {
+        "question": "What is a simple way to attain emotional distance before deciding?",
+        "options": [
+          "Make the decision immediately",
+          "Imagine advising a friend in your situation",
+          "Ignore your feelings"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "wrap_micro4_prepare_to_be_wrong",
+      "title": "Prepare to Be Wrong",
+      "goal": "Develop strategies to deal with uncertainty and unexpected outcomes.",
+      "keyConcept": "Even well-considered decisions can go awry. By preparing for possible failures\u2014such as setting tripwires or premortems\u2014you can respond quickly and minimize negative impacts. This proactive approach builds resilience and adaptability as a leader.",
+      "example": "A project manager sets a checkpoint to review progress halfway through a project, allowing for course correction if things aren\u2019t going as planned.",
+      "practiceTip": "Before implementing a decision, identify one or two warning signs that would prompt you to reassess your approach.",
+      "reflectionPrompt": "How can you build in safeguards to catch mistakes early in your next big decision?",
+      "quizQuestion": {
+        "question": "What is a 'tripwire' in decision-making?",
+        "options": [
+          "A warning sign that triggers a review or reassessment",
+          "A tool for generating more options",
+          "A way to avoid making decisions"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "wrap_micro5_apply_wrap_everyday",
+      "title": "Applying WRAP in Everyday Leadership",
+      "goal": "Integrate the WRAP process into your daily leadership decisions.",
+      "keyConcept": "The WRAP process\u2014Widen your options, Reality-test your assumptions, Attain distance, and Prepare to be wrong\u2014provides a structured approach to better decision-making. By using checklists or prompts, leaders can consistently apply these steps, leading to more thoughtful and effective outcomes.",
+      "example": "A department head uses a WRAP checklist before making hiring decisions, ensuring she considers multiple candidates, tests assumptions, gains perspective, and plans for onboarding challenges.",
+      "practiceTip": "Create a simple WRAP checklist and use it for your next important decision. Reflect on how each step influences your thinking.",
+      "reflectionPrompt": "Which step of the WRAP process do you tend to skip, and how can you make it a habit?",
+      "quizQuestion": {
+        "question": "What does the 'A' in WRAP stand for?",
+        "options": [
+          "Analyze alternatives",
+          "Attain distance",
+          "Apply feedback"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ]
+}
