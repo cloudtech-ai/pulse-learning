@@ -18,7 +18,13 @@
       "title": "Start with Why",
       "author": "Simon Sinek",
       "summary": "Explores the importance of understanding your purpose and how it drives effective leadership.",
-      "generative_title": "Start with Why by Simon Sinek"
+      "generative_title": "Start with Why by Simon Sinek",
+      "info": "leadership_books/start_with_why_by_simon/start_with_why_by_simon_summary.json",
+      "strategies": "leadership_books/start_with_why_by_simon/start_with_why_by_simon_strategies.json",
+      "studyPlan": {
+        "module_path": "leadership_books/start_with_why_by_simon/start_with_why_by_simon_modules.json",
+        "lesson_path": "leadership_books/start_with_why_by_simon/start_with_why_by_simon_lessons.json"
+      }
     },
     {
       "id": 13,

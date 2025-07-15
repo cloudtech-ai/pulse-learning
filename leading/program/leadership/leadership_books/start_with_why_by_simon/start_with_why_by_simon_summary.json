@@ -1,0 +1,72 @@
+{
+  "id": 5,
+  "title": "Start with Why",
+  "description": "Explores the concept of starting with 'why' to inspire action and leadership. Emphasizes the importance of understanding the purpose behind actions to motivate and lead effectively.",
+  "videoPreview": "The Golden Circle",
+  "image": "https://example.com/start-with-why-image",
+  "keyStrategies": [
+    {
+      "id": 51,
+      "title": "The Golden Circle",
+      "focused": true
+    },
+    {
+      "id": 52,
+      "title": "Clarity of Why"
+    },
+    {
+      "id": 53,
+      "title": "Discipline of How"
+    },
+    {
+      "id": 54,
+      "title": "Consistency of What"
+    },
+    {
+      "id": 55,
+      "title": "Inspire Action"
+    },
+    {
+      "id": 56,
+      "title": "Leadership vs. Management"
+    },
+    {
+      "id": 57,
+      "title": "The Law of Diffusion of Innovations"
+    }
+  ],
+  "videos": [
+    {
+      "id": "IPYeCltXpxw",
+      "title": "Simon Sinek: Start with Why"
+    },
+    {
+      "id": "sioZd3AxmnE",
+      "title": "The Golden Circle Explained"
+    },
+    {
+      "id": "qp0HIF3SfI4",
+      "title": "How Great Leaders Inspire Action"
+    },
+    {
+      "id": "l5Tw0PGcyN0",
+      "title": "Finding Your Why"
+    },
+    {
+      "id": "8grVWC8Jf9E",
+      "title": "The Importance of Why in Business"
+    },
+    {
+      "id": "nJxQ2kUGJkA",
+      "title": "Leadership and the Golden Circle"
+    },
+    {
+      "id": "u4ZoJKF_VuA",
+      "title": "Why Good Leaders Make You Feel Safe"
+    },
+    {
+      "id": "WfEH4QJ4rBg",
+      "title": "The Power of Why"
+    }
+  ]
+}

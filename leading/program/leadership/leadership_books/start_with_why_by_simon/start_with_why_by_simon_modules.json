@@ -1,0 +1,77 @@
+{
+  "id": "start_with_why",
+  "title": "Start with Why",
+  "description": "Start with Why by Simon Sinek explores the power of purpose in leadership and organizations. The book introduces the concept of the Golden Circle, emphasizing the importance of starting with 'why'\u2014the reason behind what we do\u2014before moving to 'how' and 'what'. Through real-world examples, Sinek demonstrates how leaders and companies that focus on their core mission inspire greater loyalty and achieve lasting success. The book encourages readers to find and communicate their own 'why' to inspire themselves and others.",
+  "modules": [
+    {
+      "id": "introduction_the_power_of_why",
+      "title": "Introduction: The Power of Why",
+      "goal": "Understand the foundational concept of the book and why starting with 'why' is essential.",
+      "key_points": [
+        "Explains how great leaders inspire action by starting with a clear sense of purpose.",
+        "Highlights the difference between leaders who manipulate and those who inspire.",
+        "Introduces the central question: Why do you do what you do?"
+      ]
+    },
+    {
+      "id": "the_golden_circle",
+      "title": "The Golden Circle",
+      "goal": "Learn the Golden Circle model and its application in leadership and communication.",
+      "key_points": [
+        "Describes the three levels: Why (purpose), How (process), and What (result).",
+        "Clarifies why most organizations start with 'what', but truly influential ones start with 'why'.",
+        "Shows how communicating from the inside out (starting with 'why') builds trust and loyalty."
+      ]
+    },
+    {
+      "id": "biology_of_leadership",
+      "title": "The Biology of Leadership",
+      "goal": "Explore the biological basis for why people respond to purpose-driven leadership.",
+      "key_points": [
+        "Connects the Golden Circle to the human brain\u2019s structure and decision-making process.",
+        "Explains the role of emotions and feelings in inspiring loyalty and action.",
+        "Demonstrates why facts and figures alone are less motivating than a clear sense of purpose."
+      ]
+    },
+    {
+      "id": "clarifying_and_communicating_your_why",
+      "title": "Clarifying and Communicating Your Why",
+      "goal": "Discover how to articulate and share your 'why' to inspire others.",
+      "key_points": [
+        "Guides readers on how to find and define their own 'why'.",
+        "Stresses the importance of authenticity and consistency in messaging.",
+        "Shares strategies for making your 'why' the starting point for all communication."
+      ]
+    },
+    {
+      "id": "leading_with_why_in_organizations",
+      "title": "Leading with Why in Organizations",
+      "goal": "Understand how organizations can operate with purpose to achieve long-term success.",
+      "key_points": [
+        "Examines case studies of organizations that lead with 'why' and the impact on culture and performance.",
+        "Explores how purpose-driven leadership fosters loyalty among employees and customers.",
+        "Discusses methods for embedding 'why' into an organization\u2019s operations and culture."
+      ]
+    },
+    {
+      "id": "maintaining_loyalty_and_trust",
+      "title": "Maintaining Loyalty and Trust",
+      "goal": "Learn how to sustain inspiration and trust by staying true to your 'why'.",
+      "key_points": [
+        "Highlights the dangers of losing sight of your core purpose.",
+        "Offers ways to reinforce and revisit your 'why' over time.",
+        "Shows how consistency between 'why', 'how', and 'what' maintains credibility."
+      ]
+    },
+    {
+      "id": "putting_why_into_action",
+      "title": "Putting Why into Action",
+      "goal": "Apply the principles of 'Start with Why' to personal and organizational challenges.",
+      "key_points": [
+        "Encourages readers to use the Golden Circle as a decision-making tool.",
+        "Provides steps for integrating 'why' into leadership and daily operations.",
+        "Inspires ongoing reflection and commitment to purpose-driven action."
+      ]
+    }
+  ]
+}

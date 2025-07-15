@@ -1,0 +1,170 @@
+[
+  {
+    "id": 51,
+    "bookId": 1,
+    "title": "The Golden Circle",
+    "summary": "A model that explains how leaders and organizations can inspire by starting with 'Why' before 'How' and 'What'.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "People are more inspired and loyal when they understand the deeper purpose behind actions, not just the products or processes."
+      },
+      {
+        "section": "Example",
+        "content": "Apple communicates its belief in challenging the status quo ('Why') before talking about how they do it and what they sell."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Define your 'Why' before planning 'How' and 'What'.",
+          "Communicate your purpose clearly in meetings and presentations.",
+          "Ask 'Why are we doing this?' before starting new projects."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "bookId": 1,
+    "title": "Clarity of Why",
+    "summary": "Clearly articulate the core belief or purpose that drives you or your organization.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Clarity of purpose builds trust and attracts people who share your values."
+      },
+      {
+        "section": "Example",
+        "content": "A non-profit with a clear mission statement attracts passionate volunteers who resonate with its cause."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Write down your personal or organizational 'Why' in one sentence.",
+          "Share your 'Why' with your team and ask for feedback.",
+          "Revisit and refine your 'Why' regularly to ensure it remains authentic."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "bookId": 1,
+    "title": "Discipline of How",
+    "summary": "Develop consistent values and guiding principles that bring your 'Why' to life.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Disciplined processes and values ensure your actions align with your purpose, building credibility."
+      },
+      {
+        "section": "Example",
+        "content": "A company that values transparency holds regular open Q&A sessions with employees."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Identify 3-5 core values that support your 'Why'.",
+          "Create routines or rituals that reinforce these values.",
+          "Hold yourself and others accountable to these standards."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "bookId": 1,
+    "title": "Consistency of What",
+    "summary": "Ensure that everything you say and do is consistent with your 'Why' and 'How'.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Consistency builds trust and helps others predict your behavior, making them more likely to follow you."
+      },
+      {
+        "section": "Example",
+        "content": "A brand known for quality never compromises on materials, even under pressure to cut costs."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Review your actions and communications for alignment with your purpose.",
+          "Solicit feedback from others about perceived inconsistencies.",
+          "Make adjustments quickly if you stray from your values."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "bookId": 1,
+    "title": "Inspire Action",
+    "summary": "Motivate others by communicating your purpose and inviting them to join your cause.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "People are more engaged and committed when they feel inspired rather than manipulated or pressured."
+      },
+      {
+        "section": "Example",
+        "content": "Martin Luther King Jr. inspired millions by sharing his vision of equality, not just a plan for protest."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Share stories that illustrate your 'Why' in action.",
+          "Invite others to contribute their ideas and energy.",
+          "Recognize and celebrate actions that align with your purpose."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "bookId": 1,
+    "title": "Leadership vs. Management",
+    "summary": "Distinguish between leading with vision and managing with processes.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "True leaders inspire and guide people toward a vision, while managers maintain order and efficiency."
+      },
+      {
+        "section": "Example",
+        "content": "A leader rallies a team around a new mission, while a manager ensures the project stays on schedule."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Focus on communicating vision and purpose, not just tasks.",
+          "Empower others to take initiative and make decisions.",
+          "Balance visionary leadership with effective management practices."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "bookId": 1,
+    "title": "The Law of Diffusion of Innovations",
+    "summary": "Understand how new ideas and movements spread through populations.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Adoption of new ideas depends on reaching innovators and early adopters first, then the majority."
+      },
+      {
+        "section": "Example",
+        "content": "Tech companies target early adopters to build momentum before marketing to the mainstream."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Identify and engage your innovators and early adopters.",
+          "Tailor your message to different segments of your audience.",
+          "Be patient\u2014widespread change takes time and persistence."
+        ]
+      }
+    ]
+  }
+]
