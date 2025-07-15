@@ -1,0 +1,72 @@
+{
+  "id": 5,
+  "title": "Crucial Conversations",
+  "description": "Tools for talking when stakes are high, focusing on how to handle conversations where opinions vary, emotions run strong, and the outcomes matter.",
+  "videoPreview": "Mastering Crucial Conversations",
+  "image": "https://openclipart.org/image/800px/20764",
+  "keyStrategies": [
+    {
+      "id": 51,
+      "title": "Start with Heart",
+      "focused": true
+    },
+    {
+      "id": 52,
+      "title": "Learn to Look"
+    },
+    {
+      "id": 53,
+      "title": "Make it Safe"
+    },
+    {
+      "id": 54,
+      "title": "Master My Stories"
+    },
+    {
+      "id": 55,
+      "title": "STATE My Path"
+    },
+    {
+      "id": 56,
+      "title": "Explore Others' Paths"
+    },
+    {
+      "id": 57,
+      "title": "Move to Action"
+    }
+  ],
+  "videos": [
+    {
+      "id": "HngC6R4AjzA",
+      "title": "Crucial Conversations \u2013 Quick Overview of All Skills"
+    },
+    {
+      "id": "puoddnGTAJk",
+      "title": "How to Handle High-Stakes Conversations"
+    },
+    {
+      "id": "cIXQOb4klUw",
+      "title": "Crucial Conversations: Start with Heart"
+    },
+    {
+      "id": "pyI-a9BS-cU",
+      "title": "Crucial Conversations: Make it Safe"
+    },
+    {
+      "id": "_FpM9ZgkYk4",
+      "title": "Crucial Conversations: STATE My Path"
+    },
+    {
+      "id": "5uIANt2_A8A",
+      "title": "Crucial Conversations: Explore Others' Paths"
+    },
+    {
+      "id": "2SI6C2Obzgc",
+      "title": "Crucial Conversations: Move to Action"
+    },
+    {
+      "id": "u_795UX9VJ8",
+      "title": "Crucial Conversations: Master My Stories"
+    }
+  ]
+}

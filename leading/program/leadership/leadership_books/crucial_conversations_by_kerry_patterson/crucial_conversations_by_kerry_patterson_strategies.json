@@ -1,0 +1,174 @@
+[
+  {
+    "id": 51,
+    "bookId": 1,
+    "title": "Start with Heart",
+    "summary": "Focus on what you really want for yourself, others, and the relationship before and during the conversation.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Staying clear about your true motives helps prevent getting sidetracked by emotions or winning at any cost, leading to more productive conversations."
+      },
+      {
+        "section": "Example",
+        "content": "Before discussing a missed deadline with a colleague, remind yourself that your goal is to solve the problem and maintain a good working relationship, not to assign blame."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Pause and ask yourself: What do I really want here?",
+          "Check your motives if you feel defensive or angry.",
+          "Refocus on mutual purpose when the conversation gets tense."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "bookId": 1,
+    "title": "Learn to Look",
+    "summary": "Notice when a conversation becomes crucial and recognize signs of safety problems, such as silence or violence.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Recognizing when safety is at risk allows you to address it early, preventing misunderstandings and escalation."
+      },
+      {
+        "section": "Example",
+        "content": "You notice your teammate suddenly goes quiet or becomes sarcastic during a discussion, signaling discomfort or defensiveness."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Watch for physical and emotional cues in yourself and others.",
+          "Identify signs of silence (withdrawing, avoiding) or violence (attacking, controlling).",
+          "Pause the conversation to address safety concerns if needed."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "bookId": 1,
+    "title": "Make it Safe",
+    "summary": "Restore safety in the conversation by establishing mutual purpose and mutual respect.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "People only share honestly when they feel safe; restoring safety helps everyone contribute to the dialogue."
+      },
+      {
+        "section": "Example",
+        "content": "If someone feels attacked, you clarify that your intention is to solve the problem together, not to criticize them personally."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Apologize sincerely if you\u2019ve hurt someone.",
+          "Contrast to clarify your intent (e.g., 'I don\u2019t mean to suggest you\u2019re not committed.').",
+          "Find and state a mutual purpose."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "bookId": 1,
+    "title": "Master My Stories",
+    "summary": "Take control of your emotions by examining the stories you tell yourself about others\u2019 actions.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Our interpretations drive our emotions and reactions; challenging unhelpful stories leads to better outcomes."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of assuming a colleague missed a deadline out of laziness, consider other explanations, like workload or miscommunication."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Notice your emotional reactions and the stories behind them.",
+          "Ask yourself: What evidence do I have for this story?",
+          "Consider alternative explanations for others\u2019 behavior."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "bookId": 1,
+    "title": "STATE My Path",
+    "summary": "Share your views honestly and respectfully using the STATE skills: Share facts, Tell your story, Ask for others\u2019 paths, Talk tentatively, Encourage testing.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Clear, respectful communication helps you express your perspective without triggering defensiveness."
+      },
+      {
+        "section": "Example",
+        "content": "You say, 'I noticed the report was late (fact). I\u2019m concerned it might affect our project timeline (story). What happened from your perspective?'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Start with facts, not judgments.",
+          "Share your interpretation, but be open to being wrong.",
+          "Invite others to share their views.",
+          "Speak tentatively, not dogmatically.",
+          "Encourage dialogue and testing of ideas."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "bookId": 1,
+    "title": "Explore Others' Paths",
+    "summary": "Actively seek to understand others\u2019 perspectives and encourage them to share their thoughts and feelings.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Understanding others\u2019 views builds trust and leads to better solutions."
+      },
+      {
+        "section": "Example",
+        "content": "You ask, 'Can you help me understand what led to your decision?' and listen without interrupting."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Ask open-ended questions.",
+          "Listen actively and reflect back what you hear.",
+          "Show genuine curiosity about others\u2019 experiences.",
+          "Acknowledge their feelings and perspectives."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "bookId": 1,
+    "title": "Move to Action",
+    "summary": "Turn the conversation into results by deciding how to take action and following up on commitments.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Conversations that end without clear decisions or follow-up often lead to frustration and unresolved issues."
+      },
+      {
+        "section": "Example",
+        "content": "After discussing a recurring issue, you agree on specific steps each person will take and set a time to check in."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Decide who will do what by when.",
+          "Document agreements and next steps.",
+          "Follow up to ensure accountability.",
+          "Clarify how decisions will be made (consensus, authority, etc.)."
+        ]
+      }
+    ]
+  }
+]

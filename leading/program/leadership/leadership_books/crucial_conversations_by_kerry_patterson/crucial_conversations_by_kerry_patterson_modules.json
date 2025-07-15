@@ -1,0 +1,87 @@
+{
+  "id": "crucial_conversations",
+  "title": "Crucial Conversations",
+  "description": "Crucial Conversations provides readers with essential tools to handle high-stakes discussions where opinions vary, emotions run strong, and the outcomes matter. The book teaches practical strategies for staying calm, speaking persuasively, and fostering open dialogue in tense or challenging situations. By mastering these conversations, individuals can improve relationships, resolve conflicts, and achieve better results both personally and professionally.",
+  "modules": [
+    {
+      "id": "understanding_crucial_conversations",
+      "title": "Understanding Crucial Conversations",
+      "goal": "Define what makes a conversation 'crucial' and recognize their impact on relationships and results.",
+      "key_points": [
+        "Crucial conversations are high-stakes interactions where opinions differ and emotions run strong.",
+        "The way these conversations are handled can have significant consequences on relationships and outcomes.",
+        "Avoiding or mishandling crucial conversations often leads to misunderstandings and unresolved issues."
+      ]
+    },
+    {
+      "id": "start_with_heart",
+      "title": "Start With Heart",
+      "goal": "Identify your own motives and stay focused on your true objectives during crucial conversations.",
+      "key_points": [
+        "Examine your motives to ensure you stay focused on what you really want from the conversation.",
+        "Avoid slipping into a win/lose mentality and instead seek mutual benefit.",
+        "Stay aware of your emotions and manage them productively throughout the discussion."
+      ]
+    },
+    {
+      "id": "learning_to_look",
+      "title": "Learning to Look",
+      "goal": "Develop awareness of safety problems and recognize signs when conversations become crucial.",
+      "key_points": [
+        "Notice physical, emotional, and behavioral signs that a conversation is turning crucial.",
+        "Recognize when safety is at risk and participants are moving toward silence or violence.",
+        "Intervene early to keep dialogue open and productive."
+      ]
+    },
+    {
+      "id": "making_it_safe",
+      "title": "Making It Safe",
+      "goal": "Create a safe environment where all participants feel comfortable sharing their perspectives.",
+      "key_points": [
+        "Establish mutual purpose and mutual respect to foster psychological safety.",
+        "Use contrasting statements to clarify intentions and address misunderstandings.",
+        "Restore safety when it breaks down to keep the conversation moving forward."
+      ]
+    },
+    {
+      "id": "master_my_stories",
+      "title": "Master My Stories",
+      "goal": "Understand how personal stories shape emotions and behavior in crucial conversations.",
+      "key_points": [
+        "Recognize the stories you tell yourself and how they influence your feelings and actions.",
+        "Separate facts from interpretations to avoid unhelpful assumptions.",
+        "Choose empowering stories that support productive dialogue."
+      ]
+    },
+    {
+      "id": "state_my_path",
+      "title": "STATE My Path",
+      "goal": "Communicate your viewpoint honestly and respectfully using the STATE skill set.",
+      "key_points": [
+        "Share your facts, Tell your story, Ask for others\u2019 paths, Talk tentatively, and Encourage testing.",
+        "Express your perspective clearly without shutting down others.",
+        "Invite differing views to foster collaborative problem-solving."
+      ]
+    },
+    {
+      "id": "explore_others_paths",
+      "title": "Explore Others' Paths",
+      "goal": "Encourage others to share their viewpoints and listen actively to understand their perspectives.",
+      "key_points": [
+        "Use skills like AMPP (Ask, Mirror, Paraphrase, Prime) to encourage dialogue.",
+        "Listen to understand, not to respond or rebut.",
+        "Show empathy and curiosity to build trust and understanding."
+      ]
+    },
+    {
+      "id": "move_to_action",
+      "title": "Move to Action",
+      "goal": "Turn crucial conversations into clear decisions and agreed-upon actions.",
+      "key_points": [
+        "Decide how decisions will be made and ensure clarity on next steps.",
+        "Document commitments and follow up for accountability.",
+        "Turn dialogue into results by translating conversation into practical action."
+      ]
+    }
+  ]
+}

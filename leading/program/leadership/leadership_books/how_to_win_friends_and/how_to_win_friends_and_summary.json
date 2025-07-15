@@ -1,0 +1,48 @@
+{
+  "id": 5,
+  "title": "How to Win Friends and Influence People",
+  "description": "Timeless principles for building relationships and influencing others positively, focusing on understanding human nature and effective communication.",
+  "videoPreview": "Building Relationships and Influence",
+  "image": "https://example.com/image.jpg",
+  "keyStrategies": [
+    {
+      "id": 51,
+      "title": "Don't Criticize, Condemn, or Complain",
+      "focused": true
+    },
+    {
+      "id": 52,
+      "title": "Give Honest and Sincere Appreciation"
+    },
+    {
+      "id": 53,
+      "title": "Arouse in the Other Person an Eager Want"
+    },
+    {
+      "id": 54,
+      "title": "Become Genuinely Interested in Other People"
+    },
+    {
+      "id": 55,
+      "title": "Smile"
+    },
+    {
+      "id": 56,
+      "title": "Remember That a Person's Name is to That Person the Sweetest Sound"
+    },
+    {
+      "id": 57,
+      "title": "Be a Good Listener. Encourage Others to Talk About Themselves"
+    }
+  ],
+  "videos": [
+    {
+      "id": "8SUiLkl42FQ",
+      "title": "Overview of How to Win Friends and Influence People"
+    },
+    {
+      "id": "m-aXe-ld_VA",
+      "title": "The Power of Appreciation"
+    }
+  ]
+}

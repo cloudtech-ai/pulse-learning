@@ -31,14 +31,22 @@
       "title": "Crucial Conversations",
       "author": "Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler",
       "summary": "Provides tools for handling high-stakes conversations and communicating effectively under pressure.",
-      "generative_title": "Crucial Conversations by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler"
+      "generative_title": "Crucial Conversations by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler",
+      "info": "leadership_books/crucial_conversations_by_kerry_patterson/crucial_conversations_by_kerry_patterson_summary.json",
+      "strategies": "leadership_books/crucial_conversations_by_kerry_patterson/crucial_conversations_by_kerry_patterson_strategies.json",
+      "studyPlan": {
+        "module_path": "leadership_books/crucial_conversations_by_kerry_patterson/crucial_conversations_by_kerry_patterson_modules.json",
+        "lesson_path": "leadership_books/crucial_conversations_by_kerry_patterson/crucial_conversations_by_kerry_patterson_lessons.json"
+      }
     },
     {
       "id": 14,
       "title": "How to Win Friends and Influence People",
       "author": "Dale Carnegie",
       "summary": "Classic principles for building relationships and influencing people in a positive way.",
-      "generative_title": "How to Win Friends and Influence People by Dale Carnegie"
+      "generative_title": "How to Win Friends and Influence People by Dale Carnegie",
+      "info": "leadership_books/how_to_win_friends_and/how_to_win_friends_and_summary.json",
+      "strategies": "leadership_books/how_to_win_friends_and/how_to_win_friends_and_strategies.json"
     },
     {
       "id": 15,

@@ -1,0 +1,50 @@
+{
+  "id": "how_to_win_friends_and_influence_people",
+  "title": "How to Win Friends and Influence People",
+  "description": "Dale Carnegie's classic book focuses on practical strategies for improving social skills, building positive relationships, and influencing others. It provides timeless advice on effective communication, empathy, and leadership. Through real-world examples and actionable principles, readers learn how to connect with people, resolve conflicts, and inspire cooperation. The book is a foundational guide for personal and professional success through better human relations.",
+  "modules": [
+    {
+      "id": "fundamental_techniques_in_handling_people",
+      "title": "Fundamental Techniques in Handling People",
+      "goal": "Understand the basic principles for successful interactions and how to positively influence others.",
+      "key_points": [
+        "Don't criticize, condemn, or complain about others.",
+        "Give honest and sincere appreciation to people.",
+        "Arouse in others an eager want, making them feel their needs are important."
+      ]
+    },
+    {
+      "id": "six_ways_to_make_people_like_you",
+      "title": "Six Ways to Make People Like You",
+      "goal": "Learn actionable techniques to build rapport and make lasting positive impressions.",
+      "key_points": [
+        "Become genuinely interested in other people.",
+        "Smile to create a welcoming atmosphere.",
+        "Remember and use people\u2019s names.",
+        "Be a good listener and encourage others to talk about themselves."
+      ]
+    },
+    {
+      "id": "win_people_to_your_way_of_thinking",
+      "title": "How to Win People to Your Way of Thinking",
+      "goal": "Develop persuasive communication skills to encourage agreement and cooperation.",
+      "key_points": [
+        "Show respect for others\u2019 opinions and never say, 'You\u2019re wrong.'",
+        "If you are wrong, admit it quickly and emphatically.",
+        "Begin conversations in a friendly way and get the other person saying 'yes' early.",
+        "Let the other person feel the idea is theirs."
+      ]
+    },
+    {
+      "id": "be_a_leader_change_people_without_giving_offense",
+      "title": "Be a Leader: How to Change People Without Giving Offense or Arousing Resentment",
+      "goal": "Master leadership strategies for guiding others\u2019 behavior while maintaining goodwill.",
+      "key_points": [
+        "Begin with praise and honest appreciation before addressing mistakes.",
+        "Call attention to errors indirectly and talk about your own mistakes first.",
+        "Ask questions instead of giving direct orders.",
+        "Let others save face and encourage improvement with positive reinforcement."
+      ]
+    }
+  ]
+}

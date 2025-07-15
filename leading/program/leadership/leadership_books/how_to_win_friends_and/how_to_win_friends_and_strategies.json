@@ -1,0 +1,177 @@
+[
+  {
+    "id": 51,
+    "bookId": 1,
+    "title": "Don't Criticize, Condemn, or Complain",
+    "summary": "Avoid criticizing, condemning, or complaining about others to foster positive relationships.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Criticism and complaints make others defensive and resentful, damaging trust and rapport. People are more likely to change when they feel respected and understood."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of telling a coworker, 'You always mess up the reports,' focus on what went well or ask how you can help improve the process."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Pause before reacting to mistakes or frustrations.",
+          "Reframe negative thoughts into neutral or positive observations.",
+          "Focus on solutions rather than blame.",
+          "Acknowledge your own role in situations."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "bookId": 1,
+    "title": "Give Honest and Sincere Appreciation",
+    "summary": "Express genuine appreciation for others' efforts and qualities to motivate and build goodwill.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "People crave appreciation and recognition. Sincere praise encourages positive behavior and strengthens relationships."
+      },
+      {
+        "section": "Example",
+        "content": "Thank a colleague for their hard work on a project, specifically mentioning what you valued about their contribution."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Notice and acknowledge others' strengths and efforts.",
+          "Be specific in your praise.",
+          "Avoid flattery\u2014focus on what you truly appreciate.",
+          "Express appreciation promptly."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "bookId": 1,
+    "title": "Arouse in the Other Person an Eager Want",
+    "summary": "Frame your requests and ideas in terms of what others desire, not just your own needs.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "People are motivated by their own interests. Showing how your ideas align with their goals increases cooperation and enthusiasm."
+      },
+      {
+        "section": "Example",
+        "content": "When asking a team to adopt a new process, highlight how it will save them time and make their work easier."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Listen to understand others' motivations.",
+          "Present benefits from their perspective.",
+          "Ask questions to uncover what matters to them.",
+          "Connect your goals to their interests."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "bookId": 1,
+    "title": "Become Genuinely Interested in Other People",
+    "summary": "Show authentic curiosity and care for others to build meaningful connections.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "People respond positively to those who show real interest in them, fostering trust and rapport."
+      },
+      {
+        "section": "Example",
+        "content": "Ask a coworker about their weekend plans and listen attentively to their response."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Ask open-ended questions about others' lives.",
+          "Remember details about their interests.",
+          "Follow up on previous conversations.",
+          "Show empathy and enthusiasm."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "bookId": 1,
+    "title": "Smile",
+    "summary": "Smile genuinely to create a welcoming and positive atmosphere.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "A smile signals friendliness and openness, making others feel comfortable and valued."
+      },
+      {
+        "section": "Example",
+        "content": "Greet colleagues with a warm smile when you arrive at work."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Smile when greeting people, in person or on the phone.",
+          "Practice smiling in the mirror to make it feel natural.",
+          "Let your smile reflect genuine warmth.",
+          "Notice how others respond to your smile."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "bookId": 1,
+    "title": "Remember That a Person's Name is to That Person the Sweetest Sound",
+    "summary": "Use people's names in conversation to show respect and make them feel important.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "A person's name is deeply tied to their identity. Remembering and using it builds rapport and trust."
+      },
+      {
+        "section": "Example",
+        "content": "Begin a conversation by saying, 'Good morning, Sarah,' instead of just 'Good morning.'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Make an effort to remember names when introduced.",
+          "Use names naturally in conversation.",
+          "Write down names and details to help remember.",
+          "Apologize and ask again if you forget a name."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "bookId": 1,
+    "title": "Be a Good Listener. Encourage Others to Talk About Themselves",
+    "summary": "Listen attentively and invite others to share about themselves to build trust and understanding.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "People appreciate being heard and understood. Good listening fosters deeper relationships and reveals valuable insights."
+      },
+      {
+        "section": "Example",
+        "content": "During a meeting, ask a team member for their opinion and listen without interrupting."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Maintain eye contact and give your full attention.",
+          "Ask follow-up questions to show interest.",
+          "Avoid interrupting or planning your response while others speak.",
+          "Reflect back what you hear to confirm understanding."
+        ]
+      }
+    ]
+  }
+]
