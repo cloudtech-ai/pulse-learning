@@ -1,0 +1,53 @@
+{
+  "id": 11,
+  "title": "StrengthsFinder 2.0",
+  "description": "A guide to identifying and leveraging your unique strengths to achieve personal and professional success.",
+  "videoPreview": "Discover Your Strengths",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440946880i/56454._S450_.jpg",
+  "keyStrategies": [
+    {
+      "id": 111,
+      "title": "Identify Your Top 5 Strengths",
+      "focused": true
+    },
+    {
+      "id": 112,
+      "title": "Develop Your Strengths"
+    },
+    {
+      "id": 113,
+      "title": "Apply Strengths in Daily Life"
+    },
+    {
+      "id": 114,
+      "title": "Strengths-Based Team Building"
+    },
+    {
+      "id": 115,
+      "title": "Overcome Weaknesses by Focusing on Strengths"
+    }
+  ],
+  "videos": [
+    {
+      "id": "a1b2c3d4",
+      "title": "Introduction to StrengthsFinder 2.0"
+    },
+    {
+      "id": "e5f6g7h8",
+      "title": "How to Identify Your Strengths"
+    },
+    {
+      "id": "i9j0k1l2",
+      "title": "Leveraging Strengths for Success"
+    },
+    {
+      "id": "m3n4o5p6",
+      "title": "Strengths-Based Leadership"
+    },
+    {
+      "id": "q7r8s9t0",
+      "title": "Building a Strengths-Based Team"
+    }
+  ],
+  "isFavorite": true
+}

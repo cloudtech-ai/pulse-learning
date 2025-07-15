@@ -1,0 +1,67 @@
+{
+  "id": "strengthsfinder_2_0",
+  "title": "StrengthsFinder 2.0",
+  "description": "StrengthsFinder 2.0 by Tom Rath is a guide to understanding, identifying, and leveraging personal strengths. It introduces readers to the concept of focusing on strengths rather than weaknesses for personal and professional growth. The book provides a framework for discovering one's top talents using the StrengthsFinder assessment and offers strategies for turning these talents into actionable strengths. Through practical advice and insights, Rath encourages individuals and organizations to maximize potential by building on what people do best.",
+  "modules": [
+    {
+      "id": "introduction_to_strengths",
+      "title": "Introduction to Strengths-Based Development",
+      "goal": "Explain the philosophy and value of focusing on strengths rather than weaknesses.",
+      "key_points": [
+        "Traditional development focuses on fixing weaknesses, often overlooking natural talents.",
+        "Research shows that leveraging strengths leads to greater engagement and success.",
+        "Strengths-based development empowers individuals to perform at their best."
+      ]
+    },
+    {
+      "id": "understanding_strengthsfinder",
+      "title": "Understanding the StrengthsFinder Assessment",
+      "goal": "Describe the purpose, process, and structure of the StrengthsFinder assessment.",
+      "key_points": [
+        "The StrengthsFinder assessment identifies an individual's top talent themes.",
+        "It is based on decades of Gallup research into human strengths.",
+        "Results help users understand their unique patterns of thinking, feeling, and behaving."
+      ]
+    },
+    {
+      "id": "exploring_the_34_themes",
+      "title": "Exploring the 34 Talent Themes",
+      "goal": "Introduce and summarize the 34 talent themes identified by StrengthsFinder.",
+      "key_points": [
+        "Each theme represents a natural way of thinking, feeling, or behaving.",
+        "Themes are grouped into four domains: Executing, Influencing, Relationship Building, and Strategic Thinking.",
+        "Understanding each theme helps individuals recognize their top talents and how they contribute."
+      ]
+    },
+    {
+      "id": "interpreting_results",
+      "title": "Interpreting Your Top Strengths",
+      "goal": "Guide users in understanding and making sense of their personal top five themes.",
+      "key_points": [
+        "Self-reflection is key to seeing how themes manifest in daily life.",
+        "Combining themes creates unique strengths profiles.",
+        "Awareness of strengths fosters confidence and intentional growth."
+      ]
+    },
+    {
+      "id": "applying_strengths",
+      "title": "Applying Strengths in Life and Work",
+      "goal": "Provide strategies for leveraging strengths to achieve personal and professional goals.",
+      "key_points": [
+        "Intentionally using strengths boosts engagement, productivity, and satisfaction.",
+        "Strengths-based partnerships and teams outperform those that focus on weaknesses.",
+        "Adapting roles and tasks to fit strengths leads to better outcomes for individuals and organizations."
+      ]
+    },
+    {
+      "id": "developing_strengths",
+      "title": "Developing and Growing Your Strengths",
+      "goal": "Offer practical steps for investing in and developing identified strengths.",
+      "key_points": [
+        "Growth comes from focused practice and learning related to top strengths.",
+        "Seeking feedback and support enhances strengths development.",
+        "Continual investment in strengths results in long-term personal and professional success."
+      ]
+    }
+  ]
+}
