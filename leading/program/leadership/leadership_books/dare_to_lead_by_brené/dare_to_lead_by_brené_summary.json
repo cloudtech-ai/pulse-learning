@@ -1,0 +1,40 @@
+{
+  "id": 6,
+  "title": "Dare to Lead",
+  "description": "A guide to cultivating brave leaders and courageous cultures, focusing on vulnerability, trust, and resilience.",
+  "videoPreview": "Courageous Leadership",
+  "image": "https://example.com/dare-to-lead-cover.jpg",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Rumbling with Vulnerability",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Living into Our Values"
+    },
+    {
+      "id": 63,
+      "title": "Braving Trust"
+    },
+    {
+      "id": 64,
+      "title": "Learning to Rise"
+    }
+  ],
+"videos": [
+  {
+    "id": "6BVWVyVrp4I",
+    "title": "Introduction to Dare to Lead"
+  },
+  {
+    "id": "hEnqV_M_Dm4",
+    "title": "The Power of Vulnerability in Leadership"
+  },
+  {
+    "id": "yPok4OSj31U",
+    "title": "Building Trust in Teams"
+  }
+]
+}

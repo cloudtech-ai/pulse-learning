@@ -135,14 +135,26 @@
       "title": "Dare to Lead",
       "author": "Bren\u00e9 Brown",
       "summary": "Focuses on the power of vulnerability, courage, and authenticity in leadership.",
-      "generative_title": "Dare to Lead by Bren\u00e9 Brown"
+      "generative_title": "Dare to Lead by Bren\u00e9 Brown",
+      "info": "leadership_books/dare_to_lead_by_bren\u00e9/dare_to_lead_by_bren\u00e9_summary.json",
+      "strategies": "leadership_books/dare_to_lead_by_bren\u00e9/dare_to_lead_by_bren\u00e9_strategies.json",
+      "studyPlan": {
+        "module_path": "leadership_books/dare_to_lead_by_bren\u00e9/dare_to_lead_by_bren\u00e9_modules.json",
+        "lesson_path": "leadership_books/dare_to_lead_by_bren\u00e9/dare_to_lead_by_bren\u00e9_lessons.json"
+      }
     },
     {
       "id": 22,
       "title": "Atomic Habits",
       "author": "James Clear",
       "summary": "Explains how small habits can lead to remarkable results and how to build habits that support leadership growth.",
-      "generative_title": "Atomic Habits by James Clear"
+      "generative_title": "Atomic Habits by James Clear",
+      "info": "leadership_books/atomic_habits_by_james_clear/atomic_habits_by_james_clear_summary.json",
+      "strategies": "leadership_books/atomic_habits_by_james_clear/atomic_habits_by_james_clear_strategies.json",
+      "studyPlan": {
+        "module_path": "leadership_books/atomic_habits_by_james_clear/atomic_habits_by_james_clear_modules.json",
+        "lesson_path": "leadership_books/atomic_habits_by_james_clear/atomic_habits_by_james_clear_lessons.json"
+      }
     }
   ]
 }

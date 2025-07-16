@@ -1,0 +1,552 @@
+{
+  "introduction_leadership_redefined": [
+    {
+      "id": "lesson1_leadership_is_potential",
+      "title": "Leadership is Recognizing Potential",
+      "goal": "Learn to see leadership as the ability to recognize and nurture potential in people and ideas.",
+      "keyConcept": "Leadership isn't about titles or authority\u2014it's about seeing the strengths and possibilities in others and in new ideas. True leaders help others grow and encourage innovation by believing in what could be, not just what is. This mindset shifts leadership from a position to a practice anyone can adopt.",
+      "example": "A team member suggests a new way to organize meetings. Instead of dismissing it, you listen and encourage them to develop the idea further, showing you value their input.",
+      "practiceTip": "In your next meeting, actively look for one idea or person whose potential you can acknowledge or support.",
+      "reflectionPrompt": "When was the last time you recognized someone\u2019s potential? How did it affect them?",
+      "quizQuestion": {
+        "question": "What is a key aspect of leadership according to Bren\u00e9 Brown?",
+        "options": [
+          "Having authority over others",
+          "Recognizing potential in people and ideas",
+          "Making all the decisions yourself"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_courage_over_comfort",
+      "title": "Choosing Courage Over Comfort",
+      "goal": "Understand why courage is essential for effective leadership.",
+      "keyConcept": "Courageous leaders are willing to step into uncertainty, take risks, and face difficult conversations. They prioritize doing what\u2019s right over what\u2019s easy or comfortable. This builds trust and sets a powerful example for others to follow.",
+      "example": "You notice a conflict brewing between team members. Instead of ignoring it, you address it openly, even though it feels uncomfortable.",
+      "practiceTip": "Identify one situation this week where you can choose courage over comfort, even in a small way.",
+      "reflectionPrompt": "What\u2019s one area in your work where you tend to avoid discomfort? How might courage change the outcome?",
+      "quizQuestion": {
+        "question": "Why is courage important for leaders?",
+        "options": [
+          "It helps them avoid difficult situations",
+          "It allows them to face challenges and set an example",
+          "It makes them more popular"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_vulnerability_is_strength",
+      "title": "Vulnerability as a Leadership Strength",
+      "goal": "Learn how vulnerability can make you a stronger, more authentic leader.",
+      "keyConcept": "Vulnerability means being open about your uncertainties, mistakes, and feelings. Rather than being a weakness, it fosters connection and trust within teams. Leaders who show vulnerability invite others to do the same, creating a culture of honesty and growth.",
+      "example": "You admit to your team that you don\u2019t have all the answers about a new project, and invite their ideas and feedback.",
+      "practiceTip": "Share one thing you\u2019re unsure about or need help with in your next team interaction.",
+      "reflectionPrompt": "How do you feel when a leader admits they don\u2019t know everything? How might your team feel if you did the same?",
+      "quizQuestion": {
+        "question": "What does vulnerability in leadership encourage?",
+        "options": [
+          "A culture of fear",
+          "A culture of honesty and growth",
+          "A lack of respect"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_leadership_is_for_everyone",
+      "title": "Leadership is Not About Titles",
+      "goal": "Recognize that anyone can be a leader, regardless of their role or title.",
+      "keyConcept": "Leadership is a set of behaviors, not a position. You can lead by example, support your peers, and drive positive change from any seat in an organization. This empowers everyone to contribute and take responsibility for the team\u2019s success.",
+      "example": "An intern notices a process that could be improved and takes initiative to suggest a solution, demonstrating leadership without formal authority.",
+      "practiceTip": "Look for one opportunity today to lead by example, even if you\u2019re not in charge.",
+      "reflectionPrompt": "What\u2019s one way you can show leadership in your current role, no matter your title?",
+      "quizQuestion": {
+        "question": "Who can be a leader according to the new definition?",
+        "options": [
+          "Only managers and executives",
+          "Anyone, regardless of their role",
+          "Only people with experience"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_daily_courage_practice",
+      "title": "Building Courage Through Daily Practice",
+      "goal": "Discover simple ways to practice courage and vulnerability every day.",
+      "keyConcept": "Courage and vulnerability are skills that grow with practice. By taking small, intentional steps\u2014like speaking up, asking for feedback, or admitting mistakes\u2014you build your capacity for brave leadership over time.",
+      "example": "You regularly ask your team for honest feedback on your leadership style, showing you\u2019re open to growth.",
+      "practiceTip": "Set a daily intention to do one thing that feels a little uncomfortable but aligns with your values.",
+      "reflectionPrompt": "What\u2019s one small act of courage you can commit to today?",
+      "quizQuestion": {
+        "question": "How can you strengthen your courage as a leader?",
+        "options": [
+          "By practicing small acts of bravery regularly",
+          "By waiting for big challenges",
+          "By avoiding feedback"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "rumbling_with_vulnerability": [
+    {
+      "id": "vulnerability_is_strength",
+      "title": "Vulnerability Is Strength, Not Weakness",
+      "goal": "Recognize vulnerability as a leadership strength.",
+      "keyConcept": "Vulnerability means being open to uncertainty, risk, and emotional exposure. Contrary to common belief, it is not a sign of weakness but a foundation for authentic leadership. Leaders who embrace vulnerability are better equipped to connect with others and navigate challenges.",
+      "example": "A manager admits to their team that they don't have all the answers about a new project but are committed to figuring it out together.",
+      "practiceTip": "The next time you feel unsure, acknowledge it openly with your team instead of pretending to have all the answers.",
+      "reflectionPrompt": "When was the last time you felt vulnerable at work? How did you respond?",
+      "quizQuestion": {
+        "question": "What does vulnerability in leadership primarily involve?",
+        "options": [
+          "Showing weakness",
+          "Embracing uncertainty and emotional exposure",
+          "Avoiding difficult conversations"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "honest_conversations",
+      "title": "Having Honest, Tough Conversations",
+      "goal": "Learn how to approach difficult conversations with empathy and openness.",
+      "keyConcept": "Rumbling means engaging in honest, sometimes uncomfortable conversations while maintaining empathy and respect. These discussions are essential for resolving conflicts, building trust, and fostering a culture of openness.",
+      "example": "A team leader addresses a recurring issue with a colleague by expressing concern and inviting their perspective, rather than avoiding the topic.",
+      "practiceTip": "Before your next tough conversation, write down your intentions and remind yourself to listen actively and respond with empathy.",
+      "reflectionPrompt": "How do you usually feel before a difficult conversation? What could help you approach it with more openness?",
+      "quizQuestion": {
+        "question": "What is a key element of a 'rumble' conversation?",
+        "options": [
+          "Avoiding sensitive topics",
+          "Having honest dialogue with empathy",
+          "Focusing only on positive feedback"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "modeling_vulnerability",
+      "title": "Modeling Vulnerability as a Leader",
+      "goal": "Understand the impact of modeling vulnerability on team culture.",
+      "keyConcept": "When leaders demonstrate vulnerability, they set the tone for psychological safety. This encourages team members to share ideas, admit mistakes, and take creative risks, leading to greater trust and innovation.",
+      "example": "A supervisor shares a personal story about a past failure and what they learned, inviting others to share their experiences.",
+      "practiceTip": "Share a recent challenge or learning moment with your team to show that it\u2019s safe to be open.",
+      "reflectionPrompt": "How might your team benefit if you showed more vulnerability in your leadership?",
+      "quizQuestion": {
+        "question": "What is one benefit of leaders modeling vulnerability?",
+        "options": [
+          "Decreased team trust",
+          "Increased innovation and openness",
+          "More rigid team structure"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "building_trust",
+      "title": "Building Trust Through Vulnerability",
+      "goal": "Learn how vulnerability fosters trust within teams.",
+      "keyConcept": "Trust is built when leaders are transparent about their feelings, limitations, and intentions. Vulnerability signals authenticity, making it easier for others to trust and collaborate with you.",
+      "example": "A project manager admits a mistake in a team meeting and asks for input on how to move forward.",
+      "practiceTip": "The next time you make a mistake, acknowledge it openly and invite your team to help find a solution.",
+      "reflectionPrompt": "How does your willingness to be vulnerable influence the trust levels in your team?",
+      "quizQuestion": {
+        "question": "How does vulnerability help build trust?",
+        "options": [
+          "By hiding mistakes",
+          "By being transparent and authentic",
+          "By avoiding emotional topics"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "encouraging_team_vulnerability",
+      "title": "Encouraging Vulnerability in Your Team",
+      "goal": "Discover ways to create a safe space for vulnerability in your team.",
+      "keyConcept": "Leaders can encourage vulnerability by responding supportively to team members\u2019 openness and by normalizing honest communication. This creates a culture where everyone feels safe to share ideas, concerns, and feedback.",
+      "example": "A leader thanks a team member for admitting they need help, reinforcing that asking for support is valued.",
+      "practiceTip": "When a team member shares a concern or mistake, respond with appreciation and curiosity instead of criticism.",
+      "reflectionPrompt": "What can you do to make it safer for your team to be open about their challenges?",
+      "quizQuestion": {
+        "question": "What is a practical way to encourage vulnerability in your team?",
+        "options": [
+          "Criticize mistakes harshly",
+          "Thank team members for their honesty",
+          "Discourage open communication"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "living_into_our_values": [
+    {
+      "id": "lesson_1_identify_core_values",
+      "title": "Identifying Your Core Values",
+      "goal": "Help you clarify and define your most important personal values.",
+      "keyConcept": "Knowing your core values is the foundation of authentic leadership. When you are clear about what matters most to you, your decisions and actions become more intentional and aligned. This clarity helps you navigate difficult situations and stay true to yourself, even under pressure.",
+      "example": "A leader who values honesty above all else chooses to give transparent feedback, even when it\u2019s uncomfortable, because it aligns with their core beliefs.",
+      "practiceTip": "List 10 values that resonate with you (e.g., honesty, courage, compassion). Narrow it down to your top 2-3 that you cannot live without.",
+      "reflectionPrompt": "Which values guide your decisions when you face tough choices?",
+      "quizQuestion": {
+        "question": "Why is it important to identify your core values as a leader?",
+        "options": [
+          "To impress others with your principles",
+          "To guide your decisions and actions consistently",
+          "To avoid making mistakes"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_2_aligning_values_actions",
+      "title": "Aligning Actions with Values",
+      "goal": "Show you how to ensure your behaviors reflect your stated values.",
+      "keyConcept": "Living into your values means your actions match your beliefs, even when it\u2019s difficult. Consistency between what you say and what you do builds credibility and trust with others. When your actions contradict your values, it can erode trust and create confusion.",
+      "example": "A manager who values respect makes sure to listen attentively to team members, even during busy times, demonstrating that respect is more than just a word.",
+      "practiceTip": "Before making a decision, ask yourself: 'Does this choice reflect my core values?' If not, consider what adjustments you can make.",
+      "reflectionPrompt": "Can you recall a time when your actions didn\u2019t align with your values? What did you learn?",
+      "quizQuestion": {
+        "question": "What is a key benefit of aligning your actions with your values?",
+        "options": [
+          "It makes you more popular",
+          "It builds credibility and trust",
+          "It guarantees success"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_3_values_in_decision_making",
+      "title": "Using Values in Decision-Making",
+      "goal": "Teach you how to use your values as a compass for making tough decisions.",
+      "keyConcept": "When faced with challenging choices, your values can serve as a reliable guide. By checking your options against your core values, you can make decisions that you\u2019ll be proud of, even if the outcome is uncertain or unpopular.",
+      "example": "A team leader must choose between meeting a deadline and delivering quality work. Remembering that 'excellence' is a core value, they decide to request an extension to maintain high standards.",
+      "practiceTip": "When making a difficult decision, write down your top values and evaluate each option based on how well it aligns with them.",
+      "reflectionPrompt": "How might your values influence a difficult decision you\u2019re currently facing?",
+      "quizQuestion": {
+        "question": "How can values help during tough decisions?",
+        "options": [
+          "They provide a clear guide for what to do",
+          "They make decisions easier for everyone",
+          "They remove all risks"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_4_setting_boundaries",
+      "title": "Setting Boundaries Based on Values",
+      "goal": "Help you establish boundaries that protect and honor your values.",
+      "keyConcept": "Boundaries are essential for living into your values. They define what is acceptable and what is not, helping you stay true to your beliefs. Setting boundaries can be uncomfortable, but it\u2019s necessary for maintaining integrity and self-respect.",
+      "example": "If 'work-life balance' is a core value, a leader might set a boundary of not responding to work emails after 7 PM, even if others expect immediate replies.",
+      "practiceTip": "Identify one area where your values are being compromised. Set a clear, respectful boundary and communicate it to those involved.",
+      "reflectionPrompt": "What is one boundary you need to set to better honor your values?",
+      "quizQuestion": {
+        "question": "Why are boundaries important for values-driven leadership?",
+        "options": [
+          "They help you avoid all conflict",
+          "They protect your values and integrity",
+          "They make you more popular"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_5_accountability_and_growth",
+      "title": "Accountability and Growth",
+      "goal": "Encourage you to hold yourself accountable and grow when you fall short of your values.",
+      "keyConcept": "No one lives into their values perfectly all the time. The key is to recognize when you fall short, take responsibility, and make amends. This willingness to be accountable not only strengthens your leadership but also models growth and humility for others.",
+      "example": "A supervisor realizes they spoke harshly to a team member, which goes against their value of kindness. They apologize and commit to more mindful communication in the future.",
+      "practiceTip": "When you notice a gap between your actions and values, acknowledge it, apologize if needed, and plan how to do better next time.",
+      "reflectionPrompt": "How do you typically respond when you act against your values? What could you do differently?",
+      "quizQuestion": {
+        "question": "What is the best response when you realize your actions didn\u2019t align with your values?",
+        "options": [
+          "Ignore it and move on",
+          "Blame others",
+          "Acknowledge it, apologize, and commit to improvement"
+        ],
+        "correctAnswer": 2
+      }
+    }
+  ],
+  "braving_trust": [
+    {
+      "id": "braving_boundaries",
+      "title": "Setting and Respecting Boundaries",
+      "goal": "Understand how clear boundaries build trust within teams.",
+      "keyConcept": "Boundaries are the limits we set for ourselves and others regarding what is acceptable. Clearly communicating and respecting boundaries helps create a safe environment where team members feel valued and understood. When leaders model healthy boundaries, it encourages openness and mutual respect.",
+      "example": "A team member lets their manager know they are unavailable for work emails after 7 PM. The manager respects this and schedules communications accordingly.",
+      "practiceTip": "Ask your team members about their boundaries and share your own. For example, say, 'I want to make sure we're respecting each other's time. Are there any boundaries you'd like me to be aware of?'",
+      "reflectionPrompt": "When was the last time you communicated a boundary at work? How was it received?",
+      "quizQuestion": {
+        "question": "What is a key benefit of setting clear boundaries in a team?",
+        "options": [
+          "It helps build trust and respect.",
+          "It makes work less efficient.",
+          "It encourages ignoring team members."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "braving_reliability",
+      "title": "Practicing Reliability",
+      "goal": "Learn how consistency and follow-through foster trust.",
+      "keyConcept": "Reliability means doing what you say you will do, consistently. Trust grows when team members know they can count on each other to follow through on commitments. Even small actions, done reliably, reinforce trust over time.",
+      "example": "A leader promises to provide feedback by Friday and always delivers on time, showing the team they can depend on her.",
+      "practiceTip": "Before making a commitment, pause and ask yourself if you can realistically deliver. If you can't, communicate honestly rather than overpromising.",
+      "reflectionPrompt": "Think of a recent promise you made at work. Did you follow through? How did it impact trust?",
+      "quizQuestion": {
+        "question": "Which action best demonstrates reliability?",
+        "options": [
+          "Making promises you can't keep.",
+          "Consistently following through on commitments.",
+          "Waiting for others to remind you of your tasks."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "braving_accountability",
+      "title": "Owning Mistakes with Accountability",
+      "goal": "Discover how accountability strengthens trust after mistakes.",
+      "keyConcept": "Accountability means owning your actions, especially when things go wrong. Admitting mistakes and making amends shows courage and integrity. It reassures your team that you value honesty over perfection, which deepens trust.",
+      "example": "A manager realizes they gave incorrect information in a meeting and promptly corrects it, apologizing to the team and providing the right details.",
+      "practiceTip": "If you make a mistake, acknowledge it quickly and outline how you\u2019ll fix it. For example, 'I made an error in yesterday\u2019s report. Here\u2019s what happened and how I\u2019ll correct it.'",
+      "reflectionPrompt": "Recall a time when someone admitted a mistake to you. How did it affect your trust in them?",
+      "quizQuestion": {
+        "question": "What is the best way to demonstrate accountability?",
+        "options": [
+          "Blaming others for mistakes.",
+          "Ignoring errors.",
+          "Admitting mistakes and making amends."
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "braving_vault",
+      "title": "Keeping Confidence: The Vault",
+      "goal": "Recognize the importance of confidentiality in building trust.",
+      "keyConcept": "The 'Vault' means keeping shared information confidential. When team members know their private conversations or concerns won\u2019t be shared without permission, they feel safe to be open and honest. Breaking confidentiality erodes trust quickly.",
+      "example": "A colleague shares a personal struggle with you. You listen and keep it private, rather than discussing it with others.",
+      "practiceTip": "When someone shares something in confidence, respond with, 'Thank you for trusting me. I will keep this between us unless you ask me to share.'",
+      "reflectionPrompt": "Have you ever trusted someone with confidential information? How did their response affect your relationship?",
+      "quizQuestion": {
+        "question": "What does 'the Vault' refer to in building trust?",
+        "options": [
+          "Storing important documents.",
+          "Keeping shared information confidential.",
+          "Locking your office door."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "braving_generosity",
+      "title": "Assuming Positive Intent: Generosity",
+      "goal": "Learn how generous assumptions can prevent misunderstandings and build trust.",
+      "keyConcept": "Generosity in trust means assuming others are doing their best and giving them the benefit of the doubt. This mindset helps prevent unnecessary conflict and encourages open, honest communication. It also creates a more supportive and trusting team environment.",
+      "example": "A teammate misses a deadline. Instead of assuming they are careless, you check in to see if they need support or if something unexpected happened.",
+      "practiceTip": "Before reacting to a mistake, pause and ask yourself, 'What\u2019s the most generous assumption I can make about this situation?'",
+      "reflectionPrompt": "How might your relationships change if you consistently assumed positive intent from others?",
+      "quizQuestion": {
+        "question": "What is a practical way to show generosity in a team?",
+        "options": [
+          "Assume others are doing their best.",
+          "Jump to negative conclusions.",
+          "Ignore team members' efforts."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "learning_to_rise": [
+    {
+      "id": "rise_1_recognize_emotions",
+      "title": "Recognize and Name Your Emotions",
+      "goal": "Learn to identify and label your emotions during setbacks.",
+      "keyConcept": "Understanding what you feel is the first step to resilience. When you experience a setback, pausing to recognize and name your emotions helps you process them instead of being overwhelmed. This self-awareness is essential for moving forward constructively.",
+      "example": "After receiving critical feedback at work, instead of ignoring your feelings, you pause and realize you feel embarrassed and frustrated.",
+      "practiceTip": "Next time you face a setback, take a moment to ask yourself: 'What am I feeling right now?' Try to name at least one or two emotions.",
+      "reflectionPrompt": "When was the last time you paused to identify your emotions after a difficult experience? What did you notice?",
+      "quizQuestion": {
+        "question": "Why is it important to recognize and name your emotions after a setback?",
+        "options": [
+          "It helps you process and manage your feelings.",
+          "It allows you to ignore the problem.",
+          "It makes you forget about the setback."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "rise_2_understand_stories",
+      "title": "Understand the Stories You Tell Yourself",
+      "goal": "Become aware of the narratives you create about setbacks.",
+      "keyConcept": "We often create stories in our minds to explain why things happen, especially after failures. These stories may not be accurate and can influence how we feel and act. By examining these narratives, you can separate facts from assumptions and respond more effectively.",
+      "example": "After a project fails, you catch yourself thinking, 'I'm not good enough.' By questioning this story, you realize it's just a feeling, not a fact.",
+      "practiceTip": "When you notice a negative thought after a setback, ask yourself: 'Is this story true? What evidence do I have?'",
+      "reflectionPrompt": "What story do you often tell yourself when things go wrong? How does it affect your actions?",
+      "quizQuestion": {
+        "question": "What is a helpful way to deal with the stories you tell yourself after a failure?",
+        "options": [
+          "Accept them as facts.",
+          "Question their accuracy and look for evidence.",
+          "Ignore them completely."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "rise_3_normalize_failure",
+      "title": "Normalize Failure as Part of Growth",
+      "goal": "Shift your mindset to view failure as a natural part of learning and innovation.",
+      "keyConcept": "Failure is not a sign of weakness but a necessary part of growth. Leaders who normalize failure create environments where people feel safe to take risks and innovate. Embracing mistakes as learning opportunities builds resilience and encourages continuous improvement.",
+      "example": "A team leader shares their own mistakes in a meeting, showing that everyone, including leaders, experiences setbacks.",
+      "practiceTip": "Share a recent failure with a colleague or team and discuss what you learned from it.",
+      "reflectionPrompt": "How do you usually react to failure\u2014do you hide it, or do you talk about it openly? How might normalizing failure help your team?",
+      "quizQuestion": {
+        "question": "Why should leaders normalize failure?",
+        "options": [
+          "To discourage risk-taking.",
+          "To create a safe environment for learning and innovation.",
+          "To avoid responsibility."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "rise_4_self_awareness",
+      "title": "Practice Self-Awareness in Difficult Moments",
+      "goal": "Develop the habit of checking in with yourself during challenging times.",
+      "keyConcept": "Self-awareness means noticing your thoughts, feelings, and reactions in the moment. By regularly checking in with yourself, you can respond thoughtfully instead of reacting impulsively. This practice helps you stay grounded and make better decisions after setbacks.",
+      "example": "During a stressful meeting, you notice your heart racing and your mind jumping to conclusions. You pause, take a breath, and choose to listen before responding.",
+      "practiceTip": "Set a reminder to pause and check in with yourself once a day, especially during stressful situations. Ask: 'What am I thinking and feeling right now?'",
+      "reflectionPrompt": "How does pausing to check in with yourself change your response to stress or setbacks?",
+      "quizQuestion": {
+        "question": "What is a benefit of practicing self-awareness during setbacks?",
+        "options": [
+          "It helps you react impulsively.",
+          "It allows you to respond thoughtfully.",
+          "It makes you ignore your feelings."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "rise_5_self_compassion",
+      "title": "Show Yourself Compassion After a Fall",
+      "goal": "Learn to treat yourself with kindness and understanding after setbacks.",
+      "keyConcept": "Self-compassion means being gentle with yourself when things go wrong, rather than being overly critical. This approach helps you recover more quickly and maintain your motivation. Leaders who practice self-compassion model resilience for others.",
+      "example": "After making a mistake in a presentation, instead of harshly criticizing yourself, you remind yourself that everyone makes mistakes and focus on what you can learn.",
+      "practiceTip": "When you catch yourself being self-critical, pause and ask: 'What would I say to a friend in this situation?' Try saying those words to yourself.",
+      "reflectionPrompt": "How do you usually talk to yourself after a mistake? What would change if you responded with more compassion?",
+      "quizQuestion": {
+        "question": "What is a key aspect of self-compassion?",
+        "options": [
+          "Being harsh and critical with yourself.",
+          "Treating yourself with kindness and understanding.",
+          "Ignoring your mistakes."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "building_courageous_cultures": [
+    {
+      "id": "microlesson_1_psychological_safety",
+      "title": "Creating Psychological Safety",
+      "goal": "Understand and foster psychological safety within your team.",
+      "keyConcept": "Psychological safety is the belief that you won\u2019t be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes. When team members feel safe, they are more likely to share innovative ideas and take healthy risks. Leaders play a crucial role in modeling vulnerability and encouraging open dialogue.",
+      "example": "During a team meeting, a manager openly admits they made a mistake on a recent project and invites others to share their own lessons learned. This sets the tone that it\u2019s okay to be imperfect and to learn together.",
+      "practiceTip": "Start your next team meeting by sharing something you learned from a recent challenge or mistake, and invite others to do the same.",
+      "reflectionPrompt": "When was the last time you felt safe sharing a new idea or mistake at work? What contributed to that feeling?",
+      "quizQuestion": {
+        "question": "What is psychological safety?",
+        "options": [
+          "A sense of job security",
+          "The belief that you can share ideas and mistakes without fear of negative consequences",
+          "A formal policy for team communication"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "microlesson_2_clear_kind_feedback",
+      "title": "Giving Clear and Kind Feedback",
+      "goal": "Learn how to provide feedback that is both direct and compassionate.",
+      "keyConcept": "Effective feedback is clear, specific, and delivered with empathy. It helps others grow without causing defensiveness or shame. Bren\u00e9 Brown emphasizes that 'clear is kind, unclear is unkind'\u2014being honest and direct, while also being respectful, is essential for courageous cultures.",
+      "example": "Instead of saying, 'Your report needs work,' a leader says, 'I noticed the data section was missing some key figures. Let\u2019s review them together so your next report is even stronger.'",
+      "practiceTip": "Before giving feedback, pause and ask yourself: Is what I\u2019m about to say clear, specific, and kind?",
+      "reflectionPrompt": "Think of a time you received feedback that helped you grow. What made it effective?",
+      "quizQuestion": {
+        "question": "Which phrase best reflects clear and kind feedback?",
+        "options": [
+          "'You always mess up the reports.'",
+          "'Your report was missing some data. Let\u2019s review it together.'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "microlesson_3_inviting_ideas",
+      "title": "Inviting and Valuing Diverse Ideas",
+      "goal": "Encourage team members to share their ideas and perspectives.",
+      "keyConcept": "Courageous cultures are inclusive and value input from everyone. Leaders can create space for all voices by actively inviting participation and showing appreciation for different viewpoints. This not only sparks innovation but also strengthens team connection.",
+      "example": "A team leader regularly asks quieter team members for their thoughts during meetings, ensuring everyone has a chance to contribute.",
+      "practiceTip": "In your next meeting, intentionally ask someone who hasn\u2019t spoken yet for their opinion or idea.",
+      "reflectionPrompt": "How do you currently encourage quieter team members to share their ideas?",
+      "quizQuestion": {
+        "question": "Why is it important to invite input from all team members?",
+        "options": [
+          "To make meetings longer",
+          "To foster innovation and inclusivity",
+          "To avoid making decisions"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "microlesson_4_modeling_vulnerability",
+      "title": "Modeling Vulnerability as a Leader",
+      "goal": "Recognize the power of vulnerability in leadership and practice it with your team.",
+      "keyConcept": "Vulnerability is not weakness; it\u2019s the courage to show up and be seen, even when there are no guarantees. Leaders who model vulnerability build trust and encourage others to do the same, creating a more connected and resilient team.",
+      "example": "A manager shares their uncertainty about a new project and asks the team for input, showing that it\u2019s okay not to have all the answers.",
+      "practiceTip": "Share a time when you didn\u2019t have all the answers or needed help, and invite your team to do the same.",
+      "reflectionPrompt": "What\u2019s one area where you could be more open with your team?",
+      "quizQuestion": {
+        "question": "What does vulnerability in leadership look like?",
+        "options": [
+          "Pretending to know everything",
+          "Admitting when you need help or don\u2019t have all the answers"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "microlesson_5_supporting_learning",
+      "title": "Supporting Ongoing Learning and Growth",
+      "goal": "Promote a culture where learning from mistakes and continuous improvement are valued.",
+      "keyConcept": "Courageous cultures see mistakes as opportunities for learning, not as failures. Leaders encourage reflection, experimentation, and growth by normalizing setbacks and celebrating progress. This mindset helps teams adapt and thrive in changing environments.",
+      "example": "After a project doesn\u2019t go as planned, the team holds a 'retrospective' to discuss what worked, what didn\u2019t, and what they\u2019ll try differently next time.",
+      "practiceTip": "After completing a project or task, ask your team: 'What did we learn, and how can we improve next time?'",
+      "reflectionPrompt": "How do you currently respond to mistakes\u2014your own or your team\u2019s?",
+      "quizQuestion": {
+        "question": "How should leaders respond to mistakes in courageous cultures?",
+        "options": [
+          "Punish the person responsible",
+          "Ignore them",
+          "Use them as learning opportunities"
+        ],
+        "correctAnswer": 2
+      }
+    }
+  ]
+}

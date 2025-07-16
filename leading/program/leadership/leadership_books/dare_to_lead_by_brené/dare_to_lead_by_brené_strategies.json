@@ -1,0 +1,106 @@
+[
+  {
+    "id": 61,
+    "bookId": 1,
+    "title": "Rumbling with Vulnerability",
+    "summary": "Engage in honest conversations about emotions and fears to build courage and connection.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Vulnerability is the birthplace of courage, creativity, and trust. Rumbling with vulnerability means facing uncertainty, risk, and emotional exposure, which are essential for authentic leadership and meaningful relationships."
+      },
+      {
+        "section": "Example",
+        "content": "A leader admits to their team that they don\u2019t have all the answers about a new project, inviting input and collaboration rather than pretending to be certain."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Acknowledge your emotions and name them.",
+          "Ask open-ended questions to explore feelings and perspectives.",
+          "Practice active listening without judgment.",
+          "Share your own uncertainties and mistakes.",
+          "Set boundaries to ensure psychological safety."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 1,
+    "title": "Living into Our Values",
+    "summary": "Identify and act in alignment with your core values, even when it\u2019s difficult.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Clarity of values guides decision-making and behavior, especially under pressure. Living into your values builds integrity, trust, and resilience."
+      },
+      {
+        "section": "Example",
+        "content": "When pressured to cut corners on a project, a leader stands firm on the value of honesty, choosing transparency over expediency."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Identify your top two core values.",
+          "Reflect on how your daily actions align with these values.",
+          "Communicate your values to your team.",
+          "Use your values as a filter for tough decisions.",
+          "Hold yourself and others accountable to shared values."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 1,
+    "title": "Braving Trust",
+    "summary": "Build and maintain trust through consistent behaviors and clear boundaries.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Trust is the foundation of effective teams and organizations. It is built in small moments and can be broken by breaches in integrity, reliability, or respect."
+      },
+      {
+        "section": "Example",
+        "content": "A manager consistently follows through on promises and admits when they make a mistake, reinforcing trust with their team."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Be reliable\u2014do what you say you\u2019ll do.",
+          "Respect confidentiality and boundaries.",
+          "Own your mistakes and apologize when needed.",
+          "Be generous in your interpretations of others\u2019 actions.",
+          "Communicate clearly and honestly."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 1,
+    "title": "Learning to Rise",
+    "summary": "Develop resilience by recognizing setbacks, owning your stories, and rising strong after failures.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Failure and disappointment are inevitable. Learning to rise means developing the skills to recover, learn, and grow from setbacks, which is essential for innovation and leadership."
+      },
+      {
+        "section": "Example",
+        "content": "After a failed product launch, a team debriefs openly about what went wrong, learns from the experience, and applies those lessons to future projects."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Recognize and acknowledge your emotional responses to setbacks.",
+          "Challenge the stories you tell yourself about failure.",
+          "Seek feedback and support from trusted colleagues.",
+          "Practice self-compassion and patience.",
+          "Identify actionable lessons and move forward with intention."
+        ]
+      }
+    ]
+  }
+]

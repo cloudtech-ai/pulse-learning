@@ -1,0 +1,67 @@
+{
+  "id": "atomic_habits",
+  "title": "Atomic Habits",
+  "description": "Atomic Habits by James Clear explores the science of habit formation and provides practical strategies for building good habits and breaking bad ones. The book emphasizes the power of small changes, or 'atomic habits', that compound over time to create remarkable results. Through actionable advice and real-life examples, Clear illustrates how to design systems that make positive behaviors easy and sustainable. Readers learn the importance of identity, environment, and continuous improvement in mastering habits for personal and professional growth.",
+  "modules": [
+    {
+      "id": "foundations_of_habits",
+      "title": "Foundations of Habits",
+      "goal": "Understand what habits are and why small changes matter.",
+      "key_points": [
+        "Habits are the compound interest of self-improvement.",
+        "Tiny changes, when repeated, lead to significant results over time.",
+        "Focus on systems and processes rather than goals alone."
+      ]
+    },
+    {
+      "id": "the_habit_loop",
+      "title": "The Habit Loop",
+      "goal": "Learn the four-step process of habit formation.",
+      "key_points": [
+        "Habits follow a loop: cue, craving, response, and reward.",
+        "Recognizing each step helps in understanding and changing habits.",
+        "Modifying cues and rewards can reshape behaviors."
+      ]
+    },
+    {
+      "id": "building_better_habits",
+      "title": "Building Better Habits",
+      "goal": "Apply strategies to develop positive habits effectively.",
+      "key_points": [
+        "Make good habits obvious, attractive, easy, and satisfying.",
+        "Environment design is crucial in making habits stick.",
+        "Stacking new habits onto existing routines increases success."
+      ]
+    },
+    {
+      "id": "breaking_bad_habits",
+      "title": "Breaking Bad Habits",
+      "goal": "Discover how to identify and eliminate negative behaviors.",
+      "key_points": [
+        "Make bad habits invisible, unattractive, difficult, and unsatisfying.",
+        "Awareness and tracking are vital in breaking unwanted patterns.",
+        "Changing your environment can disrupt automatic bad behaviors."
+      ]
+    },
+    {
+      "id": "identity_habits",
+      "title": "Identity and Habits",
+      "goal": "Understand the connection between habits and personal identity.",
+      "key_points": [
+        "True behavior change is identity change: focus on who you wish to become.",
+        "Every action is a vote for the type of person you want to be.",
+        "Aligning habits with your desired identity strengthens long-term change."
+      ]
+    },
+    {
+      "id": "advanced_tactics_for_habit_change",
+      "title": "Advanced Tactics for Habit Change",
+      "goal": "Explore deeper strategies and troubleshooting for persistent habit mastery.",
+      "key_points": [
+        "Track and measure habits for continuous improvement.",
+        "Overcome plateaus and maintain motivation through reflection and adjustment.",
+        "Use accountability and habit contracts to reinforce commitment."
+      ]
+    }
+  ]
+}

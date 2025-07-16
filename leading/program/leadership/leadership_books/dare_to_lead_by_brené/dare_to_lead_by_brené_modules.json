@@ -1,0 +1,67 @@
+{
+  "id": "dare_to_lead",
+  "title": "Dare to Lead",
+  "description": "Dare to Lead by Bren\u00e9 Brown is a transformative guide that explores the power of vulnerability, courage, and empathy in leadership. Drawing on years of research, Brown challenges traditional notions of leadership and provides practical tools for cultivating brave workplaces. The book emphasizes building trust, honest conversations, and embracing difficult feedback as essential elements of effective leadership. Through compelling stories and actionable strategies, readers are encouraged to step up, show up, and lead with heart.",
+  "modules": [
+    {
+      "id": "introduction_leadership_redefined",
+      "title": "Introduction: Leadership Redefined",
+      "goal": "Understand the new definition of leadership and why courage is its foundation.",
+      "key_points": [
+        "Leadership is about recognizing potential in people and ideas, not status or power.",
+        "Courage and vulnerability are essential qualities for modern leaders.",
+        "Everyone can be a leader, regardless of their role or title."
+      ]
+    },
+    {
+      "id": "rumbling_with_vulnerability",
+      "title": "Rumbling with Vulnerability",
+      "goal": "Learn how embracing vulnerability leads to stronger, more resilient leadership.",
+      "key_points": [
+        "Vulnerability is uncertainty, risk, and emotional exposure, not weakness.",
+        "Rumbling refers to having honest, tough conversations with empathy and openness.",
+        "Leaders who model vulnerability foster trust and innovation within their teams."
+      ]
+    },
+    {
+      "id": "living_into_our_values",
+      "title": "Living into Our Values",
+      "goal": "Identify and align personal and organizational values to guide leadership behaviors.",
+      "key_points": [
+        "Clarifying core values provides direction for decision-making and actions.",
+        "Consistency in living by values builds credibility and trust.",
+        "Values-driven leadership requires setting boundaries and holding oneself accountable."
+      ]
+    },
+    {
+      "id": "braving_trust",
+      "title": "BRAVING Trust",
+      "goal": "Explore the components of trust and how to build it within teams.",
+      "key_points": [
+        "The BRAVING acronym breaks trust into seven actionable elements: Boundaries, Reliability, Accountability, Vault, Integrity, Non-judgment, and Generosity.",
+        "Trust is built in small moments and requires intentional actions.",
+        "Restoring trust after it is broken is possible, but requires courage and honesty."
+      ]
+    },
+    {
+      "id": "learning_to_rise",
+      "title": "Learning to Rise",
+      "goal": "Develop resilience by learning how to recover from setbacks and failures.",
+      "key_points": [
+        "Resilience involves recognizing emotions and understanding the stories we tell ourselves.",
+        "Leaders must normalize failure as part of growth and innovation.",
+        "Practicing self-awareness and self-compassion are key to rising after a fall."
+      ]
+    },
+    {
+      "id": "building_courageous_cultures",
+      "title": "Building Courageous Cultures",
+      "goal": "Apply key principles from the book to foster a culture of courage and connection.",
+      "key_points": [
+        "Psychological safety enables teams to take risks and share ideas openly.",
+        "Feedback should be clear, kind, and actionable.",
+        "Courageous cultures support ongoing learning, inclusivity, and meaningful connection."
+      ]
+    }
+  ]
+}

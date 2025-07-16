@@ -1,0 +1,64 @@
+{
+  "id": 6,
+  "title": "Atomic Habits",
+  "description": "An exploration of how tiny changes can lead to remarkable results, focusing on the power of compound growth and the importance of building good habits and breaking bad ones.",
+  "videoPreview": "The Power of Tiny Habits",
+  "image": "https://openclipart.org/image/800px/30764",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "The 1% Rule",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Habit Stacking"
+    },
+    {
+      "id": 63,
+      "title": "The Four Laws of Behavior Change"
+    },
+    {
+      "id": 64,
+      "title": "The Two-Minute Rule"
+    },
+    {
+      "id": 65,
+      "title": "Environment Design"
+    },
+    {
+      "id": 66,
+      "title": "Identity-Based Habits"
+    },
+    {
+      "id": 67,
+      "title": "The Goldilocks Rule"
+    }
+  ],
+"videos": [
+  {
+    "id": "btp-sbwb7zM",
+    "title": "Atomic Habits by James Clear – Book Summary"
+  },
+  {
+    "id": "J15DCpKhkoQ",
+    "title": "Habit Stacking – How to Build New Habits by Taking Advantage of Old Ones"
+  },
+  {
+    "id": "1gdkBt9it84",
+    "title": "Atomic Habits – Tiny Changes that Create Remarkable Results"
+  },
+    {
+    "id": "zCkHtvu8Fs4",
+    "title": "The 4 Laws of Behavior Change"
+  },
+  {
+    "id": "XT5O_7u3-VU",
+    "title": "The Two‑Minute Rule – Atomic Habits"
+  },
+  {
+    "id": "mnRywBvjjIs",
+    "title": "Identity-Based Habits – James Clear"
+  }
+]
+}

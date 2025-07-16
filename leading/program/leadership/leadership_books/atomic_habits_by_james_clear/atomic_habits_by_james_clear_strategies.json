@@ -1,0 +1,177 @@
+[
+  {
+    "id": 61,
+    "bookId": 1,
+    "title": "The 1% Rule",
+    "summary": "Focus on making small, incremental improvements every day to achieve remarkable long-term results.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Tiny improvements compound over time, leading to significant progress. Consistency in small changes is more sustainable and less overwhelming than aiming for drastic transformations."
+      },
+      {
+        "section": "Example",
+        "content": "If you improve by just 1% each day, those gains add up to nearly 37 times better after one year."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Identify one small area to improve today.",
+          "Track your daily progress, no matter how minor.",
+          "Celebrate small wins to stay motivated.",
+          "Focus on consistency over perfection."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 1,
+    "title": "Habit Stacking",
+    "summary": "Link a new habit to an existing one to make it easier to remember and perform.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Attaching a new behavior to a well-established habit leverages existing routines, making it easier to adopt new habits without relying on willpower."
+      },
+      {
+        "section": "Example",
+        "content": "After I brush my teeth (current habit), I will meditate for one minute (new habit)."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Choose a current habit you do daily.",
+          "Pair your new habit immediately after the existing one.",
+          "Keep the new habit small and specific.",
+          "Repeat the sequence consistently."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 1,
+    "title": "The Four Laws of Behavior Change",
+    "summary": "A framework for building good habits and breaking bad ones using four key principles: Make it obvious, attractive, easy, and satisfying.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Understanding these laws helps you design habits that stick and avoid common pitfalls that lead to failure."
+      },
+      {
+        "section": "Example",
+        "content": "To start reading more: Place your book on your pillow (obvious), choose a book you\u2019re excited about (attractive), read one page (easy), and reward yourself after reading (satisfying)."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Make cues for good habits visible.",
+          "Pair habits with enjoyable activities.",
+          "Break habits into tiny steps.",
+          "Reward yourself immediately after completing the habit."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 1,
+    "title": "The Two-Minute Rule",
+    "summary": "Downscale new habits to take two minutes or less to make starting easy and reduce resistance.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Starting is often the hardest part. Making habits easy to begin increases the likelihood of following through."
+      },
+      {
+        "section": "Example",
+        "content": "If you want to run regularly, start by putting on your running shoes and stepping outside for two minutes."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Break down habits to the simplest first step.",
+          "Focus on showing up, not perfection.",
+          "Allow yourself to stop after two minutes if you want.",
+          "Gradually build up from the two-minute version."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 1,
+    "title": "Environment Design",
+    "summary": "Shape your surroundings to make good habits easier and bad habits harder.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Your environment often determines your behavior. Small changes in your surroundings can have a big impact on your habits."
+      },
+      {
+        "section": "Example",
+        "content": "If you want to eat healthier, place fruit on the counter and hide junk food out of sight."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Make cues for good habits visible and accessible.",
+          "Remove temptations from your environment.",
+          "Organize spaces for specific habits (e.g., reading nook).",
+          "Automate positive behaviors where possible."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "bookId": 1,
+    "title": "Identity-Based Habits",
+    "summary": "Focus on the type of person you want to become, not just the outcomes you want to achieve.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "When habits are tied to your identity, you\u2019re more likely to stick with them because they become part of who you are."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of saying 'I want to run a marathon,' say 'I am a runner.'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Ask yourself, 'Who is the type of person that could achieve this goal?'",
+          "Affirm your identity with each small habit performed.",
+          "Focus on building evidence for your desired identity.",
+          "Let your actions reinforce your self-image."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "bookId": 1,
+    "title": "The Goldilocks Rule",
+    "summary": "Stay motivated by working on tasks that are just the right level of difficulty\u2014not too hard, not too easy.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Tasks that are too easy lead to boredom, while those that are too hard cause discouragement. The optimal challenge keeps you engaged and motivated."
+      },
+      {
+        "section": "Example",
+        "content": "If you\u2019re learning a language, choose material that is slightly above your current level to stay challenged but not overwhelmed."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Adjust the difficulty of your habits as you improve.",
+          "Seek feedback to find your optimal challenge zone.",
+          "Celebrate progress to maintain motivation.",
+          "Switch things up if you feel bored or stuck."
+        ]
+      }
+    ]
+  }
+]
