@@ -1,0 +1,77 @@
+{
+  "id": "good_to_great",
+  "title": "Good to Great",
+  "description": "Good to Great by Jim Collins explores the distinguishing factors that enable some companies to make the leap from being good organizations to becoming truly great ones. Through extensive research and analysis, Collins identifies key traits, behaviors, and practices that separate great companies from the rest. The book presents actionable concepts, such as Level 5 Leadership, the Hedgehog Concept, and a culture of discipline, that leaders can use to drive lasting success. It offers practical insights for anyone aiming to transform their organization and achieve sustained excellence.",
+  "modules": [
+    {
+      "id": "level_5_leadership",
+      "title": "Level 5 Leadership",
+      "goal": "Understand the characteristics and impact of Level 5 Leaders in building great companies.",
+      "key_points": [
+        "Level 5 Leaders combine personal humility with intense professional will.",
+        "They prioritize the success of the company over personal ambition.",
+        "Such leaders set up successors for success and take responsibility for failures."
+      ]
+    },
+    {
+      "id": "first_who_then_what",
+      "title": "First Who, Then What",
+      "goal": "Learn the importance of having the right people on the team before defining the strategy.",
+      "key_points": [
+        "Great companies focus on getting the right people on the bus before deciding where to drive it.",
+        "Hiring and retaining the right talent is prioritized over strategy or vision.",
+        "Wrong people are removed quickly to maintain team strength and standards."
+      ]
+    },
+    {
+      "id": "confront_the_brutal_facts",
+      "title": "Confront the Brutal Facts",
+      "goal": "Explore how facing reality with openness leads to better decision-making and growth.",
+      "key_points": [
+        "Great companies create a culture where the truth is heard and reality is confronted.",
+        "Leaders encourage open dialogue and healthy debate.",
+        "Facing brutal facts enables organizations to respond effectively and adapt."
+      ]
+    },
+    {
+      "id": "the_hedgehog_concept",
+      "title": "The Hedgehog Concept",
+      "goal": "Understand how focusing on what you can be best at leads to sustainable greatness.",
+      "key_points": [
+        "Great companies find the intersection of passion, skill, and economic engine.",
+        "They focus on what they can be the best in the world at.",
+        "The Hedgehog Concept provides a simple, clarifying framework for decision-making."
+      ]
+    },
+    {
+      "id": "culture_of_discipline",
+      "title": "Culture of Discipline",
+      "goal": "Recognize the role of disciplined people, thought, and action in achieving lasting success.",
+      "key_points": [
+        "A culture of discipline allows creativity within a consistent framework.",
+        "Disciplined people do not require excessive controls or bureaucracy.",
+        "Adherence to the Hedgehog Concept is maintained through discipline."
+      ]
+    },
+    {
+      "id": "technology_accelerators",
+      "title": "Technology Accelerators",
+      "goal": "Examine how great companies use technology as an accelerator, not a creator, of momentum.",
+      "key_points": [
+        "Great companies adopt technology that aligns with their Hedgehog Concept.",
+        "Technology is used to accelerate existing momentum, not to create it.",
+        "Careful selection and disciplined use of technology sets great companies apart."
+      ]
+    },
+    {
+      "id": "the_flywheel_and_doom_loop",
+      "title": "The Flywheel and the Doom Loop",
+      "goal": "Learn the difference between building momentum through consistent effort and the pitfalls of reactive management.",
+      "key_points": [
+        "The Flywheel effect describes building momentum through consistent, focused actions.",
+        "Great companies avoid the Doom Loop of short-term thinking and frequent changes.",
+        "Sustained effort and cumulative progress drive the leap from good to great."
+      ]
+    }
+  ]
+}

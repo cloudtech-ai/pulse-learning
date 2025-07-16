@@ -1,0 +1,76 @@
+{
+  "id": 1,
+  "title": "Leading Change",
+  "description": "A comprehensive guide to implementing successful organizational change by following an eight-step process.",
+  "videoPreview": "The Eight Steps of Change",
+  "image": "https://example.com/image.jpg",
+  "keyStrategies": [
+    {
+      "id": 11,
+      "title": "Establish a Sense of Urgency",
+      "focused": true
+    },
+    {
+      "id": 12,
+      "title": "Create a Guiding Coalition"
+    },
+    {
+      "id": 13,
+      "title": "Develop a Vision and Strategy"
+    },
+    {
+      "id": 14,
+      "title": "Communicate the Change Vision"
+    },
+    {
+      "id": 15,
+      "title": "Empower Employees for Broad-Based Action"
+    },
+    {
+      "id": 16,
+      "title": "Generate Short-Term Wins"
+    },
+    {
+      "id": 17,
+      "title": "Consolidate Gains and Produce More Change"
+    },
+    {
+      "id": 18,
+      "title": "Anchor New Approaches in the Culture"
+    }
+  ],
+  "videos": [
+    {
+      "id": "2Yfrj2Y9IlI",
+      "title": "Leading Change: Establish a Sense of Urgency"
+    },
+    {
+      "id": "SUphSU_RwUg",
+      "title": "Step 2: Create the Guiding Coalition"
+    },
+    {
+      "id": "2sMf5lW0wlY",
+      "title": "Communicate the Change Vision (Step 4)"
+    },
+    {
+      "id": "f_OFte3GIIw",
+      "title": "Leading Change Step 6: Generate Short Term Wins"
+    },
+    {
+      "id": "TvyAjzuhAAo",
+      "title": "Consolidate Gains and Implement More Change (Step 7)"
+    },
+    {
+      "id": "eOFMshyBMG4",
+      "title": "Leading Change Step 8: Anchor Change in the Culture"
+    },
+    {
+      "id": "b11sDTlDsQg",
+      "title": "Leading Change — Overview of Kotter’s 8-Step Process"
+    },
+    {
+      "id": "t1qfJCv99GM",
+      "title": "8‑Step Process for Leading Change (Detailed Breakdown)"
+    }
+  ]
+}

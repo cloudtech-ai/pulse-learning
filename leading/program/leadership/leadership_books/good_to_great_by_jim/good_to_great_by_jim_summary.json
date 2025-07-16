@@ -1,0 +1,63 @@
+{
+  "id": 1,
+  "title": "Good to Great",
+  "description": "An exploration of how companies transition from being good companies to great companies, and why most fail to make the transition.",
+  "videoPreview": "The Flywheel Effect",
+  "image": "https://example.com/goodtogreat.jpg",
+  "keyStrategies": [
+    {
+      "id": 11,
+      "title": "Level 5 Leadership",
+      "focused": true
+    },
+    {
+      "id": 12,
+      "title": "First Who, Then What"
+    },
+    {
+      "id": 13,
+      "title": "Confront the Brutal Facts"
+    },
+    {
+      "id": 14,
+      "title": "The Hedgehog Concept"
+    },
+    {
+      "id": 15,
+      "title": "Culture of Discipline"
+    },
+    {
+      "id": 16,
+      "title": "Technology Accelerators"
+    },
+    {
+      "id": 17,
+      "title": "The Flywheel and the Doom Loop"
+    }
+  ],
+"videos": [
+  {
+    "id": "B9pCV-cS5qU",
+    "title": "Good to Great – Overview of Key Concepts"
+  },
+  {
+    "id": "GFOY1LqA7u8",
+    "title": "Level 5 Leadership Explained"
+  },
+  {
+    "id": "Uz77oj3iGOg",
+    "title": "The Hedgehog Concept in Business"
+  },
+  {
+    "id": "lUOe4GwPyFM",
+    "title": "The Flywheel Effect in Action"
+  },
+  {
+    "id": "y0jMVI1AKm0",
+    "title": "Building a Culture of Discipline"
+  },
+  {
+    "id": "pB6WYAIF0bg",
+    "title": "Technology Accelerators – Good to Great"
+  }
+]}

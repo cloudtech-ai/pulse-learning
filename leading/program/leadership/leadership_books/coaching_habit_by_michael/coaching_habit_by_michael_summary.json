@@ -1,0 +1,60 @@
+{
+  "id": 6,
+  "title": "The Coaching Habit",
+  "description": "A guide to becoming a better coach by asking seven essential questions that drive deeper conversations and foster growth.",
+  "videoPreview": "Mastering the Art of Coaching",
+  "image": "https://openclipart.org/image/800px/30764",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "The Kickstart Question",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "The AWE Question"
+    },
+    {
+      "id": 63,
+      "title": "The Focus Question"
+    },
+    {
+      "id": 64,
+      "title": "The Foundation Question"
+    },
+    {
+      "id": 65,
+      "title": "The Lazy Question"
+    },
+    {
+      "id": 66,
+      "title": "The Strategic Question"
+    },
+    {
+      "id": 67,
+      "title": "The Learning Question"
+    }
+  ],
+"videos": [
+  {
+    "id": "YID6l9T-ksc",
+    "title": "The Coaching Habit: Introduction"
+  },
+  {
+    "id": "AOqoNKJ9_lI",
+    "title": "The Kickstart Question Explained"
+  },
+  {
+    "id": "R8HhBBZDjds",
+    "title": "Mastering the Focus Question"
+  },
+    {
+    "id": "GP84TqBvzug",
+    "title": "The AWE Question – And What Else?"
+  },
+  {
+    "id": "o4P_uW5pGK0",
+    "title": "The Coaching Habit: Focus on the Learning Question"
+  }
+]
+}

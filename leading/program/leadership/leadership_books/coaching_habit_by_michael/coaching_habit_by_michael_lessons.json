@@ -1,0 +1,823 @@
+{
+  "building_the_coaching_habit": [
+    {
+      "id": "micro_lesson_1_introducing_coaching_habits",
+      "title": "Why Make Coaching a Habit?",
+      "goal": "Understand the value of making coaching a regular part of your leadership style.",
+      "keyConcept": "Coaching is most impactful when it becomes a consistent habit, not just something you do in formal meetings. By weaving coaching into everyday interactions, you create a culture of growth and learning. This approach helps your team feel supported and encourages continuous development.",
+      "example": "Instead of waiting for quarterly reviews, a manager regularly asks team members questions that help them reflect and grow during weekly check-ins.",
+      "practiceTip": "Identify one recurring meeting or interaction this week where you can intentionally use a coaching question.",
+      "reflectionPrompt": "How might your team benefit if you made coaching a regular part of your leadership?",
+      "quizQuestion": {
+        "question": "What is the main benefit of making coaching a habit?",
+        "options": [
+          "It saves time in meetings.",
+          "It fosters continuous growth and learning.",
+          "It reduces the need for feedback."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "micro_lesson_2_power_of_curiosity",
+      "title": "The Power of Curiosity in Leadership",
+      "goal": "Recognize how curiosity can transform your coaching conversations.",
+      "keyConcept": "Staying curious means resisting the urge to immediately offer solutions or advice. Instead, you ask questions that help others think for themselves. This approach empowers your team, builds trust, and often leads to better outcomes than simply telling people what to do.",
+      "example": "When an employee brings a problem, instead of jumping in with advice, a leader asks, 'What have you already tried?' or 'What do you think is the real challenge here for you?'",
+      "practiceTip": "In your next conversation, pause before giving advice and ask one open-ended question instead.",
+      "reflectionPrompt": "When was the last time you let curiosity guide a conversation instead of giving advice?",
+      "quizQuestion": {
+        "question": "What is a key benefit of leading with curiosity?",
+        "options": [
+          "It shortens conversations.",
+          "It empowers others to find their own solutions."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "micro_lesson_3_asking_better_questions",
+      "title": "Asking Better Questions",
+      "goal": "Learn how to ask questions that encourage deeper thinking and self-reflection.",
+      "keyConcept": "Effective coaching questions are open-ended and invite exploration. They help the other person clarify their thoughts and discover new perspectives. Good questions often start with 'What' or 'How,' and avoid leading or yes/no formats.",
+      "example": "Instead of asking, 'Did you finish the project?' try, 'What progress have you made on the project, and what\u2019s your next step?'",
+      "practiceTip": "Prepare two open-ended questions you can use in your next team meeting.",
+      "reflectionPrompt": "How do your current questions encourage or limit deeper thinking in your team?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of an open-ended coaching question?",
+        "options": [
+          "Did you finish your task?",
+          "What challenges did you face while working on your task?"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "micro_lesson_4_building_new_habits",
+      "title": "Building New Coaching Habits",
+      "goal": "Discover how to intentionally develop and sustain new coaching habits.",
+      "keyConcept": "Forming a new habit requires more than good intentions. You need to identify a trigger (a cue that reminds you to act), practice the new behavior, and repeat it until it becomes automatic. Start small and focus on consistency over perfection.",
+      "example": "A leader decides that every time a team member asks for help, they will first ask, 'What do you want to achieve?' before offering advice.",
+      "practiceTip": "Choose one coaching question to use as your go-to response whenever someone brings you a problem this week.",
+      "reflectionPrompt": "What trigger could you use to remind yourself to coach instead of give advice?",
+      "quizQuestion": {
+        "question": "What is an effective way to build a new coaching habit?",
+        "options": [
+          "Rely on willpower alone.",
+          "Identify a trigger and practice consistently."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "micro_lesson_5_overcoming_challenges",
+      "title": "Overcoming Challenges to Coaching",
+      "goal": "Identify and address common obstacles to making coaching a habit.",
+      "keyConcept": "Leaders often struggle to coach consistently due to time pressures, the urge to solve problems quickly, or discomfort with open-ended conversations. Recognizing these barriers is the first step to overcoming them. With awareness and small adjustments, you can stay committed to your coaching habit.",
+      "example": "A manager notices they tend to give advice when busy, so they set a reminder on their phone to pause and ask a question before responding.",
+      "practiceTip": "Notice one situation this week where you feel rushed and intentionally slow down to ask a coaching question.",
+      "reflectionPrompt": "What is your biggest obstacle to coaching, and how might you address it?",
+      "quizQuestion": {
+        "question": "What is a common obstacle to making coaching a habit?",
+        "options": [
+          "Having too many open-ended conversations.",
+          "Time pressures and the urge to solve problems quickly."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "the_kickstart_question": [
+    {
+      "id": "kickstart_1_introduction",
+      "title": "Why Start with a Powerful Question?",
+      "goal": "Understand the importance of opening coaching conversations effectively.",
+      "keyConcept": "The way you begin a conversation sets the tone for everything that follows. Starting with a thoughtful, open-ended question helps move past small talk and signals that you value meaningful dialogue. This approach encourages openness and trust, making it easier to address real issues quickly.",
+      "example": "Instead of asking, 'How are you?' at the start of a meeting, a manager asks, 'What's on your mind?' The employee immediately shares a pressing concern, leading to a productive discussion.",
+      "practiceTip": "Before your next one-on-one, plan to open with an open-ended question rather than a generic greeting.",
+      "reflectionPrompt": "How do your current conversation openers influence the depth of your discussions?",
+      "quizQuestion": {
+        "question": "What is the main benefit of starting a conversation with a powerful, open-ended question?",
+        "options": [
+          "It helps avoid small talk and surfaces important topics.",
+          "It makes the conversation shorter.",
+          "It ensures you control the discussion."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "kickstart_2_the_question",
+      "title": "Introducing the Kickstart Question",
+      "goal": "Learn the specific question that kickstarts effective coaching conversations.",
+      "keyConcept": "The Kickstart Question is: 'What's on your mind?' This simple, open-ended question invites the other person to share what truly matters to them. It demonstrates genuine interest and creates space for honest, meaningful dialogue.",
+      "example": "A team leader begins a check-in by asking, 'What's on your mind?' A team member brings up a challenge with a project deadline, which leads to collaborative problem-solving.",
+      "practiceTip": "Memorize and use the phrase, 'What's on your mind?' at the start of your next coaching or feedback session.",
+      "reflectionPrompt": "How might asking 'What's on your mind?' change the way your team members respond to you?",
+      "quizQuestion": {
+        "question": "What is the Kickstart Question recommended in 'The Coaching Habit'?",
+        "options": [
+          "'How are you?'",
+          "'What's on your mind?'",
+          "'What did you do yesterday?'"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "kickstart_3_creating_space",
+      "title": "Creating Space for Real Issues",
+      "goal": "Recognize how the Kickstart Question encourages deeper conversations.",
+      "keyConcept": "By asking 'What's on your mind?', you signal that it's safe to discuss important or sensitive topics. This question helps people move beyond surface-level updates and address what truly matters, fostering trust and openness.",
+      "example": "A manager notices that when she asks, 'What's on your mind?', her team members are more willing to discuss obstacles they're facing, rather than just reporting on tasks.",
+      "practiceTip": "After asking the Kickstart Question, pause and give the other person time to think and respond fully.",
+      "reflectionPrompt": "When was the last time someone gave you space to talk about what really mattered to you? How did it feel?",
+      "quizQuestion": {
+        "question": "What effect does the Kickstart Question have on conversations?",
+        "options": [
+          "It encourages people to share real issues.",
+          "It limits the discussion to minor topics.",
+          "It speeds up the meeting."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "kickstart_4_shifting_focus",
+      "title": "Shifting from Small Talk to What Matters",
+      "goal": "Learn how to move conversations from trivial topics to meaningful issues.",
+      "keyConcept": "Small talk can be comfortable but often avoids the real challenges or opportunities. The Kickstart Question helps transition the conversation to topics that matter most, making your coaching more impactful and relevant.",
+      "example": "Instead of spending the first ten minutes chatting about the weather, a leader asks, 'What's on your mind?' and quickly uncovers a team member's concern about workload.",
+      "practiceTip": "If a conversation starts drifting into small talk, gently redirect by asking, 'What's on your mind?'",
+      "reflectionPrompt": "How often do your conversations stay at the surface level, and what could you gain by going deeper?",
+      "quizQuestion": {
+        "question": "How does the Kickstart Question affect the direction of a conversation?",
+        "options": [
+          "It shifts the focus to what matters most.",
+          "It keeps the conversation light and superficial.",
+          "It makes people uncomfortable."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "kickstart_5_building_habit",
+      "title": "Making the Kickstart Question a Habit",
+      "goal": "Develop the habit of starting conversations with the Kickstart Question.",
+      "keyConcept": "Consistently using the Kickstart Question helps establish a culture of openness and trust. Over time, people will expect meaningful conversations and feel more comfortable bringing up important topics.",
+      "example": "A leader makes it a routine to begin every one-on-one with 'What's on your mind?', and notices that team members become more proactive in sharing ideas and concerns.",
+      "practiceTip": "Set a reminder or note to yourself before meetings to use the Kickstart Question until it becomes second nature.",
+      "reflectionPrompt": "What challenges might you face in making this question a regular part of your conversations, and how can you overcome them?",
+      "quizQuestion": {
+        "question": "What is a benefit of making the Kickstart Question a regular habit?",
+        "options": [
+          "It builds a culture of openness and trust.",
+          "It makes meetings longer.",
+          "It avoids difficult topics."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "the_aha_question": [
+    {
+      "id": "awe_lesson_1",
+      "title": "Introducing the AWE Question",
+      "goal": "Understand what the AWE Question is and why it's valuable.",
+      "keyConcept": "The AWE Question stands for 'And what else?' It's a simple yet powerful tool that encourages deeper thinking and richer conversations. By asking this question, you invite others to share more, revealing insights that might otherwise remain hidden. This approach helps avoid premature conclusions and fosters a more thorough exploration of issues.",
+      "example": "During a team meeting, a colleague shares a challenge they're facing. Instead of immediately offering advice, you respond with, 'And what else is going on?' This prompts them to consider additional factors they hadn't mentioned.",
+      "practiceTip": "Next time someone shares a problem with you, pause before responding and simply ask, 'And what else?'",
+      "reflectionPrompt": "How might asking 'And what else?' change the way your conversations unfold?",
+      "quizQuestion": {
+        "question": "What is the main purpose of the AWE Question?",
+        "options": [
+          "To encourage deeper exploration of a topic",
+          "To quickly solve the problem",
+          "To change the subject"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "awe_lesson_2",
+      "title": "Uncovering Deeper Insights",
+      "goal": "Learn how the AWE Question helps reveal underlying issues.",
+      "keyConcept": "People often share only the surface of their thoughts or problems. By asking 'And what else?', you give them permission to dig deeper and express concerns or ideas they may not have considered initially. This can lead to more meaningful conversations and better understanding of the real issues at play.",
+      "example": "A team member says they're struggling with time management. You ask, 'And what else is making this difficult?' They reveal that unclear priorities from leadership are also a factor.",
+      "practiceTip": "When someone gives you an answer, follow up with 'And what else?' at least once to see what additional information emerges.",
+      "reflectionPrompt": "Think of a recent conversation\u2014what might you have learned if you had asked, 'And what else?'",
+      "quizQuestion": {
+        "question": "What can asking 'And what else?' help uncover?",
+        "options": [
+          "Additional insights and underlying issues",
+          "Unrelated topics",
+          "Faster solutions"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "awe_lesson_3",
+      "title": "Avoiding the Rush to Solutions",
+      "goal": "Recognize how the AWE Question prevents jumping to conclusions.",
+      "keyConcept": "Leaders often feel pressure to provide solutions quickly. However, this can lead to missed information and less effective outcomes. By using 'And what else?', you slow down the conversation, allowing for a fuller understanding before moving to solutions. This approach leads to better decisions and empowers others to think more deeply.",
+      "example": "Instead of immediately suggesting a fix when a colleague mentions a problem, you ask, 'And what else?' This gives them space to elaborate, and you both gain a clearer picture before deciding on next steps.",
+      "practiceTip": "Resist the urge to offer advice right away. Use 'And what else?' to keep the conversation open and exploratory.",
+      "reflectionPrompt": "How might delaying your advice with 'And what else?' benefit your team or colleagues?",
+      "quizQuestion": {
+        "question": "What is a benefit of not jumping to solutions immediately?",
+        "options": [
+          "You get to talk more",
+          "You understand the situation more fully",
+          "You finish the conversation faster"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "awe_lesson_4",
+      "title": "Repeating the AWE Question",
+      "goal": "Discover the value of asking 'And what else?' multiple times.",
+      "keyConcept": "Often, the first answer someone gives is just the beginning. By repeating 'And what else?' you encourage them to think more deeply and share further insights. Each repetition can uncover new layers of understanding, leading to richer conversations and better outcomes.",
+      "example": "A direct report lists one challenge they're facing. You ask, 'And what else?' They add another. You ask again, and a third, more significant issue emerges.",
+      "practiceTip": "Try asking 'And what else?' up to three times in a conversation to see how much more you can learn.",
+      "reflectionPrompt": "How comfortable are you with silence or repetition in conversations? What might you discover by persisting?",
+      "quizQuestion": {
+        "question": "Why might you ask 'And what else?' more than once?",
+        "options": [
+          "To annoy the other person",
+          "To uncover deeper or additional issues",
+          "To fill time"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "awe_lesson_5",
+      "title": "Applying the AWE Question in Leadership",
+      "goal": "Integrate the AWE Question into your daily leadership practice.",
+      "keyConcept": "Using 'And what else?' regularly can transform your leadership style. It shows you value others' perspectives, encourages open dialogue, and helps your team feel heard. Over time, this builds trust and leads to more effective problem-solving and collaboration.",
+      "example": "In your weekly one-on-one, you ask your team member about their progress. After their initial response, you follow up with 'And what else?' They share a concern about a project that hadn't come up before.",
+      "practiceTip": "Make it a habit to use 'And what else?' in your meetings and check-ins. Notice how it changes the depth and quality of your conversations.",
+      "reflectionPrompt": "How could making 'And what else?' a regular part of your conversations impact your relationships at work?",
+      "quizQuestion": {
+        "question": "What is a long-term benefit of using the AWE Question as a leader?",
+        "options": [
+          "Building trust and deeper understanding",
+          "Shortening meetings",
+          "Avoiding difficult topics"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "the_focus_question": [
+    {
+      "id": "focus_q_lesson_1",
+      "title": "Why Focus Matters in Coaching",
+      "goal": "Understand the importance of identifying the real challenge in conversations.",
+      "keyConcept": "Effective coaching starts with clarity. Often, conversations get sidetracked by surface-level problems or unrelated issues. By focusing on the real challenge, you ensure your time and energy are spent where they matter most, leading to better outcomes for both you and your team.",
+      "example": "A team member comes to you complaining about a missed deadline. Instead of immediately discussing time management, you pause to explore what the real issue might be.",
+      "practiceTip": "Before responding to a problem, ask yourself: 'Is this the core issue, or is there something deeper?'",
+      "reflectionPrompt": "Think of a recent conversation where you addressed a problem. Did you focus on the real challenge, or get caught up in surface details?",
+      "quizQuestion": {
+        "question": "Why is it important to identify the real challenge in coaching conversations?",
+        "options": [
+          "To avoid wasting time on less relevant issues",
+          "To make the conversation longer",
+          "To impress your team"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "focus_q_lesson_2",
+      "title": "Introducing the Focus Question",
+      "goal": "Learn the wording and purpose of the Focus Question.",
+      "keyConcept": "The Focus Question is: 'What's the real challenge here for you?' This question helps cut through distractions and brings attention to what truly matters. It also personalizes the conversation, making it about the individual's unique experience and needs.",
+      "example": "When a colleague shares a list of complaints about a project, you ask, 'What's the real challenge here for you?' This helps them reflect and identify what\u2019s most important.",
+      "practiceTip": "Memorize the Focus Question and use it the next time someone brings you a problem.",
+      "reflectionPrompt": "How might asking the Focus Question change the way your conversations unfold?",
+      "quizQuestion": {
+        "question": "What is the Focus Question recommended in The Coaching Habit?",
+        "options": [
+          "What do you want to talk about?",
+          "What's the real challenge here for you?",
+          "How can I help you?"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "focus_q_lesson_3",
+      "title": "Personalizing the Conversation",
+      "goal": "Recognize the value of focusing on the individual's perspective.",
+      "keyConcept": "By adding 'for you' to the Focus Question, you shift attention from general problems to the specific challenges faced by the person you\u2019re coaching. This makes the conversation more relevant and supportive, and helps the individual feel heard and understood.",
+      "example": "Instead of asking, 'What's the real challenge here?', you ask, 'What's the real challenge here for you?' This encourages the person to reflect on their own experience.",
+      "practiceTip": "Always include 'for you' when asking the Focus Question to ensure the conversation is personalized.",
+      "reflectionPrompt": "Recall a time when you felt truly listened to. How did focusing on your perspective make a difference?",
+      "quizQuestion": {
+        "question": "What effect does adding 'for you' have to the Focus Question?",
+        "options": [
+          "It makes the question more personal and relevant",
+          "It makes the question longer",
+          "It confuses the person"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "focus_q_lesson_4",
+      "title": "Avoiding Distractions and Staying on Track",
+      "goal": "Learn how the Focus Question helps prevent conversations from drifting to less important topics.",
+      "keyConcept": "People often present multiple issues at once, but not all are equally important. The Focus Question helps you and the other person avoid getting sidetracked by less relevant topics, ensuring that your conversation remains productive and meaningful.",
+      "example": "A direct report starts discussing several minor frustrations. By asking the Focus Question, you help them zero in on the main issue that needs attention.",
+      "practiceTip": "If a conversation starts to wander, gently bring it back by repeating the Focus Question.",
+      "reflectionPrompt": "How might your leadership improve if you consistently helped others focus on their real challenges?",
+      "quizQuestion": {
+        "question": "What is a benefit of using the Focus Question in conversations?",
+        "options": [
+          "It helps keep the conversation focused on what matters most",
+          "It makes the conversation more complicated"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "focus_q_lesson_5",
+      "title": "Practicing the Focus Question",
+      "goal": "Build confidence in using the Focus Question in real conversations.",
+      "keyConcept": "Like any skill, asking the Focus Question becomes easier with practice. The more you use it, the more natural it will feel, and the more effective your coaching conversations will become. Start with low-stakes situations and gradually use it in more important discussions.",
+      "example": "In your next one-on-one meeting, when someone brings up a challenge, you ask, 'What's the real challenge here for you?' and listen carefully to their response.",
+      "practiceTip": "Set a goal to use the Focus Question at least once in every coaching conversation this week.",
+      "reflectionPrompt": "What opportunities do you have this week to practice the Focus Question?",
+      "quizQuestion": {
+        "question": "How can you get better at using the Focus Question?",
+        "options": [
+          "By practicing it regularly in real conversations",
+          "By only thinking about it"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "the_foundation_question": [
+    {
+      "id": "foundation_q_lesson_1",
+      "title": "Understanding the Power of 'What Do You Want?'",
+      "goal": "Recognize why asking 'What do you want?' is essential in leadership conversations.",
+      "keyConcept": "The question 'What do you want?' cuts through surface-level discussions and helps reveal the true needs or desires behind an issue. Leaders often assume they know what others want, but this question encourages clarity and honesty. It sets the stage for more meaningful and productive conversations.",
+      "example": "During a team meeting, a colleague seems frustrated about a project deadline. Instead of guessing the cause, you ask, 'What do you want?' and discover they need clearer priorities, not just more time.",
+      "practiceTip": "Next time someone brings you a problem, pause and ask, 'What do you want?' before offering solutions.",
+      "reflectionPrompt": "Think of a recent conversation where you assumed someone\u2019s needs. How might the outcome have changed if you had asked, 'What do you want?'",
+      "quizQuestion": {
+        "question": "What is the main benefit of asking 'What do you want?' in a conversation?",
+        "options": [
+          "It helps clarify true needs and desires.",
+          "It speeds up decision-making.",
+          "It avoids having to listen to others."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "foundation_q_lesson_2",
+      "title": "Avoiding Assumptions in Conversations",
+      "goal": "Learn to recognize and set aside assumptions about others\u2019 needs.",
+      "keyConcept": "Assuming you know what someone wants can lead to misunderstandings and ineffective solutions. By consciously avoiding assumptions and asking open questions, you foster a more honest and supportive environment. This approach builds trust and ensures everyone\u2019s needs are heard.",
+      "example": "A team member seems disengaged. Instead of assuming they\u2019re bored, you ask, 'What do you want?' and find out they\u2019re overwhelmed and need support.",
+      "practiceTip": "Before responding to a request or complaint, silently check in with yourself: 'Am I making assumptions, or do I really know what this person wants?'",
+      "reflectionPrompt": "Recall a time when your assumption about someone\u2019s needs was incorrect. What could you have done differently?",
+      "quizQuestion": {
+        "question": "Why is it important to avoid assumptions in leadership conversations?",
+        "options": [
+          "To save time",
+          "To ensure you understand the real issue",
+          "To appear more knowledgeable"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "foundation_q_lesson_3",
+      "title": "Fostering Honest Dialogue",
+      "goal": "Encourage open and honest communication by using the Foundation Question.",
+      "keyConcept": "Asking 'What do you want?' signals that you value the other person\u2019s perspective and are open to hearing their true thoughts. This simple question can break down barriers and create a safe space for honest dialogue, leading to better relationships and outcomes.",
+      "example": "A direct report hesitates to share feedback. By asking, 'What do you want?' you invite them to express their needs, making them feel heard and respected.",
+      "practiceTip": "Use the Foundation Question in your next one-on-one meeting to invite honest input from your team.",
+      "reflectionPrompt": "How might your relationships change if you regularly asked, 'What do you want?' in your conversations?",
+      "quizQuestion": {
+        "question": "What effect does asking 'What do you want?' have on dialogue?",
+        "options": [
+          "It discourages openness",
+          "It fosters honest communication",
+          "It makes conversations longer"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "foundation_q_lesson_4",
+      "title": "Clarifying Wants for Better Outcomes",
+      "goal": "Understand how clarifying wants leads to more productive and satisfying results.",
+      "keyConcept": "When you clarify what someone truly wants, you can work together to find solutions that address their real needs. This reduces frustration, prevents wasted effort, and increases satisfaction for everyone involved. Clear wants lead to clear actions.",
+      "example": "A colleague asks for help with a task. By clarifying what they want\u2014advice, hands-on help, or just a sounding board\u2014you provide the right kind of support.",
+      "practiceTip": "After asking 'What do you want?', summarize what you\u2019ve heard to confirm your understanding before moving forward.",
+      "reflectionPrompt": "How could clarifying wants improve the outcomes of your current projects or relationships?",
+      "quizQuestion": {
+        "question": "What is a key benefit of clarifying wants in a conversation?",
+        "options": [
+          "It ensures everyone is busy",
+          "It leads to more productive and satisfying outcomes",
+          "It avoids difficult topics"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "foundation_q_lesson_5",
+      "title": "Practicing the Foundation Question",
+      "goal": "Build confidence in using the Foundation Question in real conversations.",
+      "keyConcept": "Like any skill, asking 'What do you want?' becomes easier and more natural with practice. The more you use it, the more comfortable you\u2019ll become at inviting honest dialogue and clarifying needs. Start small and notice the difference it makes.",
+      "example": "Before your next meeting, plan to ask at least one person, 'What do you want?' and observe how the conversation shifts.",
+      "practiceTip": "Set a reminder to use the Foundation Question at least once a day this week in your interactions.",
+      "reflectionPrompt": "What challenges or surprises did you encounter when you practiced asking 'What do you want?'",
+      "quizQuestion": {
+        "question": "How can you improve your skill in using the Foundation Question?",
+        "options": [
+          "By practicing it regularly",
+          "By only using it in difficult situations",
+          "By avoiding it to save time"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "the_lazy_question": [
+    {
+      "id": "lazy_q_lesson_1",
+      "title": "Why Ask 'How Can I Help?'",
+      "goal": "Understand the purpose and power of the Lazy Question.",
+      "keyConcept": "The Lazy Question, 'How can I help?', is a simple yet powerful way to offer support without assuming what others need. It shifts the focus from you as the problem-solver to the other person as the expert in their own situation. This approach prevents you from overcommitting and empowers others to articulate their needs.",
+      "example": "A team member comes to you with a problem. Instead of jumping in with solutions, you ask, 'How can I help?' This opens up a conversation about what support they truly need.",
+      "practiceTip": "Next time someone brings you a challenge, pause and ask, 'How can I help?' before offering advice or solutions.",
+      "reflectionPrompt": "When was the last time you assumed what someone needed instead of asking?",
+      "quizQuestion": {
+        "question": "What is the main benefit of asking 'How can I help?'",
+        "options": [
+          "It ensures you offer the right kind of support.",
+          "It lets you avoid helping altogether.",
+          "It makes you look more knowledgeable."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lazy_q_lesson_2",
+      "title": "Avoiding Assumptions",
+      "goal": "Learn how the Lazy Question prevents you from making unhelpful assumptions.",
+      "keyConcept": "Leaders often assume they know what others need, which can lead to offering unwanted or ineffective help. By asking 'How can I help?', you clarify expectations and avoid miscommunication. This ensures your support is relevant and appreciated.",
+      "example": "You notice a colleague struggling with a project and immediately offer to take over a task. Later, you find out they actually needed feedback, not extra hands.",
+      "practiceTip": "Before acting on your first instinct to help, ask the person what would be most useful to them.",
+      "reflectionPrompt": "How might your help have missed the mark in the past because you didn\u2019t ask what was needed?",
+      "quizQuestion": {
+        "question": "What risk do you avoid by asking 'How can I help?'",
+        "options": [
+          "Assuming you know what others need",
+          "Having too many meetings",
+          "Ignoring your own tasks"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lazy_q_lesson_3",
+      "title": "Empowering Others",
+      "goal": "See how the Lazy Question encourages responsibility and resourcefulness.",
+      "keyConcept": "When you ask 'How can I help?', you invite others to take ownership of their challenges. This builds their confidence and problem-solving skills, making them more resourceful in the future. It also shifts the dynamic from dependency to partnership.",
+      "example": "A direct report is unsure how to proceed with a client issue. By asking how you can help, they realize they already have some ideas and just need your feedback, not a solution.",
+      "practiceTip": "Use the Lazy Question to encourage your team to think through their needs and possible solutions before you step in.",
+      "reflectionPrompt": "How can you use this question to help your team grow more independent?",
+      "quizQuestion": {
+        "question": "What effect does asking 'How can I help?' have on others?",
+        "options": [
+          "It encourages them to take responsibility.",
+          "It makes them more dependent on you.",
+          "It confuses them."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lazy_q_lesson_4",
+      "title": "Lightening Your Workload",
+      "goal": "Discover how the Lazy Question helps you manage your own workload.",
+      "keyConcept": "By not automatically taking on others\u2019 problems, you avoid unnecessary commitments and burnout. The Lazy Question helps you set boundaries while still being supportive, ensuring your help is both effective and sustainable.",
+      "example": "You\u2019re juggling multiple projects when a colleague asks for help. Instead of saying yes immediately, you ask, 'How can I help?' They request a quick review rather than a major time commitment.",
+      "practiceTip": "Use the Lazy Question to clarify the level of support needed before agreeing to help.",
+      "reflectionPrompt": "How could asking 'How can I help?' protect your time and energy?",
+      "quizQuestion": {
+        "question": "How does the Lazy Question help you as a leader?",
+        "options": [
+          "It helps you avoid overcommitting.",
+          "It makes you do more work.",
+          "It reduces team communication."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lazy_q_lesson_5",
+      "title": "Making It a Habit",
+      "goal": "Practice using the Lazy Question regularly in your leadership interactions.",
+      "keyConcept": "Turning the Lazy Question into a habit takes conscious effort. The more you use it, the more natural it becomes to pause and ask rather than assume or jump in. Over time, this habit transforms your leadership style and strengthens your team.",
+      "example": "You set a reminder to ask 'How can I help?' in every one-on-one meeting for the next month, noticing your team becomes more proactive.",
+      "practiceTip": "Choose one recurring meeting or interaction this week to intentionally use the Lazy Question.",
+      "reflectionPrompt": "What situations in your daily work could benefit from making this question a habit?",
+      "quizQuestion": {
+        "question": "What is a good way to make the Lazy Question part of your routine?",
+        "options": [
+          "Set a reminder to use it in regular meetings.",
+          "Only use it when you feel like it.",
+          "Wait for others to ask you for help."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "the_strategic_question": [
+    {
+      "id": "strategic_q_lesson1",
+      "title": "Understanding the Power of the Strategic Question",
+      "goal": "Recognize why asking about trade-offs is essential for effective leadership.",
+      "keyConcept": "The Strategic Question\u2014'If you're saying yes to this, what are you saying no to?'\u2014helps leaders and teams clarify priorities and avoid overcommitment. By considering what must be set aside to make room for new commitments, you foster more intentional and focused decision-making. This approach prevents overwhelm and ensures that energy is directed toward the most important goals.",
+      "example": "A manager is asked to lead a new project. Before agreeing, she asks herself and her team, 'If we say yes to this project, what current tasks or initiatives will we need to pause or delegate?'",
+      "practiceTip": "Before accepting a new responsibility, pause and ask yourself or your team the Strategic Question to clarify what will need to be deprioritized.",
+      "reflectionPrompt": "Think of a recent time you said yes to something new. What did you unintentionally say no to as a result?",
+      "quizQuestion": {
+        "question": "What is the main purpose of the Strategic Question?",
+        "options": [
+          "To clarify what will be deprioritized when taking on something new",
+          "To encourage people to say yes more often",
+          "To avoid making any decisions"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "strategic_q_lesson2",
+      "title": "Identifying Trade-Offs in Decision-Making",
+      "goal": "Learn how to spot and articulate the trade-offs involved in saying yes.",
+      "keyConcept": "Every new commitment requires time, energy, or resources that must come from somewhere else. By explicitly identifying what you are saying no to, you make the costs and consequences of your decisions visible. This transparency helps you and your team make more informed and sustainable choices.",
+      "example": "A team agrees to take on a high-priority client request. They openly discuss that this means postponing work on an internal project until next month.",
+      "practiceTip": "When considering a new task, list at least one thing that will need to be delayed, delegated, or dropped to make space for it.",
+      "reflectionPrompt": "What is one thing you could pause or delegate to make room for a new priority in your work?",
+      "quizQuestion": {
+        "question": "Why is it important to identify what you are saying no to?",
+        "options": [
+          "To avoid making any decisions",
+          "To ensure you understand the impact of your choices",
+          "To make your to-do list longer"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "strategic_q_lesson3",
+      "title": "Setting Boundaries to Prevent Overwhelm",
+      "goal": "Develop the skill of setting clear boundaries to protect your time and focus.",
+      "keyConcept": "Saying yes to everything leads to overwhelm and diluted results. By using the Strategic Question, you can set healthy boundaries that protect your capacity and ensure you deliver quality work. Boundaries help you and your team stay focused on what matters most.",
+      "example": "A leader is asked to join another committee. She responds, 'If I join this committee, I\u2019ll need to step back from my current mentoring group to maintain balance.'",
+      "practiceTip": "Practice responding to new requests by stating what you would need to give up or change in order to say yes.",
+      "reflectionPrompt": "How comfortable are you with setting boundaries when new opportunities arise?",
+      "quizQuestion": {
+        "question": "What is a benefit of setting boundaries using the Strategic Question?",
+        "options": [
+          "It helps you avoid overwhelm and stay focused",
+          "It allows you to take on more work",
+          "It makes you less accountable"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "strategic_q_lesson4",
+      "title": "Encouraging Team Accountability and Clarity",
+      "goal": "Use the Strategic Question to foster accountability and clarity within your team.",
+      "keyConcept": "When leaders model asking the Strategic Question, it encourages team members to think critically about their own commitments. This shared practice leads to greater clarity, accountability, and alignment on priorities, reducing misunderstandings and overcommitment.",
+      "example": "During a team meeting, a leader asks, 'If we take on this new client, what current projects will we need to adjust or delay as a team?'",
+      "practiceTip": "In your next team discussion about new initiatives, invite everyone to answer the Strategic Question together.",
+      "reflectionPrompt": "How might your team benefit from regularly discussing what they are saying no to when new projects arise?",
+      "quizQuestion": {
+        "question": "How does the Strategic Question support team accountability?",
+        "options": [
+          "By helping everyone understand and agree on priorities",
+          "By encouraging everyone to say yes to everything",
+          "By avoiding difficult conversations"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "strategic_q_lesson5",
+      "title": "Making the Strategic Question a Habit",
+      "goal": "Integrate the Strategic Question into your daily leadership practice.",
+      "keyConcept": "Consistently using the Strategic Question transforms it from a one-time tool into a leadership habit. Over time, this habit helps you and your team make better decisions, stay focused, and achieve more meaningful results. The more you practice, the more natural and effective it becomes.",
+      "example": "A leader starts every planning session by asking, 'If we say yes to these goals, what will we need to deprioritize this quarter?'",
+      "practiceTip": "Set a reminder to ask the Strategic Question before making any significant commitment or decision.",
+      "reflectionPrompt": "What steps can you take to make the Strategic Question a regular part of your decision-making process?",
+      "quizQuestion": {
+        "question": "What is the benefit of making the Strategic Question a habit?",
+        "options": [
+          "It helps you and your team make better, more focused decisions",
+          "It makes decision-making more complicated",
+          "It encourages saying yes to everything"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "the_learning_question": [
+    {
+      "id": "lesson1_introducing_learning_question",
+      "title": "Introducing the Learning Question",
+      "goal": "Understand the purpose and power of the Learning Question.",
+      "keyConcept": "The Learning Question\u2014'What was most useful for you?'\u2014is a simple yet powerful tool to help others reflect on and internalize their learning. By ending conversations with this question, you encourage people to identify key takeaways and reinforce their growth. This habit supports a culture of continuous improvement and self-awareness.",
+      "example": "After a team meeting, a manager asks, 'What was most useful for you in our discussion today?' Team members share their insights, making the meeting's value clear and memorable.",
+      "practiceTip": "At the end of your next conversation or meeting, ask, 'What was most useful for you?' and listen attentively to the response.",
+      "reflectionPrompt": "How might asking the Learning Question change the way your team reflects on meetings or feedback?",
+      "quizQuestion": {
+        "question": "What is the main purpose of the Learning Question?",
+        "options": [
+          "To reinforce learning and highlight key takeaways",
+          "To evaluate someone's performance",
+          "To summarize the meeting agenda"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_reinforcing_learning",
+      "title": "Reinforcing Learning Through Reflection",
+      "goal": "Learn how reflection solidifies learning and growth.",
+      "keyConcept": "Reflection helps people process and retain what they've learned. By prompting others to articulate their most useful insight, you help them move information from short-term to long-term memory. This process makes learning stick and encourages ongoing development.",
+      "example": "A coach ends a feedback session by asking, 'What stood out to you as most useful today?' The coachee identifies a new strategy they want to try, making it more likely they'll remember and apply it.",
+      "practiceTip": "After giving feedback or advice, pause and ask the other person to share what they found most valuable.",
+      "reflectionPrompt": "When was the last time you learned something new? How did reflecting on it help you remember or use it?",
+      "quizQuestion": {
+        "question": "Why is reflection important after a conversation?",
+        "options": [
+          "It helps people process and retain learning",
+          "It fills time at the end of meetings",
+          "It allows you to avoid giving feedback"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_creating_value_in_conversations",
+      "title": "Creating Value in Every Conversation",
+      "goal": "Recognize how the Learning Question highlights the value of your interactions.",
+      "keyConcept": "Asking what was most useful helps people see the benefit of your conversation, making them more likely to engage in the future. It also builds trust, as people feel heard and supported in their growth. This simple question can transform routine discussions into valuable learning moments.",
+      "example": "During a one-on-one, a leader asks, 'What was most useful for you today?' The employee realizes they gained clarity on a project, which boosts their confidence and appreciation for the meeting.",
+      "practiceTip": "Make it a habit to end important conversations with the Learning Question to reinforce the value of your time together.",
+      "reflectionPrompt": "How could highlighting the value of your conversations improve your relationships at work?",
+      "quizQuestion": {
+        "question": "What is a benefit of asking the Learning Question at the end of a conversation?",
+        "options": [
+          "It helps people recognize the value of the discussion",
+          "It shortens the meeting",
+          "It avoids difficult topics"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_building_a_habit_of_improvement",
+      "title": "Building a Habit of Continuous Improvement",
+      "goal": "Encourage ongoing growth by making reflection a regular practice.",
+      "keyConcept": "Consistently using the Learning Question fosters a culture of continuous improvement. When people regularly reflect on what they find useful, they become more proactive in seeking out learning opportunities and applying new insights. Over time, this habit leads to stronger teams and better results.",
+      "example": "A team leader ends every weekly meeting by asking each member to share their most useful takeaway. Over time, the team becomes more engaged and open to learning.",
+      "practiceTip": "Schedule a recurring reminder to ask the Learning Question at the end of your meetings or coaching sessions.",
+      "reflectionPrompt": "What small step can you take this week to make reflection a regular part of your leadership style?",
+      "quizQuestion": {
+        "question": "How does regularly asking the Learning Question impact your team?",
+        "options": [
+          "It encourages a habit of continuous improvement",
+          "It makes meetings longer",
+          "It reduces team engagement"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_customizing_the_learning_question",
+      "title": "Customizing the Learning Question for Different Situations",
+      "goal": "Adapt the Learning Question to fit various contexts and personalities.",
+      "keyConcept": "While 'What was most useful for you?' is effective, you can tailor the question to suit different situations or individuals. Variations like 'What insight will you take away?' or 'What will you do differently as a result?' can make the reflection more relevant and engaging.",
+      "example": "In a training session, a facilitator asks, 'What\u2019s one thing you\u2019ll apply from today\u2019s workshop?' This encourages participants to connect learning to action.",
+      "practiceTip": "Experiment with different versions of the Learning Question to see which resonates best with your team or colleagues.",
+      "reflectionPrompt": "How might you rephrase the Learning Question to better fit your team's culture or a specific conversation?",
+      "quizQuestion": {
+        "question": "Which of the following is a good alternative to the Learning Question?",
+        "options": [
+          "'What will you do differently as a result of this conversation?'",
+          "'Did you like the meeting snacks?'"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "making_habits_stick": [
+    {
+      "id": "habit_trigger_identification",
+      "title": "Identify Your Coaching Habit Triggers",
+      "goal": "Learn how to spot the moments that can prompt you to use coaching questions.",
+      "keyConcept": "Habits are easier to form when they are anchored to specific triggers\u2014moments or cues in your daily routine. By identifying when you naturally interact with your team, you can choose these moments as prompts to use a coaching question. This makes it more likely that the new habit will stick.",
+      "example": "Every time your team member asks for advice, you use that as a trigger to ask, 'What's on your mind?' instead of immediately offering solutions.",
+      "practiceTip": "Pick one recurring event in your workday (like a team check-in or one-on-one meeting) and decide to use a coaching question at that moment.",
+      "reflectionPrompt": "What is one regular interaction where you could introduce a coaching question?",
+      "quizQuestion": {
+        "question": "What is a 'trigger' in the context of forming new habits?",
+        "options": [
+          "A reward you give yourself after completing a task",
+          "A specific cue or situation that prompts you to act",
+          "A type of coaching question"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "routine_building",
+      "title": "Establish a Simple Coaching Routine",
+      "goal": "Create a repeatable process for using coaching questions in your leadership.",
+      "keyConcept": "Routines help embed new behaviors by making them automatic. By consistently following a simple sequence\u2014such as pausing, asking a coaching question, and listening\u2014you reinforce the habit. The more you repeat the routine, the more natural it becomes.",
+      "example": "Before responding to any team issue, you pause, ask, 'And what else?' and then listen carefully to the answer.",
+      "practiceTip": "Write down your coaching routine and keep it visible during meetings as a reminder.",
+      "reflectionPrompt": "How can you make your coaching routine easy to remember and follow?",
+      "quizQuestion": {
+        "question": "Why is having a routine important for building coaching habits?",
+        "options": [
+          "It makes the behavior automatic over time",
+          "It impresses your team",
+          "It eliminates the need for reflection"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "reward_progress",
+      "title": "Reward Your Progress",
+      "goal": "Understand how to reinforce your new coaching habits with positive feedback.",
+      "keyConcept": "Celebrating small wins and progress helps your brain associate the new habit with positive feelings. This could be as simple as acknowledging your effort or noticing the impact on your team. Rewards make it more likely you'll repeat the behavior.",
+      "example": "After successfully using a coaching question in a tough conversation, you take a moment to appreciate your effort and jot down what went well.",
+      "practiceTip": "After each coaching conversation, give yourself a small reward\u2014like a mental high-five or a note in your journal.",
+      "reflectionPrompt": "What is a simple way you can reward yourself for using a coaching habit?",
+      "quizQuestion": {
+        "question": "What is the main benefit of rewarding yourself for practicing new habits?",
+        "options": [
+          "It makes the habit more enjoyable and likely to stick",
+          "It guarantees instant results",
+          "It replaces the need for practice"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "practice_persistence",
+      "title": "Practice Persistence and Self-Compassion",
+      "goal": "Learn to stay committed to your coaching habits, even when you slip up.",
+      "keyConcept": "Building new habits takes time and setbacks are normal. Being persistent and treating yourself with kindness when you forget or make mistakes helps you stay on track. Self-compassion reduces guilt and increases your motivation to try again.",
+      "example": "You forget to use a coaching question in a meeting, but instead of criticizing yourself, you reflect on what happened and plan to try again next time.",
+      "practiceTip": "When you miss an opportunity to use a coaching question, pause, acknowledge it, and set an intention to try again at the next opportunity.",
+      "reflectionPrompt": "How do you usually respond when you miss a goal, and how could you be kinder to yourself in those moments?",
+      "quizQuestion": {
+        "question": "What is a helpful response when you forget to use a coaching habit?",
+        "options": [
+          "Criticize yourself harshly",
+          "Acknowledge it and try again next time",
+          "Give up on the habit"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "reflect_and_improve",
+      "title": "Reflect Regularly to Improve",
+      "goal": "Use reflection to make coaching an automatic part of your leadership.",
+      "keyConcept": "Regular reflection helps you notice patterns, celebrate progress, and identify areas for improvement. By setting aside a few minutes each week to review your coaching conversations, you reinforce the habit and make adjustments as needed.",
+      "example": "At the end of each week, you review your calendar and note when you used coaching questions, what worked, and what you could do differently.",
+      "practiceTip": "Schedule a weekly 5-minute reflection session to review your use of coaching habits and set a goal for the coming week.",
+      "reflectionPrompt": "What did you learn from your recent coaching conversations, and how can you apply that learning going forward?",
+      "quizQuestion": {
+        "question": "Why is regular reflection important for making coaching habits stick?",
+        "options": [
+          "It helps you notice progress and make improvements",
+          "It replaces the need for practice",
+          "It makes coaching unnecessary"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ]
+}

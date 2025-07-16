@@ -1,0 +1,210 @@
+[
+  {
+    "id": 11,
+    "bookId": 1,
+    "title": "Establish a Sense of Urgency",
+    "summary": "Highlight the importance and immediacy of change to motivate action.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "People are more likely to embrace change when they understand why it is necessary and feel a pressing need to act. Without urgency, complacency can stall progress."
+      },
+      {
+        "section": "Example",
+        "content": "A company facing declining market share shares data with employees, showing the risk of falling behind competitors if changes are not made quickly."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Share compelling data and stories that illustrate the need for change.",
+          "Identify and discuss potential threats and opportunities.",
+          "Encourage open dialogue about market realities.",
+          "Address complacency directly and challenge the status quo.",
+          "Involve influential leaders to reinforce the message."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "bookId": 1,
+    "title": "Create a Guiding Coalition",
+    "summary": "Assemble a group with enough power and credibility to lead the change effort.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "A strong coalition brings together diverse skills, perspectives, and authority, increasing the likelihood of successful change implementation."
+      },
+      {
+        "section": "Example",
+        "content": "A hospital forms a cross-functional team of doctors, nurses, and administrators to guide a new patient care initiative."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Select members based on expertise, credibility, and leadership.",
+          "Ensure representation from key departments and levels.",
+          "Foster trust and open communication within the coalition.",
+          "Clarify roles and responsibilities early.",
+          "Meet regularly to align on goals and progress."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "bookId": 1,
+    "title": "Develop a Vision and Strategy",
+    "summary": "Craft a clear vision to guide the change and strategies to achieve it.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "A compelling vision provides direction, aligns efforts, and inspires people to work toward a common goal."
+      },
+      {
+        "section": "Example",
+        "content": "A retail company articulates a vision to become the most customer-centric brand in its industry, outlining steps to improve service and technology."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Involve key stakeholders in vision creation.",
+          "Keep the vision simple and easy to communicate.",
+          "Align strategies with organizational values and goals.",
+          "Test the vision for clarity and appeal.",
+          "Break down the vision into actionable steps."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "bookId": 1,
+    "title": "Communicate the Change Vision",
+    "summary": "Share the vision and strategies frequently and powerfully to gain buy-in.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Frequent, transparent communication ensures everyone understands the vision and their role in achieving it, reducing resistance and confusion."
+      },
+      {
+        "section": "Example",
+        "content": "Leaders use town halls, emails, and team meetings to explain the vision and answer questions, reinforcing the message at every opportunity."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use multiple channels to reach all audiences.",
+          "Repeat key messages consistently.",
+          "Encourage feedback and address concerns.",
+          "Model behaviors that support the vision.",
+          "Share stories of early successes."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "bookId": 1,
+    "title": "Empower Employees for Broad-Based Action",
+    "summary": "Remove obstacles and enable people to act on the vision.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Empowered employees can make decisions and take initiative, accelerating progress and overcoming barriers to change."
+      },
+      {
+        "section": "Example",
+        "content": "A company streamlines approval processes and provides training so employees can implement new customer service protocols without delay."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Identify and eliminate barriers to change.",
+          "Provide necessary resources and training.",
+          "Encourage risk-taking and innovation.",
+          "Recognize and reward proactive behavior.",
+          "Clarify decision-making authority."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "bookId": 1,
+    "title": "Generate Short-Term Wins",
+    "summary": "Plan for and celebrate visible improvements early in the change process.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Short-term wins build momentum, validate the effort, and motivate people to continue supporting the change."
+      },
+      {
+        "section": "Example",
+        "content": "After launching a new software system, the team celebrates a 20% reduction in processing time within the first month."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set achievable short-term goals.",
+          "Publicly recognize contributions and results.",
+          "Share stories of success widely.",
+          "Use wins to counteract skepticism.",
+          "Analyze and learn from each win."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "bookId": 1,
+    "title": "Consolidate Gains and Produce More Change",
+    "summary": "Use credibility from early wins to drive deeper change and avoid regression.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Sustaining momentum prevents backsliding and ensures that change becomes embedded in the organization."
+      },
+      {
+        "section": "Example",
+        "content": "After initial improvements, a school district expands its new teaching methods to additional grade levels and subjects."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Build on early successes to tackle bigger challenges.",
+          "Keep up the pace of change.",
+          "Continuously communicate progress.",
+          "Identify and address new obstacles.",
+          "Encourage ongoing feedback and adaptation."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "bookId": 1,
+    "title": "Anchor New Approaches in the Culture",
+    "summary": "Integrate new behaviors and practices into the organizational culture.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Lasting change requires that new approaches become part of the organization's identity and daily routines."
+      },
+      {
+        "section": "Example",
+        "content": "A company revises its onboarding process to include training on new values and behaviors, ensuring all new hires adopt the change."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Align policies and procedures with new practices.",
+          "Model and reinforce desired behaviors at all levels.",
+          "Integrate changes into performance evaluations.",
+          "Share stories that highlight cultural shifts.",
+          "Monitor and address signs of regression."
+        ]
+      }
+    ]
+  }
+]

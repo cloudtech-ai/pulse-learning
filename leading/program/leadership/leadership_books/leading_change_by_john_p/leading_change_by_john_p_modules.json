@@ -1,0 +1,107 @@
+{
+  "id": "leading_change_kotter",
+  "title": "Leading Change",
+  "description": "Leading Change by John P. Kotter is a foundational text on the process of organizational change and leadership. Kotter outlines an eight-step process for managing change effectively and highlights common pitfalls that leaders face. The book provides practical advice for inspiring teams, creating urgency, and maintaining momentum through transitions. It is widely used by leaders and change agents seeking to drive transformation in their organizations.",
+  "modules": [
+    {
+      "id": "introduction_to_change",
+      "title": "Introduction to Change",
+      "goal": "Understand the necessity and challenges of leading organizational change.",
+      "key_points": [
+        "Change is essential for organizations to survive and thrive in a dynamic environment.",
+        "Many change efforts fail due to common mistakes and resistance.",
+        "Leadership, not just management, is key to successful transformation."
+      ]
+    },
+    {
+      "id": "creating_urgency",
+      "title": "Creating a Sense of Urgency",
+      "goal": "Learn how to motivate people to recognize the need for change.",
+      "key_points": [
+        "Establishing a sense of urgency is the first step in Kotter's change process.",
+        "Leaders must communicate the risks of not changing and the opportunities of acting now.",
+        "Complacency and false urgency can derail momentum."
+      ]
+    },
+    {
+      "id": "building_coalition",
+      "title": "Building a Guiding Coalition",
+      "goal": "Identify and form a powerful group to lead the change effort.",
+      "key_points": [
+        "Change initiatives require a strong, diverse team with credibility and influence.",
+        "The coalition must share a commitment to the change vision.",
+        "Building trust and teamwork within the coalition is crucial for success."
+      ]
+    },
+    {
+      "id": "developing_vision_strategy",
+      "title": "Developing a Vision and Strategy",
+      "goal": "Understand how to craft a clear vision and actionable strategies for change.",
+      "key_points": [
+        "A clear, compelling vision guides the direction of change.",
+        "Strategies translate the vision into actionable steps.",
+        "Vision and strategy must be easy to communicate and inspire commitment."
+      ]
+    },
+    {
+      "id": "communicating_vision",
+      "title": "Communicating the Change Vision",
+      "goal": "Master effective communication techniques to share the vision and inspire action.",
+      "key_points": [
+        "Leaders must communicate the vision frequently and powerfully.",
+        "Consistency and authenticity in messaging build trust.",
+        "Addressing concerns and feedback helps gain buy-in."
+      ]
+    },
+    {
+      "id": "empowering_action",
+      "title": "Empowering Broad-Based Action",
+      "goal": "Learn how to remove obstacles and empower others to act on the vision.",
+      "key_points": [
+        "Identify and remove barriers to change, such as outdated structures or resistant individuals.",
+        "Encourage risk-taking and nontraditional ideas.",
+        "Empowered employees are more likely to support and accelerate change."
+      ]
+    },
+    {
+      "id": "generating_short_term_wins",
+      "title": "Generating Short-Term Wins",
+      "goal": "Discover the importance of early successes to sustain momentum.",
+      "key_points": [
+        "Short-term wins provide evidence that the change is working.",
+        "Celebrating wins builds motivation and credibility.",
+        "Wins help weaken resistance and attract support."
+      ]
+    },
+    {
+      "id": "consolidating_gains_producing_more_change",
+      "title": "Consolidating Gains and Producing More Change",
+      "goal": "Understand how to use early successes to drive deeper change.",
+      "key_points": [
+        "Don't declare victory too soon; build on successes to drive further change.",
+        "Use credibility from wins to tackle bigger systems and processes.",
+        "Continuous improvement and persistent leadership are critical."
+      ]
+    },
+    {
+      "id": "anchoring_new_approaches",
+      "title": "Anchoring New Approaches in the Culture",
+      "goal": "Learn how to make change stick by embedding it into organizational culture.",
+      "key_points": [
+        "Successful change must become part of the organizational norms and values.",
+        "Leadership development and succession planning reinforce new behaviors.",
+        "Ongoing communication and measurement help sustain change."
+      ]
+    },
+    {
+      "id": "common_pitfalls_and_conclusion",
+      "title": "Common Pitfalls and Conclusion",
+      "goal": "Review typical mistakes in change efforts and summarize key takeaways.",
+      "key_points": [
+        "Avoiding shortcuts and addressing resistance are essential for success.",
+        "Change leadership requires vision, determination, and adaptability.",
+        "Reflect on Kotter's eight-step process as a guide for future change initiatives."
+      ]
+    }
+  ]
+}

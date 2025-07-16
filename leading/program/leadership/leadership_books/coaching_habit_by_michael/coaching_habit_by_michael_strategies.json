@@ -1,0 +1,170 @@
+[
+  {
+    "id": 61,
+    "bookId": 1,
+    "title": "The Kickstart Question",
+    "summary": "Begin conversations with a powerful, open-ended question to surface what matters most.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Starting with the right question sets the tone for a productive coaching conversation and helps uncover the real issue quickly."
+      },
+      {
+        "section": "Example",
+        "content": "Ask, 'What's on your mind?' at the start of a meeting to invite honest discussion and focus on what truly matters to the other person."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use this question at the beginning of one-on-ones or check-ins.",
+          "Pause and listen fully after asking.",
+          "Resist the urge to jump in with solutions immediately."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 1,
+    "title": "The AWE Question",
+    "summary": "Prompt deeper thinking and exploration with a simple follow-up question.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "The AWE ('And What Else?') question encourages the other person to dig deeper, often revealing more than their initial response."
+      },
+      {
+        "section": "Example",
+        "content": "After someone shares a challenge, ask, 'And what else?' to encourage them to explore further options or underlying issues."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use 'And what else?' multiple times in a conversation.",
+          "Stay curious and patient\u2014let the other person fill the silence.",
+          "Avoid leading or suggesting answers."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 1,
+    "title": "The Focus Question",
+    "summary": "Help others identify the core challenge by narrowing the conversation.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "People often present surface-level problems; this question helps clarify the real issue that needs attention."
+      },
+      {
+        "section": "Example",
+        "content": "Ask, 'What's the real challenge here for you?' to guide someone toward the heart of their concern."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Repeat the question if the conversation drifts.",
+          "Listen for emotional cues that signal the real challenge.",
+          "Encourage specificity in responses."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 1,
+    "title": "The Foundation Question",
+    "summary": "Uncover what the other person needs to feel supported and successful.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Understanding needs builds trust and ensures the conversation is genuinely helpful."
+      },
+      {
+        "section": "Example",
+        "content": "Ask, 'What do you want?' to clarify expectations and avoid misunderstandings."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Ask this question when you sense ambiguity or frustration.",
+          "Be prepared for answers that may surprise you.",
+          "Use follow-up questions to clarify needs."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 1,
+    "title": "The Lazy Question",
+    "summary": "Empower others by asking them to take the lead in seeking support.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "This question shifts responsibility and initiative to the other person, fostering independence and accountability."
+      },
+      {
+        "section": "Example",
+        "content": "Ask, 'How can I help?' to prompt the other person to articulate the support they need."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use this question instead of jumping in with solutions.",
+          "Listen carefully to the response and clarify if needed.",
+          "Be willing to say no if the request is unreasonable."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "bookId": 1,
+    "title": "The Strategic Question",
+    "summary": "Encourage thoughtful decision-making by exploring possible consequences.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "This question helps people consider the impact of their choices and plan for outcomes."
+      },
+      {
+        "section": "Example",
+        "content": "Ask, 'If you\u2019re saying yes to this, what are you saying no to?' to highlight trade-offs and priorities."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use this question when someone is considering a new commitment.",
+          "Encourage reflection on priorities and resources.",
+          "Discuss potential risks and benefits openly."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "bookId": 1,
+    "title": "The Learning Question",
+    "summary": "Promote growth by helping others reflect on what they\u2019ve learned.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Reflection solidifies learning and encourages continuous improvement."
+      },
+      {
+        "section": "Example",
+        "content": "Ask, 'What was most useful for you?' at the end of a conversation to reinforce insights and takeaways."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "End meetings or coaching sessions with this question.",
+          "Allow time for thoughtful responses.",
+          "Acknowledge and celebrate learning moments."
+        ]
+      }
+    ]
+  }
+]

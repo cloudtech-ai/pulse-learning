@@ -1,0 +1,97 @@
+{
+  "id": "the_coaching_habit",
+  "title": "The Coaching Habit",
+  "description": "The Coaching Habit by Michael Bungay Stanier is a practical guide to building effective coaching habits into daily leadership. The book focuses on seven essential questions that help leaders empower others, foster growth, and drive results through everyday conversations. With actionable strategies, it emphasizes staying curious, listening deeply, and resisting the urge to give advice too quickly. The Coaching Habit aims to transform the way managers interact with their teams, making coaching a natural, productive part of work life.",
+  "modules": [
+    {
+      "id": "building_the_coaching_habit",
+      "title": "Building the Coaching Habit",
+      "goal": "Understand the importance of developing coaching habits and the value of curiosity in leadership.",
+      "key_points": [
+        "Coaching is most effective when it becomes a regular habit, not just a formal event.",
+        "Staying curious and asking questions is central to effective coaching.",
+        "Developing new habits requires intention, practice, and identifying triggers."
+      ]
+    },
+    {
+      "id": "the_kickstart_question",
+      "title": "The Kickstart Question",
+      "goal": "Learn how to open coaching conversations with a powerful, open-ended question.",
+      "key_points": [
+        "The Kickstart Question is 'What's on your mind?'",
+        "It encourages meaningful discussion and surfaces real issues quickly.",
+        "This question shifts the conversation from small talk to what matters most."
+      ]
+    },
+    {
+      "id": "the_aha_question",
+      "title": "The AWE Question",
+      "goal": "Explore the benefits of asking, 'And what else?' to deepen conversations.",
+      "key_points": [
+        "The AWE Question ('And what else?') uncovers deeper insights and issues.",
+        "It prevents jumping to solutions too quickly and encourages fuller exploration.",
+        "Repeating this question helps people think through their situation more thoroughly."
+      ]
+    },
+    {
+      "id": "the_focus_question",
+      "title": "The Focus Question",
+      "goal": "Learn to identify the core challenge with the question, 'What's the real challenge here for you?'",
+      "key_points": [
+        "This question helps pinpoint the most important issue to address.",
+        "It personalizes the conversation, focusing on the individual's perspective.",
+        "Avoids getting distracted by surface-level or less relevant topics."
+      ]
+    },
+    {
+      "id": "the_foundation_question",
+      "title": "The Foundation Question",
+      "goal": "Discover how to clarify needs and motivations by asking, 'What do you want?'",
+      "key_points": [
+        "This question uncovers true needs and desires behind the issue.",
+        "It fosters honest dialogue and helps avoid assumptions.",
+        "Clarifying wants leads to more productive and satisfying outcomes."
+      ]
+    },
+    {
+      "id": "the_lazy_question",
+      "title": "The Lazy Question",
+      "goal": "Empower others and lighten your workload by asking, 'How can I help?'",
+      "key_points": [
+        "This question ensures support is offered in the most helpful way.",
+        "It avoids overcommitting or assuming what others need.",
+        "Encourages responsibility and resourcefulness in others."
+      ]
+    },
+    {
+      "id": "the_strategic_question",
+      "title": "The Strategic Question",
+      "goal": "Prioritize and set boundaries by asking, 'If you're saying yes to this, what are you saying no to?'",
+      "key_points": [
+        "This question prompts consideration of trade-offs and priorities.",
+        "Helps prevent overwhelm and clarifies commitments.",
+        "Encourages thoughtful decision-making and focus."
+      ]
+    },
+    {
+      "id": "the_learning_question",
+      "title": "The Learning Question",
+      "goal": "Promote reflection and growth by concluding with, 'What was most useful for you?'",
+      "key_points": [
+        "This question reinforces learning and solidifies takeaways.",
+        "It helps individuals recognize the value of the conversation.",
+        "Promotes a habit of continuous improvement."
+      ]
+    },
+    {
+      "id": "making_habits_stick",
+      "title": "Making Coaching Habits Stick",
+      "goal": "Apply strategies to embed coaching questions and habits into daily leadership practice.",
+      "key_points": [
+        "Forming new habits involves identifying triggers, establishing routines, and rewarding progress.",
+        "Persistence and self-compassion are key to lasting change.",
+        "Regular reflection and practice help make coaching an automatic part of leadership."
+      ]
+    }
+  ]
+}

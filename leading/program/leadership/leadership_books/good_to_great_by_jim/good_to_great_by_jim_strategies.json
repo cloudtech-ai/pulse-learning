@@ -1,0 +1,177 @@
+[
+  {
+    "id": 11,
+    "bookId": 1,
+    "title": "Level 5 Leadership",
+    "summary": "Develop a unique blend of humility and professional will to lead organizations from good to great.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Level 5 leaders channel their ego away from themselves and into the larger goal of building a great company. Their humility and fierce resolve are essential for sustained greatness."
+      },
+      {
+        "section": "Example",
+        "content": "A CEO credits the team for success and takes personal responsibility for setbacks, focusing on the company\u2019s long-term vision rather than personal accolades."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Practice humility\u2014acknowledge others\u2019 contributions.",
+          "Demonstrate unwavering resolve toward company goals.",
+          "Take responsibility for failures and share credit for successes.",
+          "Focus on long-term results over personal gain."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "bookId": 1,
+    "title": "First Who, Then What",
+    "summary": "Get the right people on the team before deciding on the direction or strategy.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Having the right people ensures flexibility and resilience, making it easier to adapt to change and pursue the best opportunities."
+      },
+      {
+        "section": "Example",
+        "content": "A company prioritizes hiring and retaining talented, values-aligned employees before setting a new business strategy."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Prioritize hiring for character and capability.",
+          "Remove people who are not a good fit, even if they are talented.",
+          "Regularly assess team alignment and strengths.",
+          "Empower team members to contribute ideas and take initiative."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "bookId": 1,
+    "title": "Confront the Brutal Facts",
+    "summary": "Create a culture where the truth is heard and addressed, no matter how difficult.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Facing reality allows organizations to make informed decisions and avoid wishful thinking that can lead to failure."
+      },
+      {
+        "section": "Example",
+        "content": "A leadership team openly discusses declining sales and seeks honest feedback from employees to identify root causes."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Encourage open dialogue and dissenting opinions.",
+          "Use data and evidence to assess situations.",
+          "Hold regular meetings to review challenges honestly.",
+          "Reward those who surface problems, not just solutions."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "bookId": 1,
+    "title": "The Hedgehog Concept",
+    "summary": "Focus on what you can be the best at, what drives your economic engine, and what you are deeply passionate about.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Clarity on these three intersecting circles helps organizations concentrate resources and efforts for maximum impact."
+      },
+      {
+        "section": "Example",
+        "content": "A company identifies its core strength in customer service, aligns its business model around it, and becomes an industry leader."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Identify your unique strengths and passions.",
+          "Analyze what drives your economic engine.",
+          "Focus resources on areas where all three circles overlap.",
+          "Regularly revisit and refine your Hedgehog Concept."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "bookId": 1,
+    "title": "Culture of Discipline",
+    "summary": "Build a culture where disciplined people engage in disciplined thought and take disciplined action.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Discipline enables organizations to stay focused on their goals and avoid distractions, leading to consistent, sustainable results."
+      },
+      {
+        "section": "Example",
+        "content": "Employees are empowered to make decisions within clear guidelines, ensuring alignment with company values and objectives."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set clear expectations and boundaries.",
+          "Empower employees to act within their responsibilities.",
+          "Maintain consistency in processes and standards.",
+          "Hold yourself and others accountable for results."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "bookId": 1,
+    "title": "Technology Accelerators",
+    "summary": "Use technology as a tool to accelerate progress, not as a primary driver of change.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Technology enhances momentum when aligned with the organization\u2019s core strengths and strategy, but it cannot create greatness on its own."
+      },
+      {
+        "section": "Example",
+        "content": "A retailer implements data analytics to improve inventory management, supporting its core strategy of operational excellence."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Adopt technology that aligns with your Hedgehog Concept.",
+          "Avoid chasing technology fads.",
+          "Invest in training to maximize technology\u2019s benefits.",
+          "Regularly evaluate the impact of technology on your goals."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "bookId": 1,
+    "title": "The Flywheel and the Doom Loop",
+    "summary": "Build momentum through consistent, cumulative effort (the flywheel), and avoid the doom loop of radical, inconsistent changes.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Sustained effort and small wins build unstoppable momentum, while frequent changes in direction undermine progress."
+      },
+      {
+        "section": "Example",
+        "content": "A company steadily improves its processes year after year, eventually achieving breakthrough results, instead of constantly shifting strategies."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Focus on consistent, incremental improvements.",
+          "Celebrate small wins to build momentum.",
+          "Avoid abrupt changes in strategy or leadership.",
+          "Track progress and reinforce what\u2019s working."
+        ]
+      }
+    ]
+  }
+]

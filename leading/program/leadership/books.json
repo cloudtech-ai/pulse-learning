@@ -96,21 +96,39 @@
       "title": "Leading Change",
       "author": "John P. Kotter",
       "summary": "Outlines an eight-step process for successfully leading organizational change.",
-      "generative_title": "Leading Change by John P. Kotter"
+      "generative_title": "Leading Change by John P. Kotter",
+      "info": "leadership_books/leading_change_by_john_p/leading_change_by_john_p_summary.json",
+      "strategies": "leadership_books/leading_change_by_john_p/leading_change_by_john_p_strategies.json",
+      "studyPlan": {
+        "module_path": "leadership_books/leading_change_by_john_p/leading_change_by_john_p_modules.json",
+        "lesson_path": "leadership_books/leading_change_by_john_p/leading_change_by_john_p_lessons.json"
+      }
     },
     {
       "id": 19,
       "title": "The Coaching Habit",
       "author": "Michael Bungay Stanier",
       "summary": "Provides practical techniques for becoming a more effective coach and leader.",
-      "generative_title": "The Coaching Habit by Michael Bungay Stanier"
+      "generative_title": "The Coaching Habit by Michael Bungay Stanier",
+      "info": "leadership_books/coaching_habit_by_michael/coaching_habit_by_michael_summary.json",
+      "strategies": "leadership_books/coaching_habit_by_michael/coaching_habit_by_michael_strategies.json",
+      "studyPlan": {
+        "module_path": "leadership_books/coaching_habit_by_michael/coaching_habit_by_michael_modules.json",
+        "lesson_path": "leadership_books/coaching_habit_by_michael/coaching_habit_by_michael_lessons.json"
+      }
     },
     {
       "id": 20,
       "title": "Good to Great",
       "author": "Jim Collins",
       "summary": "Examines what differentiates great organizations from good ones and how leaders can drive lasting success.",
-      "generative_title": "Good to Great by Jim Collins"
+      "generative_title": "Good to Great by Jim Collins",
+      "info": "leadership_books/good_to_great_by_jim/good_to_great_by_jim_summary.json",
+      "strategies": "leadership_books/good_to_great_by_jim/good_to_great_by_jim_strategies.json",
+      "studyPlan": {
+        "module_path": "leadership_books/good_to_great_by_jim/good_to_great_by_jim_modules.json",
+        "lesson_path": "leadership_books/good_to_great_by_jim/good_to_great_by_jim_lessons.json"
+      }
     },
     {
       "id": 21,
