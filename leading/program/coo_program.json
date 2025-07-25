@@ -1,0 +1,126 @@
+{
+    "4":
+    [
+  {
+    "id": "coo_mindset_and_role",
+    "title": "COO Mindset & Role",
+    "goal": "Understand the unique mindset, responsibilities, and impact of the COO in Fortune 500 companies.",
+    "keyConcepts": [
+      "COO leadership identity",
+      "Enterprise-scale operations",
+      "Decision-making at the top"
+    ],
+    "books": [
+      {
+        "id": 401,
+        "title": "The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success",
+        "author": "William N. Thorndike",
+        "summary": "Profiles eight CEOs who excelled through operational discipline and capital allocation, challenging conventional wisdom."
+      },
+      {
+        "id": 402,
+        "title": "The COO Blueprint: Operations Leadership for the Modern Enterprise",
+        "author": "Mark Organ",
+        "summary": "Practical guidance and frameworks for succeeding as a modern COO, from vision to operational execution."
+      }
+    ]
+  },
+  {
+    "id": "operational_excellence",
+    "title": "Operational Excellence",
+    "goal": "Master the art and science of executing strategy, driving continuous improvement, and building efficient organizations.",
+    "keyConcepts": [
+      "Execution discipline",
+      "Process optimization",
+      "Continuous improvement"
+    ],
+    "books": [
+      {
+        "id": 403,
+        "title": "Execution: The Discipline of Getting Things Done",
+        "author": "Larry Bossidy & Ram Charan",
+        "summary": "Reveals the core disciplines of execution used by world-class leaders to turn strategy into results."
+      },
+      {
+        "id": 404,
+        "title": "Lean Thinking: Banish Waste and Create Wealth in Your Corporation",
+        "author": "James P. Womack & Daniel T. Jones",
+        "summary": "A definitive guide to lean management and creating value by eliminating waste."
+      }
+    ]
+  },
+  {
+    "id": "strategy_and_competitive_advantage",
+    "title": "Strategy & Competitive Advantage",
+    "goal": "Develop a strategic mindset to align operations with business goals and gain a sustainable edge.",
+    "keyConcepts": [
+      "Business strategy",
+      "Strategic alignment",
+      "Competitive differentiation"
+    ],
+    "books": [
+      {
+        "id": 405,
+        "title": "Good Strategy Bad Strategy: The Difference and Why It Matters",
+        "author": "Richard Rumelt",
+        "summary": "Explains what real strategy looks like and how to avoid the pitfalls of poor planning."
+      },
+      {
+        "id": 406,
+        "title": "Playing to Win: How Strategy Really Works",
+        "author": "A.G. Lafley & Roger L. Martin",
+        "summary": "A Fortune 500-tested, actionable playbook for creating and executing winning strategies."
+      }
+    ]
+  },
+  {
+    "id": "high_performance_teams_and_culture",
+    "title": "Building High-Performance Teams & Culture",
+    "goal": "Create and lead high-performing, adaptive teams and cultures in large organizations.",
+    "keyConcepts": [
+      "Organizational culture",
+      "Team dynamics",
+      "Leadership agility"
+    ],
+    "books": [
+      {
+        "id": 407,
+        "title": "No Rules Rules: Netflix and the Culture of Reinvention",
+        "author": "Reed Hastings & Erin Meyer",
+        "summary": "Insights from Netflix’s unique culture of innovation, freedom, and responsibility."
+      },
+      {
+        "id": 408,
+        "title": "Team of Teams: New Rules of Engagement for a Complex World",
+        "author": "General Stanley McChrystal",
+        "summary": "Shows how to lead agile, collaborative teams capable of thriving in complexity and change."
+      }
+    ]
+  },
+  {
+    "id": "financial_acumen_and_metrics",
+    "title": "Financial Acumen & Data-Driven Decisions",
+    "goal": "Build the financial skills and measurement mindset needed to drive operational success.",
+    "keyConcepts": [
+      "Financial literacy for leaders",
+      "Data-driven management",
+      "KPIs and OKRs"
+    ],
+    "books": [
+      {
+        "id": 409,
+        "title": "Financial Intelligence: A Manager’s Guide to Knowing What the Numbers Really Mean",
+        "author": "Karen Berman & Joe Knight",
+        "summary": "A practical guide for leaders to understand, interpret, and leverage financial data."
+      },
+      {
+        "id": 410,
+        "title": "Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth",
+        "author": "John Doerr",
+        "summary": "Explains how to use OKRs (Objectives and Key Results) to align teams and accelerate growth."
+      }
+    ]
+  }
+]
+
+}
