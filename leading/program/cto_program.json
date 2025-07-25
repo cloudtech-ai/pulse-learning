@@ -1,0 +1,111 @@
+{"3": [
+  {
+    "id": "technical_leadership",
+    "title": "Technical Leadership Foundations",
+    "goal": "Develop the mindset and toolkit for transitioning from individual contributor to effective engineering leader.",
+    "keyConcepts": [
+      "Transitioning to management",
+      "Mentoring engineers and teams",
+      "Building scalable engineering organizations"
+    ],
+    "books": [
+      {
+        "id": 301,
+        "title": "The Manager's Path",
+        "author": "Camille Fournier",
+        "summary": "A practical guide to growing as an engineering leader, covering mentoring, managing teams, and organizational structure."
+      },
+      {
+        "id": 302,
+        "title": "An Elegant Puzzle: Systems of Engineering Management",
+        "author": "Will Larson",
+        "summary": "Explores engineering management at scale, providing frameworks for team organization, growth, and effective leadership."
+      }
+    ]
+  },
+  {
+    "id": "team_culture_and_motivation",
+    "title": "Building and Leading Effective Teams",
+    "goal": "Create high-performing teams with healthy culture, feedback, and motivation.",
+    "keyConcepts": [
+      "Team structure and flow",
+      "Radical feedback and candor",
+      "Motivation and autonomy"
+    ],
+    "books": [
+      {
+        "id": 303,
+        "title": "Team Topologies",
+        "author": "Matthew Skelton & Manuel Pais",
+        "summary": "Explains how to design teams for fast flow and organizational effectiveness, introducing team types and interaction modes."
+      },
+      {
+        "id": 304,
+        "title": "Radical Candor",
+        "author": "Kim Scott",
+        "summary": "Shows leaders how to care personally and challenge directly, fostering honest communication and strong relationships."
+      },
+      {
+        "id": 305,
+        "title": "Drive: The Surprising Truth About What Motivates Us",
+        "author": "Daniel H. Pink",
+        "summary": "Explores the science of motivation, focusing on autonomy, mastery, and purpose as drivers of high performance."
+      }
+    ]
+  },
+  {
+    "id": "product_and_innovation",
+    "title": "Product Vision, Strategy, and Innovation",
+    "goal": "Master product thinking, customer focus, and market strategies for technology leadership.",
+    "keyConcepts": [
+      "Product management essentials",
+      "Understanding market adoption",
+      "Rapid experimentation and customer feedback"
+    ],
+    "books": [
+      {
+        "id": 306,
+        "title": "Inspired: How To Create Products Customers Love",
+        "author": "Marty Cagan",
+        "summary": "A comprehensive guide to building products customers want, from idea to launch, emphasizing customer discovery and product teams."
+      },
+      {
+        "id": 307,
+        "title": "Crossing the Chasm",
+        "author": "Geoffrey A. Moore",
+        "summary": "Classic book on taking new technology to mainstream markets, focusing on the challenges of moving from early adopters to the majority."
+      },
+      {
+        "id": 308,
+        "title": "The Lean Startup",
+        "author": "Eric Ries",
+        "summary": "Lays out a scientific approach to creating and managing successful startups through continuous innovation and validated learning."
+      }
+    ]
+  },
+  {
+    "id": "business_and_execution",
+    "title": "Business, Scaling, and Execution",
+    "goal": "Gain the tools to align technology and business, scale organizations, and drive measurable outcomes.",
+    "keyConcepts": [
+      "Operational excellence",
+      "Scaling teams and processes",
+      "Setting and tracking strategic goals"
+    ],
+    "books": [
+      {
+        "id": 309,
+        "title": "High Output Management",
+        "author": "Andrew Grove",
+        "summary": "Legendary management book focusing on the principles of effective operations, productivity, and scaling organizations."
+      },
+      {
+        "id": 10,
+        "title": "Measure What Matters",
+        "author": "John Doerr",
+        "summary": "Explains how to use Objectives and Key Results (OKRs) to focus, align, and achieve breakthrough results in any organization."
+      }
+    ]
+  }
+]
+}

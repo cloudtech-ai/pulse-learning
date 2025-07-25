@@ -1,0 +1,125 @@
+{ 
+    "2": 
+[
+  {
+    "id": "startup_mindset_and_founder_psychology",
+    "title": "Startup Mindset and Founder Psychology",
+    "goal": "Develop an entrepreneurial mindset and learn how to approach problems like a founder.",
+    "keyConcepts": [
+      "Iterative experimentation",
+      "Independent thinking",
+      "Embracing uncertainty"
+    ],
+    "books": [
+      {
+        "id": 201,
+        "title": "The Lean Startup",
+        "author": "Eric Ries",
+        "summary": "A scientific approach to creating and managing successful startups through build-measure-learn cycles."
+      },
+      {
+        "id": 202,
+        "title": "Zero to One",
+        "author": "Peter Thiel",
+        "summary": "Explores how to create truly innovative businesses and the importance of bold, original thinking."
+      }
+    ]
+  },
+  {
+    "id": "product_discovery_and_customer_focus",
+    "title": "Product Discovery and Customer Focus",
+    "goal": "Master the art of building products that solve real customer problems.",
+    "keyConcepts": [
+      "Customer interviews",
+      "Validating ideas",
+      "Building what matters"
+    ],
+    "books": [
+      {
+        "id": 203,
+        "title": "Inspired: How To Create Products Customers Love",
+        "author": "Marty Cagan",
+        "summary": "Shows how successful tech companies discover and deliver products that customers truly want."
+      },
+      {
+        "id": 204,
+        "title": "The Mom Test",
+        "author": "Rob Fitzpatrick",
+        "summary": "Teaches how to talk to customers and get honest feedback that actually helps you improve your product."
+      }
+    ]
+  },
+  {
+    "id": "go_to_market_and_growth",
+    "title": "Go-To-Market and Growth",
+    "goal": "Learn how to bring your product to market and achieve scalable, sustainable growth.",
+    "keyConcepts": [
+      "Early adopters vs mainstream",
+      "Customer acquisition",
+      "Growth channels"
+    ],
+    "books": [
+      {
+        "id": 205,
+        "title": "Crossing the Chasm",
+        "author": "Geoffrey A. Moore",
+        "summary": "A playbook for taking technology products from early adopters to the mass market."
+      },
+      {
+        "id": 206,
+        "title": "Traction: How Any Startup Can Achieve Explosive Customer Growth",
+        "author": "Gabriel Weinberg & Justin Mares",
+        "summary": "A tactical guide to finding and scaling the right marketing channels for your startup."
+      }
+    ]
+  },
+  {
+    "id": "execution_and_scaling",
+    "title": "Execution and Scaling",
+    "goal": "Learn how to execute effectively and scale your startup from a small team to a thriving company.",
+    "keyConcepts": [
+      "Management systems",
+      "Operational excellence",
+      "Handling adversity"
+    ],
+    "books": [
+      {
+        "id": 207,
+        "title": "High Output Management",
+        "author": "Andrew S. Grove",
+        "summary": "A classic on building and managing high-performing teams and processes."
+      },
+      {
+        "id": 208,
+        "title": "The Hard Thing About Hard Things",
+        "author": "Ben Horowitz",
+        "summary": "Real-world advice on facing the toughest challenges as a startup leader."
+      }
+    ]
+  },
+  {
+    "id": "leadership_culture_and_longevity",
+    "title": "Leadership, Culture, and Longevity",
+    "goal": "Develop leadership skills and create a strong company culture that sustains long-term success.",
+    "keyConcepts": [
+      "Mindset shifts",
+      "Resilient culture",
+      "Adaptive leadership"
+    ],
+    "books": [
+      {
+        "id": 209,
+        "title": "The Art of Possibility",
+        "author": "Rosamund Stone Zander & Benjamin Zander",
+        "summary": "Unlocks new possibilities in leadership and innovation through mindset and creativity."
+      },
+      {
+        "id": 210,
+        "title": "No Rules Rules: Netflix and the Culture of Reinvention",
+        "author": "Reed Hastings & Erin Meyer",
+        "summary": "Reveals how Netflix’s radical culture enables continuous innovation and growth."
+      }
+    ]
+  }
+]
+}
