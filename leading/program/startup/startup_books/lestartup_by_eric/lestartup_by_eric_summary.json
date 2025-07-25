@@ -1,0 +1,55 @@
+{
+  "id": 6,
+  "title": "The Lean Startup",
+  "description": "A methodology for developing businesses and products that aims to shorten product development cycles and rapidly discover if a proposed business model is viable.",
+  "videoPreview": "Introduction to Lean Startup",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629999184i/10127019._S475_.jpg",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Build-Measure-Learn Feedback Loop",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Minimum Viable Product (MVP)"
+    },
+    {
+      "id": 63,
+      "title": "Validated Learning"
+    },
+    {
+      "id": 64,
+      "title": "Pivot or Persevere"
+    },
+    {
+      "id": 65,
+      "title": "Innovation Accounting"
+    },
+    {
+      "id": 66,
+      "title": "Continuous Deployment"
+    },
+    {
+      "id": 67,
+      "title": "Split Testing"
+    }
+  ],
+ "videos": [
+  {
+    "id": "1FoCbbbcYT8",
+    "title": "Building the Minimum Viable Product"
+  },
+  {
+    "id": "L_6xU71Q-lY",
+    "title": "Understanding the Build‑Measure‑Learn Loop"
+  },  {
+    "id": "GL1LrR2jv7Y",
+    "title": "Pivot or Persevere: Lean Startup"
+  },
+  {
+    "id": "CJwK5_Vty1Y",
+    "title": "Innovation Accounting Explained"
+  }
+]
+}

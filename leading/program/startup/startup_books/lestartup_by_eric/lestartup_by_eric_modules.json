@@ -1,0 +1,67 @@
+{
+  "id": "the_lean_startup",
+  "title": "The Lean Startup",
+  "description": "The Lean Startup by Eric Ries introduces a systematic, scientific approach for creating and managing successful startups in an age of uncertainty. The book emphasizes rapid experimentation, validated learning, and iterative product releases to shorten product development cycles. Entrepreneurs are encouraged to build minimum viable products, test their assumptions, and pivot or persevere based on real customer feedback. Ries outlines how startups can maximize their chances of success by continuously measuring progress and adapting quickly. Overall, the book offers actionable strategies for building sustainable businesses through continuous innovation.",
+  "modules": [
+    {
+      "id": "introduction_to_lean_startup",
+      "title": "Introduction to The Lean Startup",
+      "goal": "Understand the core concepts and origins of the Lean Startup methodology.",
+      "key_points": [
+        "Defines what a startup is and the unique challenges they face.",
+        "Explains the necessity of a new approach to managing startups.",
+        "Introduces the foundational principles behind Lean Startup."
+      ]
+    },
+    {
+      "id": "validated_learning",
+      "title": "Validated Learning",
+      "goal": "Learn how to use experimentation and feedback to validate assumptions.",
+      "key_points": [
+        "Emphasizes learning what customers really want through testing.",
+        "Describes how to measure progress by validated learning instead of vanity metrics.",
+        "Explains the Build-Measure-Learn feedback loop."
+      ]
+    },
+    {
+      "id": "minimum_viable_product",
+      "title": "Minimum Viable Product (MVP)",
+      "goal": "Understand the importance and implementation of the minimum viable product.",
+      "key_points": [
+        "Defines MVP and its role in reducing wasted effort.",
+        "Encourages rapid prototyping to test hypotheses quickly.",
+        "Discusses strategies for launching MVPs and gathering meaningful data."
+      ]
+    },
+    {
+      "id": "innovation_accounting",
+      "title": "Innovation Accounting",
+      "goal": "Learn how to measure startup progress and make data-driven decisions.",
+      "key_points": [
+        "Outlines metrics that matter for startups' growth and learning.",
+        "Explains how to set up actionable metrics and milestones.",
+        "Discusses the importance of accountability and disciplined experimentation."
+      ]
+    },
+    {
+      "id": "pivot_or_persevere",
+      "title": "Pivot or Persevere",
+      "goal": "Recognize when and how to pivot, or continue on the current path.",
+      "key_points": [
+        "Defines what a pivot is and why it is crucial for startups.",
+        "Identifies signals indicating when a pivot may be necessary.",
+        "Provides examples of successful pivots and how to execute them."
+      ]
+    },
+    {
+      "id": "lean_startup_in_practice",
+      "title": "Lean Startup in Practice",
+      "goal": "Explore real-world applications and scaling of Lean Startup methods.",
+      "key_points": [
+        "Discusses challenges and adaptations when applying Lean Startup in different organizations.",
+        "Covers scaling, innovation teams, and enterprise adoption.",
+        "Shares case studies and lessons learned from Lean Startup practitioners."
+      ]
+    }
+  ]
+}

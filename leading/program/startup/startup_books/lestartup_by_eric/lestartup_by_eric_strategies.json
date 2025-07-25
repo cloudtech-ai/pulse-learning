@@ -1,0 +1,184 @@
+[
+  {
+    "id": 61,
+    "bookId": 1,
+    "title": "Build-Measure-Learn Feedback Loop",
+    "summary": "A core process in Lean Startup for turning ideas into products, measuring customer response, and learning whether to pivot or persevere.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "This loop ensures that startups focus on learning what customers actually want, rather than what founders think they want, minimizing wasted effort and resources."
+      },
+      {
+        "section": "Example",
+        "content": "A team quickly builds a prototype, releases it to a small group of users, collects feedback on usability, and uses the insights to improve the next version."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Start with a clear hypothesis to test.",
+          "Build the simplest version of your idea.",
+          "Measure user behavior and feedback objectively.",
+          "Analyze results to decide next steps.",
+          "Repeat the loop rapidly for faster learning."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 1,
+    "title": "Minimum Viable Product (MVP)",
+    "summary": "The simplest version of a product that allows a team to collect the maximum amount of validated learning about customers with the least effort.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Building an MVP prevents over-investing in features that customers may not want, enabling faster feedback and iteration."
+      },
+      {
+        "section": "Example",
+        "content": "Launching a landing page to gauge interest in a new service before developing the full product."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Identify the core value proposition.",
+          "Strip away non-essential features.",
+          "Release early to real users.",
+          "Use feedback to guide further development.",
+          "Don\u2019t aim for perfection\u2014focus on learning."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 1,
+    "title": "Validated Learning",
+    "summary": "A process of demonstrating empirically that a team has discovered valuable truths about a startup\u2019s present and future business prospects.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Validated learning helps teams avoid assumptions and base decisions on real data, reducing risk and uncertainty."
+      },
+      {
+        "section": "Example",
+        "content": "Running an experiment to test whether users will pay for a new feature, and using the results to decide on further investment."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Formulate clear, testable hypotheses.",
+          "Design experiments to gather actionable data.",
+          "Measure outcomes objectively.",
+          "Document learnings and share with the team.",
+          "Iterate based on what you learn."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 1,
+    "title": "Pivot or Persevere",
+    "summary": "A decision point in the Lean Startup process where a team decides whether to make a fundamental change to the product or strategy (pivot) or keep improving on the current path (persevere).",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Regularly evaluating progress ensures that resources are not wasted on ideas that aren\u2019t working, and that teams are responsive to real-world feedback."
+      },
+      {
+        "section": "Example",
+        "content": "After several iterations, a startup finds that users are not engaging with a feature and decides to pivot to a new approach based on user feedback."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set clear metrics for success.",
+          "Review progress at regular intervals.",
+          "Be honest about what\u2019s working and what isn\u2019t.",
+          "Don\u2019t be afraid to make bold changes if needed.",
+          "Communicate decisions clearly to the team."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 1,
+    "title": "Innovation Accounting",
+    "summary": "A system for measuring progress, setting up milestones, and prioritizing work when developing innovative products.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Traditional accounting doesn\u2019t capture the learning and progress of startups; innovation accounting provides relevant metrics for early-stage ventures."
+      },
+      {
+        "section": "Example",
+        "content": "Tracking metrics like customer acquisition cost, activation rate, and retention instead of just revenue in the early stages."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Define actionable metrics tied to learning goals.",
+          "Avoid vanity metrics that don\u2019t drive decisions.",
+          "Set clear milestones for learning and growth.",
+          "Review metrics regularly to guide pivots or perseverance.",
+          "Align team incentives with learning milestones."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "bookId": 1,
+    "title": "Continuous Deployment",
+    "summary": "A practice of releasing small, frequent updates to a product, allowing for rapid iteration and immediate feedback.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Continuous deployment reduces the time between idea and customer feedback, enabling faster learning and adaptation."
+      },
+      {
+        "section": "Example",
+        "content": "A software team automatically deploys code changes to production several times a day, quickly fixing bugs and testing new features."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Automate testing and deployment processes.",
+          "Release small, incremental changes.",
+          "Monitor user feedback and system performance.",
+          "Roll back quickly if issues arise.",
+          "Foster a culture of experimentation and learning."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "bookId": 1,
+    "title": "Split Testing",
+    "summary": "A method of comparing two or more versions of a product or feature to determine which performs better with real users.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Split testing provides objective data on user preferences and behavior, guiding product decisions and reducing guesswork."
+      },
+      {
+        "section": "Example",
+        "content": "Testing two different landing page designs to see which one results in more sign-ups."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Test one variable at a time for clear results.",
+          "Ensure sample sizes are large enough for statistical significance.",
+          "Use clear, measurable goals for each test.",
+          "Analyze results objectively and act on findings.",
+          "Document and share learnings with the team."
+        ]
+      }
+    ]
+  }
+]

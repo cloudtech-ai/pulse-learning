@@ -1,0 +1,542 @@
+{
+  "introduction_to_lean_startup": [
+    {
+      "id": "lesson_1_what_is_a_startup",
+      "title": "What Is a Startup?",
+      "goal": "Understand the definition of a startup and how it differs from traditional businesses.",
+      "keyConcept": "A startup is a human institution designed to create a new product or service under conditions of extreme uncertainty. Unlike established companies, startups face unknowns about their customers, products, and markets, which makes their journey unpredictable and risky. Recognizing these differences is crucial for choosing the right strategies and tools.",
+      "example": "A team of engineers launches an app to help people find parking spots in crowded cities. Unlike a car manufacturer, they don\u2019t know if people will use their app or pay for it, making their path uncertain.",
+      "practiceTip": "Write down your business idea and list the biggest unknowns or uncertainties you face. This will help you clarify whether you\u2019re operating as a startup.",
+      "reflectionPrompt": "What are the main uncertainties or risks facing your business idea?",
+      "quizQuestion": {
+        "question": "Which of the following best describes a startup?",
+        "options": [
+          "A small version of a large company",
+          "An organization creating something new under conditions of extreme uncertainty",
+          "A business with a proven business model"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_2_challenges_of_startups",
+      "title": "Unique Challenges Faced by Startups",
+      "goal": "Identify the specific challenges that make startups different from established businesses.",
+      "keyConcept": "Startups operate with limited resources, little brand recognition, and no proven business model. They must learn quickly, adapt to feedback, and make decisions with incomplete information. These challenges require a different mindset and approach compared to established companies.",
+      "example": "A new food delivery service struggles to attract its first customers and doesn\u2019t know which features will matter most, unlike a well-known chain that already has loyal clients.",
+      "practiceTip": "List three challenges you expect to face in your startup journey. For each, note whether you have a clear solution or if you need to experiment to find one.",
+      "reflectionPrompt": "How do your current resources and knowledge compare to those of established competitors?",
+      "quizQuestion": {
+        "question": "What is a common challenge for startups?",
+        "options": [
+          "Having an established customer base",
+          "Operating with a proven business model",
+          "Making decisions with limited information"
+        ],
+        "correctAnswer": 2
+      }
+    },
+    {
+      "id": "lesson_3_why_a_new_approach",
+      "title": "Why Startups Need a New Approach",
+      "goal": "Understand why traditional management methods often fail in startups.",
+      "keyConcept": "Traditional business plans and management techniques assume stability and predictability, which startups lack. Startups need flexible, iterative approaches that allow for rapid learning and adaptation. The Lean Startup methodology was developed to address these unique needs.",
+      "example": "A startup founder tries to follow a detailed five-year plan but quickly realizes that customer needs and market conditions change too fast for the plan to remain relevant.",
+      "practiceTip": "Review any plans or strategies you have for your startup. Identify areas where flexibility and quick feedback would be more valuable than rigid planning.",
+      "reflectionPrompt": "Where in your current approach could you benefit from more flexibility or faster learning?",
+      "quizQuestion": {
+        "question": "Why do traditional management methods often fail in startups?",
+        "options": [
+          "Startups have stable markets",
+          "Startups operate in unpredictable environments",
+          "Startups have unlimited resources"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_4_build_measure_learn",
+      "title": "The Build-Measure-Learn Feedback Loop",
+      "goal": "Learn the core cycle of the Lean Startup methodology for rapid learning.",
+      "keyConcept": "The Build-Measure-Learn loop is the heart of Lean Startup. Startups build a minimum viable product (MVP), measure how it performs with real users, and learn from the results to improve the product. This cycle helps startups quickly discover what works and what doesn\u2019t.",
+      "example": "A team launches a basic version of their app to a small group of users, collects feedback, and uses it to decide what features to add or change next.",
+      "practiceTip": "Identify the simplest version of your product or service you could build to start learning from customers right away.",
+      "reflectionPrompt": "What is the smallest experiment you could run to test your most important assumption?",
+      "quizQuestion": {
+        "question": "What are the three steps of the Lean Startup feedback loop?",
+        "options": [
+          "Plan-Execute-Review",
+          "Build-Measure-Learn",
+          "Design-Launch-Grow"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_5_foundational_principles",
+      "title": "Foundational Principles of Lean Startup",
+      "goal": "Recognize the key principles that guide Lean Startup thinking.",
+      "keyConcept": "Lean Startup is based on principles like validated learning, rapid experimentation, and continuous improvement. These principles encourage startups to test ideas quickly, learn from real customer feedback, and iterate their products or strategies based on evidence.",
+      "example": "Instead of spending months perfecting a product, a startup releases a basic version, gathers user feedback, and uses it to make improvements.",
+      "practiceTip": "Choose one principle (e.g., validated learning) and plan how you will apply it in your next project or decision.",
+      "reflectionPrompt": "How can you incorporate rapid experimentation and learning into your daily work?",
+      "quizQuestion": {
+        "question": "Which of the following is a foundational principle of Lean Startup?",
+        "options": [
+          "Validated learning",
+          "Strict adherence to initial plans",
+          "Avoiding customer feedback"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "validated_learning": [
+    {
+      "id": "vl_lesson_1_understand_validated_learning",
+      "title": "Understanding Validated Learning",
+      "goal": "Grasp the concept of validated learning and why it matters for startups.",
+      "keyConcept": "Validated learning is a process of demonstrating empirically that a team has discovered valuable truths about a startup\u2019s present and future business prospects. Instead of relying on assumptions or intuition, startups use experiments to test their ideas and learn what customers actually want. This approach helps avoid wasted effort and resources by focusing on real evidence.",
+      "example": "A startup believes customers want a new photo-sharing feature. Instead of building the full feature, they create a simple prototype and ask users for feedback. The feedback shows users are more interested in editing tools than sharing, so the team pivots their focus.",
+      "practiceTip": "Before building a new feature, write down your assumptions about what customers want and design a simple experiment to test them.",
+      "reflectionPrompt": "What is one assumption you have about your customers that you could test with a simple experiment?",
+      "quizQuestion": {
+        "question": "What is the main purpose of validated learning in a startup?",
+        "options": [
+          "To prove your initial idea is correct",
+          "To learn what customers actually want through testing",
+          "To launch as many features as possible"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "vl_lesson_2_build_measure_learn",
+      "title": "The Build-Measure-Learn Feedback Loop",
+      "goal": "Learn how to use the Build-Measure-Learn loop to drive continuous improvement.",
+      "keyConcept": "The Build-Measure-Learn loop is the core process of the Lean Startup method. Startups build a minimum viable product (MVP), measure how it performs with real customers, and learn from the results to make better decisions. This cycle helps teams iterate quickly and efficiently, focusing on learning rather than just building.",
+      "example": "A team launches a basic version of their app (MVP), tracks how users interact with it, and discovers that most users drop off after the first screen. They use this insight to redesign the onboarding process.",
+      "practiceTip": "After launching any new feature or product, immediately collect data on how users interact with it and schedule a review to discuss what you\u2019ve learned.",
+      "reflectionPrompt": "How can you apply the Build-Measure-Learn loop to your current project or idea?",
+      "quizQuestion": {
+        "question": "What are the three steps in the Build-Measure-Learn loop?",
+        "options": [
+          "Plan-Develop-Launch",
+          "Build-Measure-Learn",
+          "Design-Test-Release"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "vl_lesson_3_designing_experiments",
+      "title": "Designing Effective Experiments",
+      "goal": "Learn how to create simple experiments to test your assumptions.",
+      "keyConcept": "Effective experiments are focused, simple, and designed to test a specific assumption. By isolating one variable at a time, you can clearly see what works and what doesn\u2019t. The goal is to learn quickly and cheaply, not to build a perfect product from the start.",
+      "example": "Instead of building a full e-commerce site, a founder sets up a landing page describing the product and tracks how many visitors click 'Buy Now' to gauge interest.",
+      "practiceTip": "Identify one key assumption about your product and brainstorm the simplest way to test it with real users this week.",
+      "reflectionPrompt": "What is one experiment you could run this week to test a critical assumption about your idea?",
+      "quizQuestion": {
+        "question": "What is the main goal of running experiments in a startup?",
+        "options": [
+          "To impress investors with complex features",
+          "To quickly test assumptions and learn from real users",
+          "To build the final product as fast as possible"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "vl_lesson_4_measuring_what_matters",
+      "title": "Measuring What Matters",
+      "goal": "Understand the difference between vanity metrics and actionable metrics.",
+      "keyConcept": "Vanity metrics, like total signups or page views, may look impressive but don\u2019t provide real insight into customer behavior or product success. Actionable metrics, on the other hand, help you make informed decisions by showing how changes impact user behavior and business outcomes.",
+      "example": "A startup sees their app downloads increase, but user engagement remains low. By tracking how many users complete key actions, they realize most users drop off after signing up, prompting them to improve onboarding.",
+      "practiceTip": "Choose one actionable metric (e.g., user retention, conversion rate) to track for your product and review it regularly to guide your decisions.",
+      "reflectionPrompt": "Which metrics are you currently tracking, and how do they help you make better decisions?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of an actionable metric?",
+        "options": [
+          "Number of app downloads",
+          "Percentage of users who complete a purchase",
+          "Total website visits"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "vl_lesson_5_learning_and_pivoting",
+      "title": "Learning and Pivoting",
+      "goal": "Recognize when to pivot based on what you\u2019ve learned from experiments.",
+      "keyConcept": "A pivot is a structured course correction designed to test a new fundamental hypothesis about your product, strategy, or growth engine. If experiments show your assumptions were wrong, it\u2019s better to change direction early rather than persist with a failing idea. Learning when to pivot is crucial for startup success.",
+      "example": "After several experiments, a team realizes their original product isn\u2019t gaining traction, but users love a small feature they added. They decide to pivot and focus on developing that feature as their main product.",
+      "practiceTip": "Regularly review your experiment results and ask yourself if your current direction is supported by evidence. Be open to making significant changes if the data suggests it.",
+      "reflectionPrompt": "Have you ever ignored evidence that suggested you should change direction? What might you do differently next time?",
+      "quizQuestion": {
+        "question": "What does it mean to 'pivot' in the Lean Startup method?",
+        "options": [
+          "To abandon your startup completely",
+          "To make a structured change based on what you\u2019ve learned",
+          "To add more features to your product"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "minimum_viable_product": [
+    {
+      "id": "mvp_lesson_1_definition",
+      "title": "What is a Minimum Viable Product (MVP)?",
+      "goal": "Understand the definition and purpose of an MVP.",
+      "keyConcept": "A Minimum Viable Product (MVP) is the simplest version of a new product that allows a team to collect the maximum amount of validated learning about customers with the least effort. The MVP contains only the core features necessary to test a business hypothesis. Its main purpose is to quickly learn what customers actually want before investing heavily in development.",
+      "example": "Dropbox started by releasing a simple video demonstrating their product idea, rather than building the full software. This allowed them to gauge interest and collect feedback before developing the actual product.",
+      "practiceTip": "When planning your product, ask yourself: 'What is the smallest thing I can build to test my main assumption?' Focus only on features that are essential to learning.",
+      "reflectionPrompt": "What is the core problem your startup aims to solve, and what is the simplest version of your solution?",
+      "quizQuestion": {
+        "question": "What is the primary purpose of an MVP?",
+        "options": [
+          "To launch a fully-featured product",
+          "To quickly test assumptions with minimal effort",
+          "To maximize initial profits"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "mvp_lesson_2_reducing_waste",
+      "title": "Reducing Wasted Effort with MVPs",
+      "goal": "Learn how MVPs help avoid unnecessary work and resources.",
+      "keyConcept": "Building an MVP helps you avoid spending time and money on features or products that customers may not want. By focusing on learning and validation, you reduce the risk of building something nobody uses. This approach encourages you to prioritize feedback and adapt quickly, rather than perfecting a product in isolation.",
+      "example": "A team spends months building a complex app, only to find out users don\u2019t need most features. In contrast, another team launches a basic version, gathers feedback, and iterates based on real user needs, saving time and resources.",
+      "practiceTip": "List all planned features for your product. Identify which ones are essential for testing your main hypothesis and set aside the rest for later.",
+      "reflectionPrompt": "Have you ever worked on a project where you built more than was necessary? What could you have done differently to validate your idea sooner?",
+      "quizQuestion": {
+        "question": "How does an MVP help startups?",
+        "options": [
+          "By allowing them to test ideas with minimal resources",
+          "By ensuring the product is perfect before launch"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "mvp_lesson_3_rapid_prototyping",
+      "title": "Rapid Prototyping to Test Hypotheses",
+      "goal": "Discover how to use rapid prototyping to validate your assumptions.",
+      "keyConcept": "Rapid prototyping means quickly creating a basic version of your product to test specific assumptions or hypotheses. The goal is to learn as fast as possible, not to build a perfect product. This process helps you identify what works and what doesn\u2019t, so you can make informed decisions about what to build next.",
+      "example": "A founder sketches a landing page and uses it to see if people sign up for more information, testing whether there is real interest before building the full product.",
+      "practiceTip": "Choose one key assumption about your product. Create a simple prototype (like a landing page, mockup, or explainer video) to test it with real users this week.",
+      "reflectionPrompt": "What is one assumption you have about your customers that you could test with a simple prototype?",
+      "quizQuestion": {
+        "question": "What is the main goal of rapid prototyping in the MVP process?",
+        "options": [
+          "To impress investors with a polished product",
+          "To quickly test and learn from customer reactions"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "mvp_lesson_4_launching_mvp",
+      "title": "Launching Your MVP",
+      "goal": "Learn practical steps for launching an MVP and gathering feedback.",
+      "keyConcept": "Launching an MVP involves releasing your basic product to a small group of target users and observing their behavior. The focus is on learning, not on scaling or perfecting the product. Early feedback helps you understand if your assumptions are correct and what changes are needed before investing more resources.",
+      "example": "A startup releases a basic version of their app to 100 users and closely monitors how they use it, collecting feedback through surveys and interviews.",
+      "practiceTip": "Identify a small group of potential users and invite them to try your MVP. Prepare a few questions to ask about their experience and observe how they interact with your product.",
+      "reflectionPrompt": "Who are the first people you could invite to try your MVP, and how will you collect their feedback?",
+      "quizQuestion": {
+        "question": "What should be your main focus when launching an MVP?",
+        "options": [
+          "Getting as many users as possible",
+          "Learning from early users and improving the product"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "mvp_lesson_5_gathering_data",
+      "title": "Gathering and Using Meaningful Data",
+      "goal": "Understand how to collect and interpret data from your MVP.",
+      "keyConcept": "The value of an MVP comes from the data you collect about user behavior and preferences. Focus on actionable metrics that help you decide whether to pivot or persevere. Avoid vanity metrics (like total signups) and instead track user engagement, retention, or other indicators that reflect real value.",
+      "example": "Instead of just counting downloads, a team measures how many users return to use the app again, helping them understand if the product truly solves a problem.",
+      "practiceTip": "Define 1-2 key metrics that indicate whether your MVP is meeting its goal. Set up simple ways to track these metrics from the start.",
+      "reflectionPrompt": "What data will best help you decide if your MVP is successful or needs to change?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of an actionable metric?",
+        "options": [
+          "Number of users who sign up and return the next week",
+          "Total number of website visits"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "innovation_accounting": [
+    {
+      "id": "innovation_accounting_lesson_1",
+      "title": "Understanding Innovation Accounting",
+      "goal": "Grasp the purpose and importance of innovation accounting in startups.",
+      "keyConcept": "Innovation accounting is a framework that helps startups measure progress, set milestones, and make informed decisions based on data rather than assumptions. Unlike traditional accounting, it focuses on learning and validated metrics that reflect real customer behavior. This approach ensures that startups are moving toward building a sustainable business, not just generating vanity metrics.",
+      "example": "A startup tracks the number of new signups each week but realizes this doesn't show if users actually find value in the product. By shifting to innovation accounting, they start measuring how many users complete a key action, like making a purchase or returning to use the product again.",
+      "practiceTip": "Identify one metric you currently track that might be a vanity metric. Think about how you could replace it with a metric that reflects real customer engagement or learning.",
+      "reflectionPrompt": "What is one area of your startup where you might be mistaking activity for real progress?",
+      "quizQuestion": {
+        "question": "What is the main focus of innovation accounting?",
+        "options": [
+          "Tracking financial profits",
+          "Measuring validated learning and real progress",
+          "Counting total website visits"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "innovation_accounting_lesson_2",
+      "title": "Choosing Actionable Metrics",
+      "goal": "Learn how to select metrics that drive meaningful decisions.",
+      "keyConcept": "Actionable metrics are those that clearly show the impact of your actions and help you decide what to do next. They are specific, trackable, and tied to customer behavior. Unlike vanity metrics, actionable metrics provide insights that can guide product improvements and strategic pivots.",
+      "example": "Instead of tracking total app downloads, a team measures the percentage of users who complete the onboarding process, helping them identify where users drop off and what needs fixing.",
+      "practiceTip": "Review your current metrics and ask yourself: 'Does this metric help me decide what to do next?' If not, brainstorm one actionable metric you can start tracking.",
+      "reflectionPrompt": "Which of your current metrics could be replaced with a more actionable one, and why?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of an actionable metric?",
+        "options": [
+          "Number of press mentions",
+          "Percentage of users who make a repeat purchase"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "innovation_accounting_lesson_3",
+      "title": "Setting Milestones for Learning",
+      "goal": "Understand how to create milestones that reflect real progress.",
+      "keyConcept": "Milestones in innovation accounting are tied to learning goals, not just product launches or revenue targets. Each milestone should represent a validated learning step, such as proving a key assumption about your customers or product. This approach keeps your team focused on what matters most for growth.",
+      "example": "A team sets a milestone to validate whether users are willing to pay for a premium feature, rather than just aiming to release the feature by a certain date.",
+      "practiceTip": "Define your next milestone in terms of what you need to learn about your customers, not just what you want to build.",
+      "reflectionPrompt": "What is one key assumption you need to test before moving forward with your product?",
+      "quizQuestion": {
+        "question": "What should a milestone in innovation accounting represent?",
+        "options": [
+          "A completed product feature",
+          "A validated learning step"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "innovation_accounting_lesson_4",
+      "title": "Disciplined Experimentation",
+      "goal": "Learn how to run experiments that generate reliable data for decision-making.",
+      "keyConcept": "Disciplined experimentation means testing hypotheses with real customers using controlled experiments. Each experiment should have a clear hypothesis, a way to measure results, and a plan for what to do based on the outcome. This reduces guesswork and helps you learn what works faster.",
+      "example": "A startup hypothesizes that changing the signup button color will increase conversions. They run an A/B test and measure the difference in signup rates to determine if the change is effective.",
+      "practiceTip": "Before making a product change, write down your hypothesis and how you will measure success. Commit to acting on the results, whether positive or negative.",
+      "reflectionPrompt": "How can you incorporate more disciplined experimentation into your current workflow?",
+      "quizQuestion": {
+        "question": "What is a key component of disciplined experimentation?",
+        "options": [
+          "Making changes based on intuition",
+          "Testing clear hypotheses with measurable outcomes"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "innovation_accounting_lesson_5",
+      "title": "Accountability and Continuous Improvement",
+      "goal": "Recognize the importance of accountability in startup progress and learning.",
+      "keyConcept": "Accountability ensures that your team follows through on experiments and learning goals. By regularly reviewing results and holding each other responsible for outcomes, you create a culture of continuous improvement. This helps avoid wasted effort and keeps everyone aligned with the startup\u2019s vision.",
+      "example": "A team holds weekly meetings to review experiment results, discuss what was learned, and decide on next steps. This routine helps them quickly adapt and stay focused on validated learning.",
+      "practiceTip": "Set a recurring time to review your metrics and experiments with your team. Use these sessions to celebrate learning and identify areas for improvement.",
+      "reflectionPrompt": "What systems can you put in place to ensure accountability and continuous learning in your startup?",
+      "quizQuestion": {
+        "question": "Why is accountability important in innovation accounting?",
+        "options": [
+          "It helps ensure learning is acted upon and progress is made",
+          "It increases the number of experiments run"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "pivot_or_persevere": [
+    {
+      "id": "pivot_persevere_01",
+      "title": "Understanding the Pivot",
+      "goal": "Learn what a pivot is and why it matters for startups.",
+      "keyConcept": "A pivot is a fundamental change in your product, strategy, or business model based on validated learning. It\u2019s not a minor adjustment, but a significant shift to test a new hypothesis about your product or market. Pivots help startups avoid wasting resources on ideas that aren\u2019t working, and instead focus on what could lead to success.",
+      "example": "Instagram started as a location-based check-in app called Burbn. When the founders noticed users were mostly using the photo-sharing feature, they pivoted to focus solely on photos, leading to massive growth.",
+      "practiceTip": "Write down your current business hypothesis and the main assumptions you\u2019re testing. Identify which parts could be pivoted if evidence shows they\u2019re not working.",
+      "reflectionPrompt": "What aspect of your current business model would you be willing to change if you discovered it wasn\u2019t working?",
+      "quizQuestion": {
+        "question": "What is a pivot in the context of startups?",
+        "options": [
+          "A minor tweak to your product features",
+          "A significant change in strategy based on learning",
+          "A marketing campaign to attract new users"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "pivot_persevere_02",
+      "title": "Recognizing Signals to Pivot",
+      "goal": "Identify key signals that indicate when a pivot may be necessary.",
+      "keyConcept": "Startups should look for clear signals that their current approach isn\u2019t working, such as stagnant growth, poor customer engagement, or repeated failure to meet key metrics. These signals suggest that continuing on the same path may not lead to success, and a pivot should be considered.",
+      "example": "A SaaS company notices that despite marketing efforts, user sign-ups have plateaued and feedback indicates the product doesn\u2019t solve a real pain point. This is a strong signal to consider a pivot.",
+      "practiceTip": "Review your key metrics weekly. If you notice a persistent lack of progress, document the patterns and discuss with your team whether a pivot might be needed.",
+      "reflectionPrompt": "What signals or metrics would tell you that your current strategy isn\u2019t working?",
+      "quizQuestion": {
+        "question": "Which of the following is a signal that a pivot may be needed?",
+        "options": [
+          "Consistent user growth",
+          "Stagnant or declining engagement",
+          "Positive customer testimonials"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "pivot_persevere_03",
+      "title": "Types of Pivots",
+      "goal": "Understand the different types of pivots available to startups.",
+      "keyConcept": "There are several types of pivots, including zoom-in (focusing on a single feature), zoom-out (broadening the product), customer segment (targeting a different audience), and platform pivots (changing from an application to a platform or vice versa). Choosing the right type depends on what your validated learning reveals.",
+      "example": "Slack began as an internal communication tool for a gaming company. When the game failed, the team pivoted to offer the communication tool as a standalone product, targeting a new customer segment.",
+      "practiceTip": "List the different ways you could pivot your product or business. For each, note what evidence would support making that change.",
+      "reflectionPrompt": "Which type of pivot might be most relevant for your current startup idea?",
+      "quizQuestion": {
+        "question": "What is a 'zoom-in' pivot?",
+        "options": [
+          "Focusing on a single feature of your product",
+          "Expanding your product to include more features",
+          "Changing your target customer segment"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "pivot_persevere_04",
+      "title": "Executing a Successful Pivot",
+      "goal": "Learn how to plan and implement a pivot effectively.",
+      "keyConcept": "A successful pivot requires clear communication with your team, a plan for testing the new hypothesis, and a willingness to let go of previous assumptions. It\u2019s important to move quickly but thoughtfully, ensuring that everyone understands the reasons for the change and how success will be measured.",
+      "example": "Twitter started as a podcast platform called Odeo. When Apple launched iTunes podcasting, the team pivoted to microblogging, holding brainstorming sessions and quickly building a prototype to test the new idea.",
+      "practiceTip": "Before pivoting, hold a team meeting to discuss the data, agree on the new direction, and set clear metrics for success.",
+      "reflectionPrompt": "How would you communicate a major change in direction to your team or stakeholders?",
+      "quizQuestion": {
+        "question": "What is a key step in executing a pivot?",
+        "options": [
+          "Ignoring team feedback",
+          "Clearly communicating the reasons for change",
+          "Making changes without any plan"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "pivot_persevere_05",
+      "title": "Knowing When to Persevere",
+      "goal": "Decide when it\u2019s best to stay the course instead of pivoting.",
+      "keyConcept": "Not every setback means you should pivot. If your metrics are improving, even slowly, and you\u2019re learning from your customers, it may be best to persevere. The key is to distinguish between temporary obstacles and fundamental flaws in your approach.",
+      "example": "A startup\u2019s user base is growing steadily, but not explosively. After analyzing feedback, the team realizes users are satisfied and retention is high, so they decide to keep improving their current product rather than pivot.",
+      "practiceTip": "Set clear, time-bound goals for your key metrics. If you\u2019re making progress toward them, continue refining your current strategy.",
+      "reflectionPrompt": "How will you determine whether to pivot or persevere in your own startup journey?",
+      "quizQuestion": {
+        "question": "When should you persevere instead of pivoting?",
+        "options": [
+          "When your metrics are improving and customers are engaged",
+          "When you feel bored with your product",
+          "When you haven\u2019t collected any data"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "lean_startup_in_practice": [
+    {
+      "id": "micro_lesson_1_context_matters",
+      "title": "Adapting Lean Startup to Your Organization",
+      "goal": "Understand how to tailor Lean Startup principles to fit your unique organizational context.",
+      "keyConcept": "Lean Startup methods are not one-size-fits-all. Every organization\u2014whether a startup, large enterprise, or nonprofit\u2014faces unique challenges, cultures, and constraints. Successful implementation requires adapting the core principles (like Build-Measure-Learn) to fit your team\u2019s size, resources, and decision-making processes.",
+      "example": "A large corporation wants to innovate like a startup but faces slow decision-making due to multiple approval layers. They adapt by creating a small, cross-functional team with autonomy to run Lean experiments quickly.",
+      "practiceTip": "Identify one process or rule in your organization that slows down experimentation. Propose a small change or exception to help your team test ideas faster.",
+      "reflectionPrompt": "What is one unique challenge your organization faces when trying to innovate, and how might you adapt Lean Startup methods to address it?",
+      "quizQuestion": {
+        "question": "Why is it important to adapt Lean Startup methods to your organization?",
+        "options": [
+          "Because every organization has different structures and constraints.",
+          "Because Lean Startup only works for tech startups."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "micro_lesson_2_minimum_viable_teams",
+      "title": "Building Minimum Viable Teams",
+      "goal": "Learn how to form small, empowered teams to drive innovation.",
+      "keyConcept": "Lean Startup encourages the use of small, cross-functional teams that can move quickly and make decisions independently. These 'minimum viable teams' are empowered to experiment, learn, and iterate without being bogged down by bureaucracy.",
+      "example": "A company forms a three-person team (designer, developer, marketer) to test a new product idea. The team is given a budget and authority to make decisions without constant approvals.",
+      "practiceTip": "Assemble a small team with all the skills needed to take an idea from concept to test. Set clear boundaries for decision-making authority.",
+      "reflectionPrompt": "Who would you include in your minimum viable team to ensure you can quickly test and learn from new ideas?",
+      "quizQuestion": {
+        "question": "What is a key benefit of a minimum viable team?",
+        "options": [
+          "They can make decisions and run experiments quickly.",
+          "They require approval from every department."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "micro_lesson_3_scaling_lean",
+      "title": "Scaling Lean Startup Practices",
+      "goal": "Discover strategies for expanding Lean Startup methods beyond a single team or project.",
+      "keyConcept": "Scaling Lean Startup involves spreading its principles across multiple teams or departments. This requires creating systems for sharing learning, standardizing experimentation processes, and maintaining a culture of innovation as the organization grows.",
+      "example": "After a successful pilot, a company creates a 'Lean Playbook' and regular meetups for teams to share their experiments and results, encouraging wider adoption.",
+      "practiceTip": "Document your team\u2019s experiments and outcomes. Share them in a central location or meeting to help others learn and replicate successes.",
+      "reflectionPrompt": "How can you help other teams in your organization adopt Lean Startup practices?",
+      "quizQuestion": {
+        "question": "What helps organizations scale Lean Startup practices?",
+        "options": [
+          "Sharing learnings and standardizing experimentation processes.",
+          "Keeping all experiments secret.",
+          "Only allowing one team to use Lean methods."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "micro_lesson_4_learning_from_failure",
+      "title": "Embracing and Learning from Failure",
+      "goal": "Recognize the value of failure as a source of learning and improvement.",
+      "keyConcept": "Lean Startup treats failure as valuable feedback. When experiments don\u2019t go as planned, teams analyze what happened, extract lessons, and use them to improve future iterations. This mindset reduces fear of failure and accelerates learning.",
+      "example": "A team launches a new feature that customers ignore. Instead of hiding the result, they share what they learned about customer needs and adjust their approach.",
+      "practiceTip": "After each experiment, hold a brief review to discuss what worked, what didn\u2019t, and what you\u2019ll do differently next time.",
+      "reflectionPrompt": "How can you create a safe environment for your team to share and learn from failures?",
+      "quizQuestion": {
+        "question": "What is the Lean Startup approach to failure?",
+        "options": [
+          "Hide failures to avoid blame.",
+          "Treat failure as feedback and learn from it."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "micro_lesson_5_case_study_insights",
+      "title": "Applying Lessons from Lean Startup Case Studies",
+      "goal": "Gain practical insights by analyzing real-world Lean Startup successes and challenges.",
+      "keyConcept": "Case studies from Lean Startup practitioners reveal both successes and pitfalls. By studying these examples, you can anticipate common challenges, adapt proven strategies, and avoid repeating others\u2019 mistakes.",
+      "example": "A startup reads about another company\u2019s failed product launch due to lack of customer feedback. They decide to prioritize early customer interviews before building their own product.",
+      "practiceTip": "Find and read a Lean Startup case study relevant to your industry. List one lesson you can apply to your own project.",
+      "reflectionPrompt": "What is one insight from a Lean Startup case study that you can use to improve your current approach?",
+      "quizQuestion": {
+        "question": "Why are Lean Startup case studies valuable?",
+        "options": [
+          "They provide practical lessons and help avoid common mistakes.",
+          "They are only interesting stories with no real value."
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ]
+}

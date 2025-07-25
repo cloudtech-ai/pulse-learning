@@ -1,0 +1,80 @@
+{
+  "books": [
+    {
+      "id": 201,
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "summary": "A scientific approach to creating and managing successful startups through build-measure-learn cycles.",
+      "generative_title": "The Lean Startup by Eric Ries",
+      "info": "startup_books/lestartup_by_eric/lestartup_by_eric_summary.json",
+      "strategies": "startup_books/lestartup_by_eric/lestartup_by_eric_strategies.json",
+      "studyPlan": {
+        "module_path": "startup_books/lestartup_by_eric/lestartup_by_eric_modules.json",
+        "lesson_path": "startup_books/lestartup_by_eric/lestartup_by_eric_lessons.json"
+      }
+    },
+    {
+      "id": 202,
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "summary": "Explores how to create truly innovative businesses and the importance of bold, original thinking.",
+      "generative_title": "Zero to One by Peter Thiel"
+    },
+    {
+      "id": 203,
+      "title": "Inspired: How To Create Products Customers Love",
+      "author": "Marty Cagan",
+      "summary": "Shows how successful tech companies discover and deliver products that customers truly want.",
+      "generative_title": "Inspired: How To Create Products Customers Love by Marty Cagan"
+    },
+    {
+      "id": 204,
+      "title": "The Mom Test",
+      "author": "Rob Fitzpatrick",
+      "summary": "Teaches how to talk to customers and get honest feedback that actually helps you improve your product.",
+      "generative_title": "The Mom Test by Rob Fitzpatrick"
+    },
+    {
+      "id": 205,
+      "title": "Crossing the Chasm",
+      "author": "Geoffrey A. Moore",
+      "summary": "A playbook for taking technology products from early adopters to the mass market.",
+      "generative_title": "Crossing the Chasm by Geoffrey A. Moore"
+    },
+    {
+      "id": 206,
+      "title": "Traction: How Any Startup Can Achieve Explosive Customer Growth",
+      "author": "Gabriel Weinberg & Justin Mares",
+      "summary": "A tactical guide to finding and scaling the right marketing channels for your startup.",
+      "generative_title": "Traction: How Any Startup Can Achieve Explosive Customer Growth by Gabriel Weinberg & Justin Mares"
+    },
+    {
+      "id": 207,
+      "title": "High Output Management",
+      "author": "Andrew S. Grove",
+      "summary": "A classic on building and managing high-performing teams and processes.",
+      "generative_title": "High Output Management by Andrew S. Grove"
+    },
+    {
+      "id": 208,
+      "title": "The Hard Thing About Hard Things",
+      "author": "Ben Horowitz",
+      "summary": "Real-world advice on facing the toughest challenges as a startup leader.",
+      "generative_title": "The Hard Thing About Hard Things by Ben Horowitz"
+    },
+    {
+      "id": 209,
+      "title": "The Art of Possibility",
+      "author": "Rosamund Stone Zander & Benjamin Zander",
+      "summary": "Unlocks new possibilities in leadership and innovation through mindset and creativity.",
+      "generative_title": "The Art of Possibility by Rosamund Stone Zander & Benjamin Zander"
+    },
+    {
+      "id": 210,
+      "title": "No Rules Rules: Netflix and the Culture of Reinvention",
+      "author": "Reed Hastings & Erin Meyer",
+      "summary": "Reveals how Netflix\u2019s radical culture enables continuous innovation and growth.",
+      "generative_title": "No Rules Rules: Netflix and the Culture of Reinvention by Reed Hastings & Erin Meyer"
+    }
+  ]
+}
