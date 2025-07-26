@@ -1,0 +1,65 @@
+{
+  "id": 6,
+  "title": "Inspired: How To Create Products Customers Love",
+  "description": "A guide to building successful products by understanding customer needs, fostering innovation, and creating a strong product culture.",
+  "videoPreview": "Creating Products Customers Love",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685881845i/35249663._S475__.jpg",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Understanding the Customer Problem",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Empowered Product Teams"
+    },
+    {
+      "id": 63,
+      "title": "Product Discovery Techniques"
+    },
+    {
+      "id": 64,
+      "title": "Vision and Strategy Alignment"
+    },
+    {
+      "id": 65,
+      "title": "Continuous Product Improvement"
+    },
+    {
+      "id": 66,
+      "title": "Building a Strong Product Culture"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Understanding Customer Needs",
+      "id": "2C-2v99paQM"
+    },
+    {
+      "title": "Empowered Product Teams Explained",
+      "id": "CqJ4So-JjLA"
+    },
+    {
+      "title": "Product Discovery Techniques",
+      "id": "1_5Q7PPCvgk"
+    },
+    {
+      "title": "Aligning Vision and Strategy",
+      "id": "MEQ2BVp39Ic"
+    },
+    {
+      "title": "Continuous Improvement in Product Development",
+      "id": "dm1fBHE7IkA"
+    },
+    {
+      "title": "Building a Product Culture",
+      "id": "yOvUdXKjWa8"
+    },
+    {
+      "title": "Inspired: How To Create Products Customers Love by Marty Cagan",
+      "id": "2DFIjFqusVM"
+    }
+  ],
+  "bookUrl": "/book/show/53921527-summary"
+}

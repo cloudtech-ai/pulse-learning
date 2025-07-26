@@ -31,7 +31,13 @@
       "title": "Inspired: How To Create Products Customers Love",
       "author": "Marty Cagan",
       "summary": "Shows how successful tech companies discover and deliver products that customers truly want.",
-      "generative_title": "Inspired: How To Create Products Customers Love by Marty Cagan"
+      "generative_title": "Inspired: How To Create Products Customers Love by Marty Cagan",
+      "info": "startup_books/inspired_how_to_create_products/inspired_how_to_create_products_summary.json",
+      "strategies": "startup_books/inspired_how_to_create_products/inspired_how_to_create_products_strategies.json",
+      "studyPlan": {
+        "module_path": "startup_books/inspired_how_to_create_products/inspired_how_to_create_products_modules.json",
+        "lesson_path": "startup_books/inspired_how_to_create_products/inspired_how_to_create_products_lessons.json"
+      }
     },
     {
       "id": 204,

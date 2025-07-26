@@ -1,0 +1,158 @@
+[
+  {
+    "id": 61,
+    "bookId": 1,
+    "title": "Understanding the Customer Problem",
+    "summary": "Deeply understanding the real problems and needs of your customers before building solutions.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Building products based on assumptions leads to wasted effort and missed opportunities. Truly understanding customer problems ensures you create solutions that matter."
+      },
+      {
+        "section": "Example",
+        "content": "A team interviews users and discovers that their main pain point is not the lack of features, but the complexity of the current workflow."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Conduct regular customer interviews and observations.",
+          "Use open-ended questions to uncover underlying needs.",
+          "Map out customer journeys to identify pain points.",
+          "Validate assumptions with real user data.",
+          "Share findings with the entire team."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 1,
+    "title": "Empowered Product Teams",
+    "summary": "Building cross-functional teams with autonomy and accountability to solve customer problems.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Empowered teams are more motivated, innovative, and effective because they own both the problem and the solution."
+      },
+      {
+        "section": "Example",
+        "content": "A product team is given a business outcome to achieve, rather than a list of features to build, and decides how best to reach that goal."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Give teams clear goals and context, not solutions.",
+          "Ensure teams have all necessary skills (design, engineering, product).",
+          "Encourage experimentation and learning from failure.",
+          "Foster trust and open communication.",
+          "Support teams in removing blockers."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 1,
+    "title": "Product Discovery Techniques",
+    "summary": "Using structured methods to quickly test ideas and assumptions before committing to full development.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Discovery reduces risk by validating ideas early, saving time and resources on features customers don\u2019t want."
+      },
+      {
+        "section": "Example",
+        "content": "A team uses prototypes and usability tests to validate a new feature concept before building it."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Run quick experiments (prototypes, MVPs, A/B tests).",
+          "Involve real users in the discovery process.",
+          "Iterate rapidly based on feedback.",
+          "Document learnings and share with stakeholders.",
+          "Balance discovery and delivery work."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 1,
+    "title": "Vision and Strategy Alignment",
+    "summary": "Ensuring every product initiative supports the broader company vision and strategy.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Alignment prevents wasted effort and ensures all teams are moving in the same direction toward meaningful outcomes."
+      },
+      {
+        "section": "Example",
+        "content": "A team prioritizes work that directly supports the company\u2019s mission to improve customer retention, rather than unrelated feature requests."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Communicate the vision and strategy clearly and often.",
+          "Use OKRs or similar frameworks to connect team goals to company objectives.",
+          "Regularly review priorities for alignment.",
+          "Encourage teams to challenge work that doesn\u2019t fit the strategy.",
+          "Celebrate progress toward strategic goals."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 1,
+    "title": "Continuous Product Improvement",
+    "summary": "Constantly iterating and enhancing the product based on user feedback and data.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Continuous improvement keeps products relevant, competitive, and valuable to customers."
+      },
+      {
+        "section": "Example",
+        "content": "A team releases small updates every two weeks based on user analytics and feedback, steadily improving usability."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Collect and analyze user feedback regularly.",
+          "Monitor product metrics and KPIs.",
+          "Release improvements frequently in small batches.",
+          "Prioritize fixes and enhancements that deliver the most value.",
+          "Foster a culture of learning and adaptation."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "bookId": 1,
+    "title": "Building a Strong Product Culture",
+    "summary": "Creating an environment where product thinking, collaboration, and customer focus are core values.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "A strong product culture attracts talent, drives innovation, and ensures long-term success."
+      },
+      {
+        "section": "Example",
+        "content": "Leaders celebrate learning from failed experiments and encourage open debate about product decisions."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Model customer-centric behavior at all levels.",
+          "Encourage cross-functional collaboration.",
+          "Reward experimentation and learning.",
+          "Invest in ongoing product education.",
+          "Promote transparency and psychological safety."
+        ]
+      }
+    ]
+  }
+]

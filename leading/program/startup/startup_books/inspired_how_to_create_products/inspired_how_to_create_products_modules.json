@@ -1,0 +1,67 @@
+{
+  "id": "inspired_create_products_customers_love",
+  "title": "Inspired: How To Create Products Customers Love",
+  "description": "This book by Marty Cagan is a definitive guide for product managers, designers, and entrepreneurs who want to build successful technology products. It covers the principles, team dynamics, and processes that distinguish the best product organizations. Through practical advice and real-world examples, Cagan emphasizes how to create products that solve real customer problems, deliver value, and drive business success. The book explores leadership, organization, discovery, and delivery methods within top-performing companies.",
+  "modules": [
+    {
+      "id": "introduction_to_product_management",
+      "title": "Introduction to Product Management",
+      "goal": "Understand the foundational role of product management and its impact on product success.",
+      "key_points": [
+        "Defines what product management is and why it matters.",
+        "Explains the difference between good and great product teams.",
+        "Highlights the key responsibilities of a product manager."
+      ]
+    },
+    {
+      "id": "understanding_customers_and_problems",
+      "title": "Understanding Customers and Their Problems",
+      "goal": "Learn how to identify real customer needs and problems worth solving.",
+      "key_points": [
+        "Emphasizes the importance of deeply understanding customers.",
+        "Describes methods for discovering customer problems.",
+        "Explains why solving valuable problems leads to successful products."
+      ]
+    },
+    {
+      "id": "product_teams_and_culture",
+      "title": "Product Teams and Company Culture",
+      "goal": "Recognize the significance of empowered teams and the culture needed for innovation.",
+      "key_points": [
+        "Discusses the composition of great product teams.",
+        "Outlines the characteristics of empowering product cultures.",
+        "Highlights leadership\u2019s role in fostering innovation."
+      ]
+    },
+    {
+      "id": "the_product_discovery_process",
+      "title": "The Product Discovery Process",
+      "goal": "Master techniques for validating ideas before building products.",
+      "key_points": [
+        "Introduces product discovery as a method to reduce risk.",
+        "Explains prototyping and user testing.",
+        "Covers rapid experimentation and iteration."
+      ]
+    },
+    {
+      "id": "delivering_and_scaling_products",
+      "title": "Delivering and Scaling Products",
+      "goal": "Understand how to deliver, launch, and scale successful products.",
+      "key_points": [
+        "Describes the transition from discovery to delivery.",
+        "Covers best practices for launching products.",
+        "Discusses metrics and learning from product launches."
+      ]
+    },
+    {
+      "id": "leadership_and_organizational_success",
+      "title": "Leadership and Organizational Success",
+      "goal": "Explore how leadership shapes product outcomes and organizational effectiveness.",
+      "key_points": [
+        "Highlights the impact of strong product leadership.",
+        "Explains how leaders set vision and strategy.",
+        "Covers the need for continuous learning and adaptation."
+      ]
+    }
+  ]
+}
