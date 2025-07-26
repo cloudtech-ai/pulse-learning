@@ -18,7 +18,13 @@
       "title": "Zero to One",
       "author": "Peter Thiel",
       "summary": "Explores how to create truly innovative businesses and the importance of bold, original thinking.",
-      "generative_title": "Zero to One by Peter Thiel"
+      "generative_title": "Zero to One by Peter Thiel",
+      "info": "startup_books/zero_to_one_by_peter/zero_to_one_by_peter_summary.json",
+      "strategies": "startup_books/zero_to_one_by_peter/zero_to_one_by_peter_strategies.json",
+      "studyPlan": {
+        "module_path": "startup_books/zero_to_one_by_peter/zero_to_one_by_peter_modules.json",
+        "lesson_path": "startup_books/zero_to_one_by_peter/zero_to_one_by_peter_lessons.json"
+      }
     },
     {
       "id": 203,

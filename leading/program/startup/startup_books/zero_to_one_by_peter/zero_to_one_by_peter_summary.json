@@ -1,0 +1,53 @@
+{
+  "id": 1,
+  "title": "Zero to One",
+  "description": "A guide to building innovative companies by creating new technologies and monopolies, rather than competing in existing markets.",
+  "videoPreview": "Building the Future",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413925074i/23432298._SY475__.jpg",
+  "keyStrategies": [
+    {
+      "id": 11,
+      "title": "Start with a Unique Idea",
+      "focused": true
+    },
+    {
+      "id": 12,
+      "title": "Monopoly Over Competition"
+    },
+    {
+      "id": 13,
+      "title": "The Power of Technology"
+    },
+    {
+      "id": 14,
+      "title": "Focus on Long-Term Vision"
+    },
+    {
+      "id": 15,
+      "title": "Build a Strong Team"
+    },
+    {
+      "id": 16,
+      "title": "Sales Matter Just as Much as Product"
+    },
+    {
+      "id": 17,
+      "title": "Learn from the Past"
+    }
+  ],
+  "videos": [
+    {
+      "id": "rFZrL1RiuVI",
+      "title": "Zero to One: The Future of Innovation"
+    },
+    {
+      "id": "6ZIL_Wt3ZvA",
+      "title": "Monopolies and Competition: A New Perspective"
+    },
+    {
+      "id": "BoGr2KEqqxM",
+      "title": "The Role of Technology in Business"
+    }
+  ],
+  "bookUrl": "/book/show/23432298-zero-to-one-by-peter-thiel---a-20-minute-instaread-summary"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "zero_to_one",
+  "title": "Zero to One",
+  "description": "Zero to One by Peter Thiel explores how to create innovative startups that go beyond incremental improvements and instead build entirely new solutions. The book emphasizes the importance of developing unique ideas, achieving monopoly status, and fostering a culture of innovation. Thiel offers insights into the mindset, strategies, and principles that drive successful entrepreneurs. His lessons focus on contrarian thinking, the value of secrets, and the necessity of building companies that solve truly hard problems.",
+  "modules": [
+    {
+      "id": "going_from_zero_to_one",
+      "title": "Going from Zero to One",
+      "goal": "Understand the concept of creating new value, rather than copying existing models.",
+      "key_points": [
+        "Progressing from 'zero to one' means making something genuinely new, not just improving on what already exists.",
+        "True innovation comes from building unique solutions that did not previously exist.",
+        "Copying leads to competition, while originality allows for monopoly and greater success."
+      ]
+    },
+    {
+      "id": "contrarian_thinking",
+      "title": "Contrarian Thinking",
+      "goal": "Learn why challenging conventional wisdom is crucial for breakthrough innovation.",
+      "key_points": [
+        "Great businesses are built on secrets and unconventional truths overlooked by others.",
+        "Entrepreneurs should ask: 'What important truth do very few people agree with you on?'",
+        "Identifying and acting on contrarian insights leads to significant competitive advantages."
+      ]
+    },
+    {
+      "id": "power_of_monopoly",
+      "title": "The Power of Monopoly",
+      "goal": "Recognize the benefits and strategies of building monopolistic businesses.",
+      "key_points": [
+        "Monopolies are preferable to competition because they enable long-term profits and innovation.",
+        "Successful companies create and dominate their own markets.",
+        "Monopolies arise from proprietary technology, network effects, economies of scale, and strong branding."
+      ]
+    },
+    {
+      "id": "foundations_of_a_startup",
+      "title": "Foundations of a Startup",
+      "goal": "Explore the early-stage decisions that lay the groundwork for a lasting company.",
+      "key_points": [
+        "Founding teams, company culture, and ownership structures are critical to success.",
+        "Clear vision and well-defined roles prevent conflict and misalignment.",
+        "Choosing the right co-founders and early employees shapes the company\u2019s future."
+      ]
+    },
+    {
+      "id": "secrets_and_the_future",
+      "title": "Secrets and the Future",
+      "goal": "Emphasize the importance of seeking secrets and shaping the future through innovation.",
+      "key_points": [
+        "The world still contains secrets\u2014undiscovered insights with the potential to transform industries.",
+        "Successful entrepreneurs are those who search for and act on these secrets.",
+        "Belief in a better future is essential for innovation and progress."
+      ]
+    },
+    {
+      "id": "sales_and_distribution",
+      "title": "Sales and Distribution",
+      "goal": "Understand why effective sales and distribution strategies are as important as product innovation.",
+      "key_points": [
+        "Even the best products need strong sales strategies to reach customers.",
+        "Sales techniques vary for different markets and require deliberate planning.",
+        "Distribution can be a startup\u2019s biggest challenge and differentiator."
+      ]
+    },
+    {
+      "id": "building_a_durable_company",
+      "title": "Building a Durable Company",
+      "goal": "Learn how to create companies that last and continue to innovate.",
+      "key_points": [
+        "Long-term vision and resilience are necessary for enduring success.",
+        "Companies must continually innovate to avoid stagnation.",
+        "Sustainable advantages come from technology, culture, and a strong mission."
+      ]
+    }
+  ]
+}

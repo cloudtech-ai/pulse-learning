@@ -1,0 +1,177 @@
+[
+  {
+    "id": 11,
+    "bookId": 1,
+    "title": "Start with a Unique Idea",
+    "summary": "Focus on creating something new and valuable that hasn't been done before, rather than copying existing models.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Unique ideas are the foundation of breakthrough companies. They allow you to create new markets and avoid direct competition, increasing your chances of success."
+      },
+      {
+        "section": "Example",
+        "content": "PayPal started by enabling secure payments for eBay users, solving a problem no one else had addressed effectively."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Identify problems that are overlooked or unsolved.",
+          "Ask yourself what valuable company is nobody building.",
+          "Challenge conventional wisdom in your industry.",
+          "Brainstorm ideas that are 10x better than current solutions."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "bookId": 1,
+    "title": "Monopoly Over Competition",
+    "summary": "Aim to build a business that dominates its market, rather than competing in crowded spaces with thin margins.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Monopolies can set their own prices, invest in innovation, and create lasting value, while companies in competitive markets struggle to survive."
+      },
+      {
+        "section": "Example",
+        "content": "Google dominates search, allowing it to earn high profits and invest in new technologies."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Find a niche market you can dominate before expanding.",
+          "Develop proprietary technology or network effects.",
+          "Build strong brand loyalty.",
+          "Create high switching costs for customers."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "bookId": 1,
+    "title": "The Power of Technology",
+    "summary": "Leverage technology to create products and services that are significantly better, faster, or cheaper than existing alternatives.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Technological innovation drives progress and enables businesses to scale rapidly and efficiently."
+      },
+      {
+        "section": "Example",
+        "content": "Tesla\u2019s advancements in battery technology and software set it apart from traditional automakers."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Invest in research and development.",
+          "Stay updated on emerging technologies.",
+          "Integrate technology to solve core customer problems.",
+          "Continuously improve your product\u2019s capabilities."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "bookId": 1,
+    "title": "Focus on Long-Term Vision",
+    "summary": "Prioritize long-term growth and sustainability over short-term gains or trends.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "A clear long-term vision guides strategic decisions, attracts committed team members, and builds lasting value."
+      },
+      {
+        "section": "Example",
+        "content": "Amazon operated at a loss for years to build infrastructure and capture market share, leading to long-term dominance."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Define your company\u2019s mission and long-term goals.",
+          "Make decisions that align with your vision, even if they\u2019re not immediately profitable.",
+          "Communicate your vision clearly to your team and stakeholders.",
+          "Resist pressure to chase short-term trends."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "bookId": 1,
+    "title": "Build a Strong Team",
+    "summary": "Assemble a group of talented, motivated, and aligned individuals who share your vision and values.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "A strong team is essential for executing ambitious ideas and overcoming inevitable challenges."
+      },
+      {
+        "section": "Example",
+        "content": "The early PayPal team included future founders of Tesla, LinkedIn, and YouTube, demonstrating the power of exceptional talent."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Hire people who are passionate about your mission.",
+          "Foster a culture of trust and collaboration.",
+          "Ensure team members have complementary skills.",
+          "Invest in ongoing learning and development."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "bookId": 1,
+    "title": "Sales Matter Just as Much as Product",
+    "summary": "Recognize that even the best products need effective sales and distribution strategies to succeed.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Great products don\u2019t sell themselves. Effective sales and marketing are crucial for reaching customers and scaling your business."
+      },
+      {
+        "section": "Example",
+        "content": "Enterprise software companies often rely on skilled sales teams to close large deals, even with superior products."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Develop a clear sales strategy tailored to your market.",
+          "Invest in building a strong sales team.",
+          "Track and optimize your sales funnel.",
+          "Don\u2019t underestimate the importance of marketing and customer relationships."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "bookId": 1,
+    "title": "Learn from the Past",
+    "summary": "Study previous successes and failures to inform your decisions and avoid repeating mistakes.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Understanding history helps you recognize patterns, anticipate challenges, and make better strategic choices."
+      },
+      {
+        "section": "Example",
+        "content": "Thiel analyzed the dot-com crash to avoid common startup pitfalls and focus on sustainable growth."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Read case studies of startups and established companies.",
+          "Reflect on your own past experiences and lessons learned.",
+          "Seek mentorship from experienced entrepreneurs.",
+          "Apply historical insights to current challenges."
+        ]
+      }
+    ]
+  }
+]
