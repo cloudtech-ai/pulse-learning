@@ -1,0 +1,61 @@
+{
+  "id": "the_mom_test",
+  "title": "The Mom Test",
+  "description": "The Mom Test by Rob Fitzpatrick is a practical guide for entrepreneurs and product creators on how to talk to customers and validate business ideas. It emphasizes the importance of asking the right questions without bias and avoiding misleading feedback, especially from friends and family. The book provides actionable techniques for having more productive conversations, learning what customers really need, and reducing the risk of building something nobody wants. Through real-life examples and clear advice, it helps readers build better products by getting honest and useful insights from customer interviews.",
+  "modules": [
+    {
+      "id": "why_customer_conversations_fail",
+      "title": "Why Customer Conversations Fail",
+      "goal": "Understand common pitfalls in customer conversations and why traditional questions lead to misleading feedback.",
+      "key_points": [
+        "People often give polite or overly positive feedback, especially friends and family.",
+        "Vague compliments and encouragement do not indicate real interest or need.",
+        "The way questions are framed can unintentionally bias responses.",
+        "Learning to recognize false positives helps avoid wasted time and effort."
+      ]
+    },
+    {
+      "id": "the_mom_test_principles",
+      "title": "The Mom Test Principles",
+      "goal": "Learn the three core rules of The Mom Test to get honest, useful feedback from anyone.",
+      "key_points": [
+        "Talk about their life instead of your idea.",
+        "Ask about specific past behaviors, not hypothetical futures.",
+        "Focus on engaging facts and real problems, not opinions or compliments."
+      ]
+    },
+    {
+      "id": "good_vs_bad_questions",
+      "title": "Good vs. Bad Questions",
+      "goal": "Identify and practice forming questions that uncover real insights instead of leading or vague answers.",
+      "key_points": [
+        "Avoid yes/no and leading questions that nudge people to agree with you.",
+        "Ask for stories about specific actions or experiences.",
+        "Steer clear of pitching your idea during interviews.",
+        "Prioritize learning over validation."
+      ]
+    },
+    {
+      "id": "structuring_customer_conversations",
+      "title": "Structuring Customer Conversations",
+      "goal": "Gain actionable strategies for planning and conducting productive customer interviews.",
+      "key_points": [
+        "Decide what you need to learn before you start the conversation.",
+        "Keep interviews casual, friendly, and focused on the customer\u2019s experiences.",
+        "Take careful notes and look for patterns in what you learn.",
+        "End with a clear next step if appropriate, but avoid pressuring the person."
+      ]
+    },
+    {
+      "id": "turning_insights_into_action",
+      "title": "Turning Insights Into Action",
+      "goal": "Learn how to synthesize information from interviews and use it to improve your product or idea.",
+      "key_points": [
+        "Distinguish between actionable signals and polite noise.",
+        "Share findings with your team to challenge assumptions and align on next steps.",
+        "Iterate your idea or product based on what you\u2019ve learned.",
+        "Continuous learning from customers is key to building something people actually want."
+      ]
+    }
+  ]
+}

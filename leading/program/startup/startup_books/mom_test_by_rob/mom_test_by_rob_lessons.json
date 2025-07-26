@@ -1,0 +1,452 @@
+{
+  "why_customer_conversations_fail": [
+    {
+      "id": "lesson1_polite_feedback_trap",
+      "title": "Spotting the Polite Feedback Trap",
+      "goal": "Learn to recognize when feedback is polite rather than honest.",
+      "keyConcept": "When you talk to friends, family, or even acquaintances about your startup idea, they often want to be supportive. This can lead them to give positive feedback that isn't truly reflective of their real interest or needs. Relying on this kind of feedback can mislead you into thinking your idea is stronger than it is.",
+      "example": "You tell a friend about your new app idea, and they say, 'That sounds awesome! I'd totally use it.' But when you ask them to try a prototype, they never follow up.",
+      "practiceTip": "When you receive positive feedback, follow up with a specific ask, like 'Would you be willing to pre-order or sign up for updates?' Notice if their enthusiasm turns into action.",
+      "reflectionPrompt": "Have you ever received positive feedback that didn't translate into real support or action? What did you learn from that experience?",
+      "quizQuestion": {
+        "question": "Why is polite feedback from friends and family often misleading?",
+        "options": [
+          "They want to avoid hurting your feelings.",
+          "They are always your target customers.",
+          "They have more experience in startups."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_vague_compliments",
+      "title": "Interpreting Vague Compliments",
+      "goal": "Understand why vague compliments are not reliable indicators of customer interest.",
+      "keyConcept": "Comments like 'That's interesting' or 'Cool idea' feel good but don't provide actionable insights. These vague compliments often mask a lack of genuine interest or need. Real customer interest is shown through specific questions, requests, or commitments.",
+      "example": "A potential customer says, 'Nice concept!' but doesn't ask how it works or when it will be available.",
+      "practiceTip": "After receiving a compliment, ask a follow-up question such as, 'What part of this would be most useful to you?' to gauge real interest.",
+      "reflectionPrompt": "How can you tell the difference between a genuine compliment and a polite one?",
+      "quizQuestion": {
+        "question": "What does a vague compliment usually indicate?",
+        "options": [
+          "Strong customer demand",
+          "Unclear or weak interest",
+          "Immediate purchase intent"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_question_bias",
+      "title": "Avoiding Leading Questions",
+      "goal": "Learn how question phrasing can bias customer responses.",
+      "keyConcept": "The way you frame your questions can unintentionally lead people to give you the answers you want to hear. Leading questions or those that suggest a 'correct' answer make it hard to get honest feedback. Neutral, open-ended questions are more effective for learning the truth.",
+      "example": "Instead of asking, 'Would you use an app that saves you time?' ask, 'Can you tell me about the last time you tried to save time on this task?'",
+      "practiceTip": "Before your next conversation, write down your questions and check if any of them suggest a 'right' answer. Rephrase them to be open-ended.",
+      "reflectionPrompt": "Think of a time when you asked a question and got the answer you expected. Was your question leading?",
+      "quizQuestion": {
+        "question": "Which question is more likely to produce honest feedback?",
+        "options": [
+          "Would you use my product if it was free?",
+          "How do you currently solve this problem?",
+          "Don't you think this feature is useful?"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_false_positives",
+      "title": "Recognizing False Positives",
+      "goal": "Identify signs of false positives in customer conversations.",
+      "keyConcept": "False positives occur when you interpret polite, vague, or biased feedback as real validation. This can lead you to invest time and resources in ideas that don't have real demand. Learning to spot these signs early helps you avoid wasted effort.",
+      "example": "You hear lots of 'That's great!' but no one is willing to sign up, pay, or commit to next steps.",
+      "practiceTip": "Track not just what people say, but what they do. Look for concrete actions like sign-ups, pre-orders, or referrals.",
+      "reflectionPrompt": "What signals can you look for to distinguish between genuine interest and a false positive?",
+      "quizQuestion": {
+        "question": "What is a common sign of a false positive?",
+        "options": [
+          "People ask detailed questions about your product.",
+          "People give compliments but take no action.",
+          "People offer to pay for your product."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson5_actionable_feedback",
+      "title": "Seeking Actionable Feedback",
+      "goal": "Learn how to prompt customers for feedback that leads to real insights.",
+      "keyConcept": "Actionable feedback comes from understanding customers' real experiences, needs, and behaviors. Instead of asking if they like your idea, ask about their past actions and current challenges. This helps you uncover real problems and opportunities.",
+      "example": "You ask, 'Can you walk me through the last time you faced this problem?' instead of 'Would you use a tool like this?'",
+      "practiceTip": "In your next conversation, focus on learning about the customer's past behavior, not their opinions about your idea.",
+      "reflectionPrompt": "What is one question you can ask to learn about a customer's real needs or experiences?",
+      "quizQuestion": {
+        "question": "Which type of question is most likely to yield actionable feedback?",
+        "options": [
+          "Would you use this product?",
+          "What did you do the last time you faced this problem?",
+          "Do you like this idea?"
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "the_mom_test_principles": [
+    {
+      "id": "lesson_1_shift_focus",
+      "title": "Shift the Focus: Their Life, Not Your Idea",
+      "goal": "Learn to center conversations on the other person's experiences instead of pitching your idea.",
+      "keyConcept": "When seeking feedback, it's tempting to talk about your idea and ask what people think. However, this often leads to polite lies or unhelpful compliments. Instead, focus on learning about the other person's real experiences, challenges, and behaviors. This approach uncovers genuine insights and avoids biased feedback.",
+      "example": "Instead of asking, 'Would you use my new productivity app?', ask, 'Can you walk me through how you currently manage your daily tasks?'",
+      "practiceTip": "Start your next customer conversation by asking about their current habits or routines related to your problem area, without mentioning your solution.",
+      "reflectionPrompt": "How might your understanding of your customers change if you focus on their stories instead of your product?",
+      "quizQuestion": {
+        "question": "What is the best way to start a feedback conversation according to The Mom Test?",
+        "options": [
+          "Describe your idea and ask for their opinion.",
+          "Ask about their current experiences and routines.",
+          "Request compliments to boost your confidence."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_2_ask_about_past",
+      "title": "Ask About the Past, Not the Future",
+      "goal": "Understand why focusing on real past behaviors yields more reliable feedback than hypothetical questions.",
+      "keyConcept": "People are notoriously bad at predicting their future actions, especially when asked hypothetical questions. By asking about what they've actually done in the past, you get concrete, actionable data. This helps you avoid building solutions based on wishful thinking or empty promises.",
+      "example": "Instead of asking, 'Would you pay for this service?', ask, 'Have you ever paid for a similar service before? What was that experience like?'",
+      "practiceTip": "Replace any 'Would you...' or 'Do you think...' questions with 'Tell me about the last time you...' in your next interview.",
+      "reflectionPrompt": "What is one hypothetical question you often ask, and how could you rephrase it to focus on past behavior?",
+      "quizQuestion": {
+        "question": "Why is it better to ask about past behaviors than future intentions?",
+        "options": [
+          "People remember the past more clearly than they predict the future.",
+          "People are more likely to compliment your idea.",
+          "It makes the conversation shorter."
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_3_seek_facts_not_opinions",
+      "title": "Seek Facts and Problems, Not Opinions or Compliments",
+      "goal": "Learn to identify and pursue real problems and facts instead of relying on opinions or praise.",
+      "keyConcept": "Compliments and opinions feel good but rarely lead to actionable insights. Instead, dig for facts about the person's real struggles, frustrations, and workarounds. This helps you validate whether a real problem exists and if your solution is needed.",
+      "example": "If someone says, 'That sounds like a great idea!', follow up with, 'Can you tell me about a time when you faced this problem?'",
+      "practiceTip": "Whenever you receive a compliment or opinion, gently steer the conversation back to specific examples or stories.",
+      "reflectionPrompt": "How can you tell the difference between a compliment and a useful fact in a conversation?",
+      "quizQuestion": {
+        "question": "What should you do if someone gives you a compliment about your idea?",
+        "options": [
+          "Thank them and move on.",
+          "Ask for a specific example related to the problem.",
+          "Ignore their response."
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_4_prepare_good_questions",
+      "title": "Prepare Effective, Open-Ended Questions",
+      "goal": "Develop the skill of crafting questions that encourage honest, detailed responses.",
+      "keyConcept": "Open-ended questions invite people to share stories and details, while closed or leading questions can bias their answers. Good questions start with 'how', 'what', or 'tell me about', and avoid suggesting your own solution.",
+      "example": "Instead of asking, 'Do you think this feature is useful?', try, 'How do you currently solve this problem? What works and what doesn't?'",
+      "practiceTip": "Before your next interview, write down three open-ended questions that explore the customer's experiences without mentioning your idea.",
+      "reflectionPrompt": "What is one open-ended question you could ask to learn more about your customer's real needs?",
+      "quizQuestion": {
+        "question": "Which of the following is an example of an open-ended question?",
+        "options": [
+          "Would you use my app?",
+          "How do you currently handle this task?",
+          "Is this feature helpful?"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_5_listen_and_follow_up",
+      "title": "Listen Actively and Follow Up for Depth",
+      "goal": "Practice active listening and learn to dig deeper with follow-up questions.",
+      "keyConcept": "Active listening means paying close attention to what the other person says and following up to clarify or explore further. This uncovers richer insights and shows genuine interest. Simple follow-ups like 'Can you tell me more about that?' or 'Why was that challenging?' can reveal underlying motivations and pain points.",
+      "example": "If someone mentions they struggle with time management, ask, 'What makes it difficult for you? Can you walk me through a recent day?'",
+      "practiceTip": "During your next conversation, pause after each answer and ask at least one follow-up question to go deeper.",
+      "reflectionPrompt": "How might your understanding of your customers improve if you always ask one more follow-up question?",
+      "quizQuestion": {
+        "question": "What is the main benefit of asking follow-up questions?",
+        "options": [
+          "It makes the conversation longer.",
+          "It uncovers deeper insights and motivations.",
+          "It helps you talk more about your idea."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "good_vs_bad_questions": [
+    {
+      "id": "lesson_1_avoid_leading_questions",
+      "title": "Avoid Leading and Yes/No Questions",
+      "goal": "Learn to recognize and avoid questions that bias the conversation or limit useful feedback.",
+      "keyConcept": "Leading and yes/no questions often nudge people to agree with you or give superficial answers. These types of questions make it hard to uncover real insights because they don't encourage honest or detailed responses. Instead, focus on open-ended questions that invite people to share their true thoughts and experiences.",
+      "example": "Instead of asking, 'Would you use an app that helps you save money?' (yes/no), ask, 'Can you tell me about the last time you tried to save money? What did you do?'",
+      "practiceTip": "Before your next conversation, review your questions and rephrase any yes/no or leading questions into open-ended ones.",
+      "reflectionPrompt": "Think about a recent conversation where you asked a yes/no question. How might you have rephrased it to get a deeper answer?",
+      "quizQuestion": {
+        "question": "Which of the following is a leading question?",
+        "options": [
+          "Would you use an app that helps you save money?",
+          "Can you tell me about your experience saving money?"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson_2_ask_for_specific_stories",
+      "title": "Ask for Specific Stories and Experiences",
+      "goal": "Practice asking questions that uncover real behaviors and past actions.",
+      "keyConcept": "People are more reliable when talking about what they've actually done, rather than what they think they might do. By asking for specific stories or examples from their past, you get a clearer picture of their real needs and behaviors. This helps you avoid building on assumptions or wishful thinking.",
+      "example": "Instead of asking, 'Would you pay for a budgeting tool?', ask, 'Tell me about the last time you paid for a tool to help with your finances. What was it and why did you choose it?'",
+      "practiceTip": "In your next interview, ask at least one question that starts with 'Tell me about the last time you...' to prompt a real story.",
+      "reflectionPrompt": "Recall a time when someone told you a story about their experience. How did that help you understand their needs better?",
+      "quizQuestion": {
+        "question": "Why is it better to ask for specific stories?",
+        "options": [
+          "Because people remember stories better",
+          "Because stories reveal real behaviors and needs"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_3_dont_pitch_listen",
+      "title": "Don\u2019t Pitch\u2014Just Listen",
+      "goal": "Understand why you should avoid selling your idea during customer conversations.",
+      "keyConcept": "When you pitch your idea during interviews, people may try to be polite or supportive, which can lead to false positives. Your goal is to learn, not to convince. By holding back your pitch, you allow the conversation to focus on the customer\u2019s real problems and experiences, not your solution.",
+      "example": "Instead of explaining your app and asking, 'Would you use this?', simply ask about their current habits and frustrations without mentioning your product.",
+      "practiceTip": "Challenge yourself to go through an entire customer conversation without mentioning your idea or solution.",
+      "reflectionPrompt": "How might your conversations change if you focused only on the customer\u2019s experiences, not your product?",
+      "quizQuestion": {
+        "question": "What is the main risk of pitching your idea during interviews?",
+        "options": [
+          "You might get honest feedback",
+          "People may tell you what you want to hear"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_4_prioritize_learning",
+      "title": "Prioritize Learning Over Validation",
+      "goal": "Shift your mindset from seeking approval to uncovering the truth about your idea.",
+      "keyConcept": "It\u2019s tempting to look for validation and confirmation that your idea is great, but this can blind you to important problems or flaws. By focusing on learning\u2014especially about what\u2019s not working or what people struggle with\u2014you gain valuable insights that can help you build something people truly want.",
+      "example": "Instead of feeling disappointed when someone criticizes your idea, treat it as a valuable clue about what needs to change.",
+      "practiceTip": "After each interview, write down one thing you learned that surprised you or challenged your assumptions.",
+      "reflectionPrompt": "When was the last time you learned something unexpected from a customer? How did it change your thinking?",
+      "quizQuestion": {
+        "question": "What should be your main goal during customer interviews?",
+        "options": [
+          "To get people to like your idea",
+          "To learn about their real problems and needs"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson_5_review_and_apply",
+      "title": "Review and Apply: Crafting Better Questions",
+      "goal": "Synthesize what you\u2019ve learned and practice forming effective customer interview questions.",
+      "keyConcept": "Good customer interviews rely on open-ended, story-driven questions that focus on the customer\u2019s real experiences. By avoiding leading questions, not pitching, and prioritizing learning, you set yourself up to discover valuable insights. Regular practice helps you internalize these habits.",
+      "example": "Transform 'Would you use my budgeting app?' into 'Can you walk me through how you currently manage your budget? What\u2019s the hardest part?'",
+      "practiceTip": "Take three of your current interview questions and rewrite them to be more open-ended and focused on past behavior.",
+      "reflectionPrompt": "Which of your current questions could be improved to uncover deeper insights? How will you change them?",
+      "quizQuestion": {
+        "question": "Which is a better question for learning about customer needs?",
+        "options": [
+          "Would you use my product?",
+          "Tell me about the last time you faced this problem."
+        ],
+        "correctAnswer": 1
+      }
+    }
+  ],
+  "structuring_customer_conversations": [
+    {
+      "id": "lesson1_define_learning_goals",
+      "title": "Define What You Need to Learn",
+      "goal": "Learn how to clarify your learning objectives before starting a customer conversation.",
+      "keyConcept": "Before talking to customers, it's crucial to know exactly what you want to learn. This helps you avoid vague or unfocused conversations and ensures you get actionable insights. By setting clear learning goals, you can ask better questions and make the most of each interview.",
+      "example": "Instead of asking 'Do you like this idea?', you decide you need to learn how customers currently solve the problem your product addresses.",
+      "practiceTip": "Before your next interview, write down 1-2 specific things you want to learn from the conversation.",
+      "reflectionPrompt": "What is the most important thing you need to learn from your next customer conversation?",
+      "quizQuestion": {
+        "question": "Why should you define your learning goals before a customer interview?",
+        "options": [
+          "To avoid wasting time and get useful insights",
+          "To impress the customer",
+          "To make the conversation longer"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson2_keep_it_casual_and_focused",
+      "title": "Keep Conversations Casual and Focused",
+      "goal": "Understand how to create a comfortable environment and focus on the customer\u2019s real experiences.",
+      "keyConcept": "Productive customer interviews feel like friendly conversations, not formal interrogations. By keeping things casual and focusing on the customer\u2019s actual experiences (not opinions or hypotheticals), you get more honest and useful feedback.",
+      "example": "Instead of asking 'Would you use this app?', you ask 'Can you tell me about the last time you faced this problem?'",
+      "practiceTip": "Start your next interview with a simple, open-ended question about the customer\u2019s past experiences.",
+      "reflectionPrompt": "How can you make your next customer conversation feel more like a friendly chat?",
+      "quizQuestion": {
+        "question": "What type of questions should you focus on during customer interviews?",
+        "options": [
+          "Questions about their past experiences",
+          "Questions about your product features",
+          "Hypothetical questions about the future"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson3_take_careful_notes",
+      "title": "Take Careful Notes and Look for Patterns",
+      "goal": "Learn how to capture and analyze customer feedback effectively.",
+      "keyConcept": "Taking detailed notes during interviews helps you remember what was said and spot recurring themes. By reviewing your notes after several conversations, you can identify patterns that reveal real customer needs and pain points.",
+      "example": "After five interviews, you notice that three people mention struggling with the same step in their workflow.",
+      "practiceTip": "After each interview, review your notes and highlight any repeated problems or phrases.",
+      "reflectionPrompt": "What patterns have you noticed in your recent customer conversations?",
+      "quizQuestion": {
+        "question": "Why is it important to look for patterns in your interview notes?",
+        "options": [
+          "To identify common needs and pain points",
+          "To remember who you talked to",
+          "To make the notes look impressive"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson4_end_with_next_steps",
+      "title": "End with a Clear Next Step (If Appropriate)",
+      "goal": "Discover how to wrap up conversations productively without pressuring the customer.",
+      "keyConcept": "A good interview ends with clarity about what happens next, whether it\u2019s a follow-up, sharing an update, or simply thanking the customer. However, it\u2019s important not to pressure the person into commitments they\u2019re not ready for.",
+      "example": "You finish the conversation by saying, 'Thanks for your time! If we build a prototype, would you be open to giving feedback?'",
+      "practiceTip": "At the end of your next interview, politely ask if the customer would like to stay updated or be involved in future steps.",
+      "reflectionPrompt": "How can you end your next customer conversation in a way that feels respectful and open?",
+      "quizQuestion": {
+        "question": "What is a good way to end a customer interview?",
+        "options": [
+          "Thank them and suggest a clear, optional next step",
+          "Ask them to buy your product immediately",
+          "Keep asking more questions until they leave"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_avoid_pressure",
+      "title": "Avoid Pressuring the Customer",
+      "goal": "Recognize the importance of keeping interviews pressure-free to get honest feedback.",
+      "keyConcept": "Customers are more likely to share honest feedback when they don\u2019t feel pressured to agree with you or make commitments. Avoid selling or pushing your ideas during interviews\u2014your goal is to learn, not to convince.",
+      "example": "Instead of saying, 'Would you buy this right now?', you ask, 'How do you currently solve this problem?' and listen carefully.",
+      "practiceTip": "Remind yourself before each interview: 'I\u2019m here to learn, not to sell.' Focus on listening more than talking.",
+      "reflectionPrompt": "How can you remind yourself to stay curious and open during customer conversations?",
+      "quizQuestion": {
+        "question": "Why should you avoid pressuring customers during interviews?",
+        "options": [
+          "To get honest and useful feedback",
+          "To close a sale quickly",
+          "To make the interview shorter"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ],
+  "turning_insights_into_action": [
+    {
+      "id": "lesson1_distinguish_signals_noise",
+      "title": "Distinguish Actionable Signals from Polite Noise",
+      "goal": "Learn to identify which feedback from interviews is truly useful.",
+      "keyConcept": "Not all feedback from customer conversations is equally valuable. Actionable signals are specific, concrete pieces of information that reveal real needs, pains, or behaviors. Polite noise, on the other hand, includes vague compliments, hypothetical statements, or non-committal feedback that doesn't lead to clear action. Learning to separate the two helps you focus on what matters.",
+      "example": "A customer says, 'That sounds interesting!' (polite noise) versus 'I would pay for this because I spend hours every week on this problem.' (actionable signal).",
+      "practiceTip": "After each interview, review your notes and highlight statements that describe real actions, frustrations, or spending. Ignore generic praise or hypothetical interest.",
+      "reflectionPrompt": "Think about your last customer conversation. Which feedback was actionable, and which was just polite noise?",
+      "quizQuestion": {
+        "question": "Which of the following is an actionable signal?",
+        "options": [
+          "\u2018That\u2019s a cool idea!\u2019",
+          "\u2018I currently pay $50 a month for a tool that does this.\u2019"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson2_share_findings_team",
+      "title": "Share and Challenge Findings with Your Team",
+      "goal": "Learn how to communicate insights and align your team on next steps.",
+      "keyConcept": "Sharing interview findings with your team helps challenge assumptions and ensures everyone is working from the same information. Discussing real quotes and stories from customers can spark productive debates and lead to better decisions. It also prevents the team from relying on second-hand summaries or personal biases.",
+      "example": "After a round of interviews, you present direct customer quotes to your team, leading to a discussion about whether your current product direction matches real user needs.",
+      "practiceTip": "Schedule a short debrief after interviews to share key quotes and insights. Encourage your team to ask questions and challenge interpretations.",
+      "reflectionPrompt": "How can you make it easier for your team to engage with real customer feedback?",
+      "quizQuestion": {
+        "question": "Why is it important to share direct customer quotes with your team?",
+        "options": [
+          "To make meetings longer",
+          "To challenge assumptions and align on facts"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson3_iterate_on_learnings",
+      "title": "Iterate Your Idea Based on Learnings",
+      "goal": "Understand how to use customer insights to improve your product or idea.",
+      "keyConcept": "Customer interviews are only valuable if you use what you learn. When you discover new pains, needs, or behaviors, update your product, pitch, or roadmap accordingly. Iteration means making small, focused changes based on real evidence, then testing those changes in future conversations.",
+      "example": "You learn that users struggle most with onboarding, so you simplify your sign-up process and test the new flow with the next batch of users.",
+      "practiceTip": "After each round of interviews, identify one concrete change you can make to your product or approach, and plan how to test its impact.",
+      "reflectionPrompt": "What is one thing you could change in your product based on recent customer feedback?",
+      "quizQuestion": {
+        "question": "What should you do after learning something new from customer interviews?",
+        "options": [
+          "Ignore it and stick to your original plan",
+          "Iterate your product or idea based on the new insights"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": "lesson4_continuous_learning",
+      "title": "Embrace Continuous Learning from Customers",
+      "goal": "Recognize the importance of ongoing customer conversations for startup success.",
+      "keyConcept": "Building something people want is an ongoing process. Customer needs and markets change, so regular conversations help you stay aligned with reality. Continuous learning means treating every interview as an opportunity to discover new insights and avoid building in a vacuum.",
+      "example": "A startup founder schedules monthly check-ins with early users to gather feedback and spot new trends before they become problems.",
+      "practiceTip": "Set a recurring reminder to talk to at least one customer every week, even after you launch your product.",
+      "reflectionPrompt": "How can you make customer conversations a regular habit in your startup?",
+      "quizQuestion": {
+        "question": "Why is continuous learning from customers important?",
+        "options": [
+          "Because customer needs and markets can change over time",
+          "Because it\u2019s only necessary before launching"
+        ],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": "lesson5_align_on_next_steps",
+      "title": "Align on Next Steps as a Team",
+      "goal": "Learn how to turn insights into clear, actionable next steps for your team.",
+      "keyConcept": "Insights are only valuable if they lead to action. After sharing and discussing findings, agree as a team on what to do next. This could be testing a new feature, changing your messaging, or running another round of interviews. Clear alignment ensures everyone is moving in the same direction and knows what to prioritize.",
+      "example": "After reviewing customer feedback, your team decides to prioritize fixing a key usability issue before adding new features.",
+      "practiceTip": "At the end of each debrief, summarize the main insight and agree on one concrete action to take before the next meeting.",
+      "reflectionPrompt": "What process can you use to ensure your team always agrees on the next step after reviewing customer insights?",
+      "quizQuestion": {
+        "question": "What is the benefit of aligning on next steps as a team?",
+        "options": [
+          "It ensures everyone knows what to prioritize and work on",
+          "It makes meetings longer"
+        ],
+        "correctAnswer": 0
+      }
+    }
+  ]
+}

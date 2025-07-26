@@ -44,7 +44,13 @@
       "title": "The Mom Test",
       "author": "Rob Fitzpatrick",
       "summary": "Teaches how to talk to customers and get honest feedback that actually helps you improve your product.",
-      "generative_title": "The Mom Test by Rob Fitzpatrick"
+      "generative_title": "The Mom Test by Rob Fitzpatrick",
+      "info": "startup_books/mom_test_by_rob/mom_test_by_rob_summary.json",
+      "strategies": "startup_books/mom_test_by_rob/mom_test_by_rob_strategies.json",
+      "studyPlan": {
+        "module_path": "startup_books/mom_test_by_rob/mom_test_by_rob_modules.json",
+        "lesson_path": "startup_books/mom_test_by_rob/mom_test_by_rob_lessons.json"
+      }
     },
     {
       "id": 205,

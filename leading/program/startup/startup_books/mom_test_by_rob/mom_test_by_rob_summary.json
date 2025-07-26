@@ -1,0 +1,77 @@
+{
+  "id": 5,
+  "title": "The Mom Test",
+  "description": "A guide to asking better questions during customer development interviews to get honest and useful feedback.",
+  "videoPreview": "How to Talk to Customers",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566473431l/52283963._SY475__SY475__.jpg",
+  "keyStrategies": [
+    {
+      "id": 51,
+      "title": "Avoiding Compliments and Fluff",
+      "focused": true
+    },
+    {
+      "id": 52,
+      "title": "Asking About Specifics in the Past"
+    },
+    {
+      "id": 53,
+      "title": "Understanding Customer's Life Context"
+    },
+    {
+      "id": 54,
+      "title": "Listening More Than Talking"
+    },
+    {
+      "id": 55,
+      "title": "Avoiding Pitching Your Idea"
+    },
+    {
+      "id": 56,
+      "title": "Seeking Disconfirming Evidence"
+    },
+    {
+      "id": 57,
+      "title": "Focusing on Problems, Not Solutions"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Mom Test \u2013 Overview of Key Concepts",
+      "id": "ivKwrBAF8LA"
+    },
+    {
+      "title": "How to Ask Better Questions in Customer Interviews",
+      "id": "tt8hj0Ajh0I"
+    },
+    {
+      "title": "Avoiding Bias in Customer Feedback",
+      "id": "TalELe_cZQA"
+    },
+    {
+      "title": "Understanding Customer Needs with The Mom Test",
+      "id": "0BvPo5noAOg"
+    },
+    {
+      "title": "Common Mistakes in Customer Interviews",
+      "id": "11GDgOtefk0"
+    },
+    {
+      "title": "Listening Skills for Entrepreneurs",
+      "id": "2ln3wU0ScCU"
+    },
+    {
+      "title": "Validating Your Business Idea with The Mom Test",
+      "id": "pk3VOO9WT8o"
+    },
+    {
+      "title": "The Importance of Honest Feedback",
+      "id": "TasUz8rFzlY"
+    },
+    {
+      "title": "The Mom Test by Rob Fitzpatrick",
+      "id": "75tfi1OUlDg"
+    }
+  ],
+  "bookUrl": "/book/show/52283963-the-mom-test"
+}

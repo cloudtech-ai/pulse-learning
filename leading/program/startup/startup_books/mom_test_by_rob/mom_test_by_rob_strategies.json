@@ -1,0 +1,170 @@
+[
+  {
+    "id": 51,
+    "bookId": 1,
+    "title": "Avoiding Compliments and Fluff",
+    "summary": "Steer clear of vague praise or non-specific feedback to ensure honest and actionable conversations.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Compliments and fluff can make conversations feel polite but unhelpful, masking real opinions and preventing you from learning the truth."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of saying, 'That sounds like a great idea!', ask, 'When was the last time you tried to solve this problem?'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Notice when you or the other person uses vague praise.",
+          "Redirect the conversation to specifics.",
+          "Politely ignore compliments and dig deeper."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "bookId": 1,
+    "title": "Asking About Specifics in the Past",
+    "summary": "Focus on what people have actually done, not what they say they might do.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "People are bad at predicting their own future behavior. Past actions are the best indicator of real needs and habits."
+      },
+      {
+        "section": "Example",
+        "content": "Ask, 'Can you tell me about the last time you encountered this problem?' instead of 'Would you use a product like this?'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Frame questions around real events and actions.",
+          "Avoid hypothetical or future-focused questions.",
+          "Listen for concrete stories and timelines."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "bookId": 1,
+    "title": "Understanding Customer's Life Context",
+    "summary": "Learn about the broader context of your customer's life to understand their motivations and constraints.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Understanding context helps you see where your idea fits and what obstacles or priorities your customer faces."
+      },
+      {
+        "section": "Example",
+        "content": "Ask, 'Walk me through your typical day at work,' to uncover routines, pain points, and decision-making processes."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Ask open-ended questions about routines and challenges.",
+          "Listen for underlying motivations and constraints.",
+          "Map out the customer's workflow or environment."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "bookId": 1,
+    "title": "Listening More Than Talking",
+    "summary": "Let the customer do most of the talking to uncover genuine insights.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Talking too much can bias the conversation and prevent you from hearing the customer's real thoughts and experiences."
+      },
+      {
+        "section": "Example",
+        "content": "After asking a question, pause and let silence encourage the other person to elaborate."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Aim for the customer to speak at least 70% of the time.",
+          "Use active listening techniques (nodding, summarizing).",
+          "Resist the urge to fill silences or jump in with your own ideas."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "bookId": 1,
+    "title": "Avoiding Pitching Your Idea",
+    "summary": "Refrain from selling your solution during customer conversations; focus on learning instead.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Pitching can bias feedback and make people tell you what you want to hear, rather than the truth."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of describing your product, ask about the customer's current solutions and frustrations."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Keep your idea out of the conversation as long as possible.",
+          "If asked, give only a brief, non-leading description.",
+          "Refocus on the customer's experiences and needs."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "bookId": 1,
+    "title": "Seeking Disconfirming Evidence",
+    "summary": "Actively look for information that could prove your assumptions wrong.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Confirmation bias can lead you to ignore warning signs and build something nobody wants."
+      },
+      {
+        "section": "Example",
+        "content": "Ask, 'What would make this solution not work for you?' or 'Have you tried something similar that failed?'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Challenge your own assumptions in every conversation.",
+          "Invite criticism and negative feedback.",
+          "Document and reflect on evidence that contradicts your beliefs."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "bookId": 1,
+    "title": "Focusing on Problems, Not Solutions",
+    "summary": "Concentrate on understanding the customer's real problems before discussing possible solutions.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Jumping to solutions too soon can cause you to miss the real issues or build the wrong thing."
+      },
+      {
+        "section": "Example",
+        "content": "Ask, 'What\u2019s the hardest part about doing this task?' rather than 'Would you use a tool that does X?'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Start every conversation by exploring pain points.",
+          "Delay discussing features or solutions until you fully understand the problem.",
+          "Summarize the problem in the customer's own words before moving forward."
+        ]
+      }
+    ]
+  }
+]
