@@ -1,0 +1,77 @@
+{
+  "id": 1,
+  "title": "The Art of Possibility",
+  "description": "A guide to transforming personal and professional life through a set of practices that shift perception and create new possibilities.",
+  "videoPreview": "The Art of Possibility Overview",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327178963i/85697._SY475__.jpg",
+  "keyStrategies": [
+    {
+      "id": 11,
+      "title": "It's All Invented",
+      "focused": true
+    },
+    {
+      "id": 12,
+      "title": "Stepping into a Universe of Possibility"
+    },
+    {
+      "id": 13,
+      "title": "Giving an A"
+    },
+    {
+      "id": 14,
+      "title": "Being a Contribution"
+    },
+    {
+      "id": 15,
+      "title": "Leading from Any Chair"
+    },
+    {
+      "id": 16,
+      "title": "Rule Number 6"
+    },
+    {
+      "id": 17,
+      "title": "The Way Things Are"
+    },
+    {
+      "id": 18,
+      "title": "Giving Way to Passion"
+    },
+    {
+      "id": 19,
+      "title": "Lighting a Spark"
+    },
+    {
+      "id": 20,
+      "title": "Being the Board"
+    },
+    {
+      "id": 21,
+      "title": "Creating Frameworks for Possibility"
+    },
+    {
+      "id": 22,
+      "title": "Telling the WE Story"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Art of Possibility - Introduction",
+      "id": "tTut4d7Sc00"
+    },
+    {
+      "title": "Transforming Professional and Personal Life",
+      "id": "iFcHsS7IUiY"
+    },
+    {
+      "title": "Practices for Creating New Possibilities",
+      "id": "-9M5cXqE-ms"
+    },
+    {
+      "title": "The Art of Possibility by Rosamund Stone Zander & Benjamin Zander",
+      "id": "ISR4fuxfdlk"
+    }
+  ],
+  "bookUrl": "/book/show/85697.The_Art_of_Possibility"
+}

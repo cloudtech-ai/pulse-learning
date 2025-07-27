@@ -109,14 +109,26 @@
       "title": "The Art of Possibility",
       "author": "Rosamund Stone Zander & Benjamin Zander",
       "summary": "Unlocks new possibilities in leadership and innovation through mindset and creativity.",
-      "generative_title": "The Art of Possibility by Rosamund Stone Zander & Benjamin Zander"
+      "generative_title": "The Art of Possibility by Rosamund Stone Zander & Benjamin Zander",
+      "info": "startup_books/art_of_possibility_by/art_of_possibility_by_summary.json",
+      "strategies": "startup_books/art_of_possibility_by/art_of_possibility_by_strategies.json",
+      "studyPlan": {
+        "module_path": "startup_books/art_of_possibility_by/art_of_possibility_by_modules.json",
+        "lesson_path": "startup_books/art_of_possibility_by/art_of_possibility_by_lessons.json"
+      }
     },
     {
       "id": 210,
       "title": "No Rules Rules: Netflix and the Culture of Reinvention",
       "author": "Reed Hastings & Erin Meyer",
       "summary": "Reveals how Netflix\u2019s radical culture enables continuous innovation and growth.",
-      "generative_title": "No Rules Rules: Netflix and the Culture of Reinvention by Reed Hastings & Erin Meyer"
+      "generative_title": "No Rules Rules: Netflix and the Culture of Reinvention by Reed Hastings & Erin Meyer",
+      "info": "startup_books/no_rules_rules_netflix_and/no_rules_rules_netflix_and_summary.json",
+      "strategies": "startup_books/no_rules_rules_netflix_and/no_rules_rules_netflix_and_strategies.json",
+      "studyPlan": {
+        "module_path": "startup_books/no_rules_rules_netflix_and/no_rules_rules_netflix_and_modules.json",
+        "lesson_path": "startup_books/no_rules_rules_netflix_and/no_rules_rules_netflix_and_lessons.json"
+      }
     }
   ]
 }

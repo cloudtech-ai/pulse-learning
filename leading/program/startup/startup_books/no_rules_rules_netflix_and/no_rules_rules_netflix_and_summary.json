@@ -1,0 +1,53 @@
+{
+  "id": 6,
+  "title": "No Rules Rules: Netflix and the Culture of Reinvention",
+  "description": "Exploration of Netflix's unique culture that emphasizes freedom and responsibility, encouraging innovation and adaptability.",
+  "videoPreview": "The Netflix Culture of Reinvention",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602073927i/55589068._SY475__.jpg",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Increase Talent Density",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Promote Candid Feedback"
+    },
+    {
+      "id": 63,
+      "title": "Remove Controls"
+    },
+    {
+      "id": 64,
+      "title": "Lead with Context, Not Control"
+    },
+    {
+      "id": 65,
+      "title": "Encourage Innovation"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Netflix Culture Explained",
+      "id": "fSxK63ZkCoY"
+    },
+    {
+      "title": "Freedom and Responsibility at Netflix",
+      "id": "mdrofrkRzsQ"
+    },
+    {
+      "title": "How Netflix Innovates",
+      "id": "kUvA1C4ssbA"
+    },
+    {
+      "title": "Leading with Context",
+      "id": "CydV0qe632g"
+    },
+    {
+      "title": "No Rules Rules: Netflix and the Culture of Reinvention by Reed Hastings & Erin Meyer",
+      "id": "1dSOYy_FuxI"
+    }
+  ],
+  "bookUrl": "/book/show/55589068-summary-analysis-of-no-rules-rules"
+}

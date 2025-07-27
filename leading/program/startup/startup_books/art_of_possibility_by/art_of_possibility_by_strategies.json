@@ -1,0 +1,290 @@
+[
+  {
+    "id": 11,
+    "bookId": 1,
+    "title": "It's All Invented",
+    "summary": "Recognize that the frameworks and assumptions we use to interpret the world are invented, not absolute.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Our perceptions and beliefs shape our reality. By realizing these are constructed, we can choose more empowering perspectives."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of assuming a colleague\u2019s silence means disapproval, consider they may be preoccupied or shy."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Question your assumptions in challenging situations.",
+          "Ask yourself: What else could be true?",
+          "Invent alternative interpretations that open up possibilities."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "bookId": 1,
+    "title": "Stepping into a Universe of Possibility",
+    "summary": "Shift from a mindset of scarcity and competition to one of abundance and creativity.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "A possibility mindset encourages innovation, collaboration, and growth, rather than limitation and fear."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of competing for limited resources at work, explore ways to collaborate and create new opportunities."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Notice when you\u2019re thinking in terms of limits or competition.",
+          "Ask: What new possibilities exist here?",
+          "Invite others to brainstorm without constraints."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "bookId": 1,
+    "title": "Giving an A",
+    "summary": "Approach others as if they are already performing at their best, fostering trust and growth.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "When people feel seen for their potential, they are more likely to live up to it."
+      },
+      {
+        "section": "Example",
+        "content": "Treat a new team member as highly capable, encouraging them to contribute confidently."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Mentally \u2018give an A\u2019 to colleagues, friends, and family.",
+          "Acknowledge strengths and contributions.",
+          "Let go of judgment and focus on encouragement."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "bookId": 1,
+    "title": "Being a Contribution",
+    "summary": "Focus on how you can contribute, rather than what you can achieve or receive.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Seeing yourself as a contribution shifts focus from self-centered goals to collective benefit."
+      },
+      {
+        "section": "Example",
+        "content": "Offer your skills to help a project succeed, regardless of recognition or reward."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Ask: How can I contribute here?",
+          "Value your impact, not just outcomes.",
+          "Acknowledge the contributions of others."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "bookId": 1,
+    "title": "Leading from Any Chair",
+    "summary": "Leadership is not limited to those in authority; anyone can lead by taking initiative and inspiring others.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Empowering everyone to lead unleashes creativity and engagement."
+      },
+      {
+        "section": "Example",
+        "content": "A junior team member suggests a new process that improves workflow for everyone."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Encourage input from all team members.",
+          "Take initiative, regardless of your role.",
+          "Recognize leadership in others."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "bookId": 1,
+    "title": "Rule Number 6",
+    "summary": "Don\u2019t take yourself so seriously; lighten up and let go of ego.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Humor and humility reduce stress, foster connection, and open up creative solutions."
+      },
+      {
+        "section": "Example",
+        "content": "Laugh at a mistake instead of getting defensive, making it easier to learn and move on."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Notice when you\u2019re being overly serious.",
+          "Find humor in challenging situations.",
+          "Remind yourself: \u2018Rule Number 6\u2014Don\u2019t take yourself so goddamn seriously.\u2019"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "bookId": 1,
+    "title": "The Way Things Are",
+    "summary": "Face reality as it is, without denial or complaint, as the starting point for possibility.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Acceptance allows for clear thinking and effective action, rather than being stuck in resistance."
+      },
+      {
+        "section": "Example",
+        "content": "Acknowledge a project setback honestly, then focus on solutions instead of blame."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Describe situations factually, without judgment.",
+          "Accept what is, then ask: What\u2019s possible from here?",
+          "Let go of wishing things were different."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "bookId": 1,
+    "title": "Giving Way to Passion",
+    "summary": "Allow yourself to fully engage with what excites and energizes you.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Passion inspires others and brings energy and creativity to your work and life."
+      },
+      {
+        "section": "Example",
+        "content": "Share your enthusiasm for a new idea, motivating your team to get involved."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Notice what energizes you.",
+          "Express your excitement openly.",
+          "Encourage others to pursue their passions."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "bookId": 1,
+    "title": "Lighting a Spark",
+    "summary": "Inspire others by sharing your vision and inviting them to participate.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Inspiration is contagious; when you light a spark in others, you create momentum for change."
+      },
+      {
+        "section": "Example",
+        "content": "Invite your team to imagine what\u2019s possible, sparking enthusiasm for a new project."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Share your vision with excitement.",
+          "Invite others to contribute their ideas.",
+          "Celebrate small wins to keep the spark alive."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "bookId": 1,
+    "title": "Being the Board",
+    "summary": "Take responsibility for your experience by seeing yourself as the board on which the game of life is played.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "This mindset shifts you from victimhood to empowerment, enabling you to respond creatively."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of blaming others for a conflict, ask how you are part of the situation and what you can change."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Ask: How am I the board for what\u2019s happening?",
+          "Look for your role in every situation.",
+          "Focus on what you can influence."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "bookId": 1,
+    "title": "Creating Frameworks for Possibility",
+    "summary": "Design environments, structures, and conversations that foster creativity and new possibilities.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Intentional frameworks support innovation and help people move beyond limiting beliefs."
+      },
+      {
+        "section": "Example",
+        "content": "Establish ground rules for brainstorming that encourage wild ideas and suspend criticism."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set up meetings to encourage open dialogue.",
+          "Create rituals that support creativity.",
+          "Regularly review and update frameworks to keep them fresh."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "bookId": 1,
+    "title": "Telling the WE Story",
+    "summary": "Shift from individual achievement to collective success by focusing on shared purpose and collaboration.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "A \u2018WE\u2019 story unites people, builds trust, and amplifies impact."
+      },
+      {
+        "section": "Example",
+        "content": "Frame a team\u2019s success as a result of everyone\u2019s effort, not just individual contributions."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use inclusive language (\u2018we\u2019 instead of \u2018I\u2019 or \u2018they\u2019).",
+          "Highlight shared goals and values.",
+          "Celebrate collective achievements."
+        ]
+      }
+    ]
+  }
+]

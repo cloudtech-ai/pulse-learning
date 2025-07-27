@@ -1,0 +1,67 @@
+{
+  "id": "no_rules_rules_netflix",
+  "title": "No Rules Rules: Netflix and the Culture of Reinvention",
+  "description": "No Rules Rules explores the groundbreaking management philosophy behind Netflix\u2019s meteoric success, as shared by co-founder Reed Hastings and business professor Erin Meyer. The book details how Netflix built a culture of innovation by prioritizing freedom, responsibility, and radical candor. Through real-world stories and research, it reveals how stripping away traditional rules and increasing transparency empowers employees to excel. Readers learn how these principles can be applied to foster creativity and adaptability in any organization. The book serves as a practical guide for leaders eager to transform their workplace culture.",
+  "modules": [
+    {
+      "id": "foundations_of_netflix_culture",
+      "title": "Foundations of Netflix Culture",
+      "goal": "Understand the core values and philosophy that shaped Netflix\u2019s unique culture.",
+      "key_points": [
+        "Netflix emphasizes talent density, candor, and minimizing controls.",
+        "Building trust and transparency is prioritized over rigid policies.",
+        "The company\u2019s culture deck became a viral document, influencing organizations globally."
+      ]
+    },
+    {
+      "id": "talent_density_and_high_performance",
+      "title": "Talent Density and High Performance",
+      "goal": "Learn why focusing on high-performing employees is crucial for success.",
+      "key_points": [
+        "Netflix hires and retains only top performers, raising overall team effectiveness.",
+        "Low performers are let go with generous severance to maintain high talent density.",
+        "Open feedback and honesty help create a high-performing, motivated workforce."
+      ]
+    },
+    {
+      "id": "candor_and_feedback",
+      "title": "Candor and Feedback",
+      "goal": "Explore the importance of radical candor and feedback in driving innovation.",
+      "key_points": [
+        "Feedback is expected to be frequent, direct, and constructive.",
+        "Employees are encouraged to challenge ideas regardless of hierarchy.",
+        "A feedback-rich environment leads to faster learning and improvement."
+      ]
+    },
+    {
+      "id": "removing_controls_for_innovation",
+      "title": "Removing Controls for Innovation",
+      "goal": "Examine how removing rules and increasing freedom empowers creativity.",
+      "key_points": [
+        "Traditional approval processes are replaced with greater individual responsibility.",
+        "Expense and vacation policies are flexible, trusting employees to act in Netflix\u2019s best interest.",
+        "Freedom and responsibility are balanced to drive accountability and innovation."
+      ]
+    },
+    {
+      "id": "global_culture_and_adaptation",
+      "title": "Global Culture and Adaptation",
+      "goal": "Understand how Netflix adapts its culture across different countries and teams.",
+      "key_points": [
+        "Cultural differences are respected, but core values remain consistent.",
+        "Netflix adapts feedback and management practices to suit global teams.",
+        "Continuous reinvention is necessary to stay competitive in a fast-changing world."
+      ]
+    },
+    {
+      "id": "applying_netflix_principles",
+      "title": "Applying Netflix Principles in Your Organization",
+      "goal": "Learn practical steps for applying Netflix\u2019s culture principles to your own workplace.",
+      "key_points": [
+        "Assess which traditional rules can be replaced with trust and responsibility.",
+        "Invest in hiring and developing high-talent teams.",
+        "Foster open feedback and encourage smart risk-taking to drive innovation."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "id": 61,
+    "bookId": 1,
+    "title": "Increase Talent Density",
+    "summary": "Focus on hiring and retaining only top performers to create a high-performing culture.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "A team composed of highly talented individuals raises the overall standard, drives innovation, and increases productivity. Mediocre performers can lower morale and slow progress."
+      },
+      {
+        "section": "Example",
+        "content": "Netflix implemented the 'keeper test,' where managers regularly assess if they would fight to keep an employee. If not, they offer a generous severance package to maintain high talent density."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Regularly evaluate team members\u2019 contributions.",
+          "Be transparent about performance expectations.",
+          "Offer generous severance to those who are not a strong fit.",
+          "Recruit proactively for top talent.",
+          "Encourage continuous learning and development."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 1,
+    "title": "Promote Candid Feedback",
+    "summary": "Foster a culture where employees give and receive honest, constructive feedback frequently.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Candid feedback helps individuals and teams improve rapidly, prevents misunderstandings, and builds trust. It ensures issues are addressed before they escalate."
+      },
+      {
+        "section": "Example",
+        "content": "Netflix encourages employees to give feedback directly and in real time, using the '4A' feedback model: Aim to Assist, Actionable, Appreciate, Allow for Acceptance or Discard."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Give feedback regularly, not just during reviews.",
+          "Focus on behaviors, not personalities.",
+          "Be specific and actionable.",
+          "Receive feedback with openness and gratitude.",
+          "Model feedback by leaders and managers."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 1,
+    "title": "Remove Controls",
+    "summary": "Eliminate unnecessary rules and approval processes to empower employees and increase agility.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Fewer controls allow for faster decision-making, greater ownership, and increased innovation. Excessive rules can stifle creativity and slow progress."
+      },
+      {
+        "section": "Example",
+        "content": "Netflix famously removed its vacation policy and travel approvals, trusting employees to act in the company\u2019s best interest."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Identify and eliminate redundant policies.",
+          "Trust employees to make responsible decisions.",
+          "Communicate clear expectations and values.",
+          "Monitor outcomes rather than processes.",
+          "Encourage autonomy and accountability."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 1,
+    "title": "Lead with Context, Not Control",
+    "summary": "Leaders provide the necessary information and context for decision-making, rather than micromanaging.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "When employees understand the bigger picture, they can make better decisions independently. This increases engagement and speeds up execution."
+      },
+      {
+        "section": "Example",
+        "content": "Netflix leaders share strategic goals, market data, and financials openly so employees can align their decisions with company objectives."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Share relevant information openly and frequently.",
+          "Explain the reasoning behind decisions.",
+          "Encourage questions and discussion.",
+          "Empower employees to act on their understanding.",
+          "Avoid micromanagement\u2014trust your team."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 1,
+    "title": "Encourage Innovation",
+    "summary": "Create an environment where experimentation is valued and failure is seen as a learning opportunity.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Innovation drives growth and keeps the company competitive. A culture that tolerates risk-taking and learning from mistakes enables breakthrough ideas."
+      },
+      {
+        "section": "Example",
+        "content": "Netflix encourages employees to try new approaches, even if they might fail, and celebrates learning from unsuccessful experiments."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Reward experimentation and calculated risk-taking.",
+          "Share lessons learned from failures.",
+          "Provide time and resources for creative projects.",
+          "Encourage cross-functional collaboration.",
+          "Recognize and celebrate innovative ideas."
+        ]
+      }
+    ]
+  }
+]
