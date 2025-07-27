@@ -1,0 +1,67 @@
+{
+  "id": "the_hard_thing_about_hard_things",
+  "title": "The Hard Thing About Hard Things",
+  "description": "This book by Ben Horowitz provides a candid look at the challenges and realities of building and running a startup. Drawing from his own experiences as a technology entrepreneur and CEO, Horowitz shares hard-learned lessons on leadership, decision-making, and managing through crises. The book offers practical advice for navigating ambiguity, facing tough decisions, and creating a resilient company culture. It is an essential guide for anyone striving to build, lead, or scale a business in the face of adversity.",
+  "modules": [
+    {
+      "id": "embracing_the_struggle",
+      "title": "Embracing the Struggle",
+      "goal": "Understand the nature of entrepreneurial challenges and why the 'hard things' are unavoidable.",
+      "key_points": [
+        "Real leadership involves facing uncomfortable and complex problems head-on.",
+        "There are no easy formulas for making tough decisions in business.",
+        "Accepting the inevitability of struggle is crucial for long-term success."
+      ]
+    },
+    {
+      "id": "making_tough_decisions",
+      "title": "Making Tough Decisions",
+      "goal": "Learn how to approach and execute difficult choices as a leader.",
+      "key_points": [
+        "Tough calls often lack clear right answers and require courage.",
+        "Leaders must weigh incomplete information and risk when deciding.",
+        "Communication and transparency are key during high-stakes decisions."
+      ]
+    },
+    {
+      "id": "managing_through_crisis",
+      "title": "Managing Through Crisis",
+      "goal": "Explore strategies for leading teams and companies through uncertainty and downturns.",
+      "key_points": [
+        "Crises reveal true leadership and company culture.",
+        "Managing morale and keeping teams focused are critical during crises.",
+        "Adaptability and clear priorities help companies survive turbulent times."
+      ]
+    },
+    {
+      "id": "building_and_maintaining_culture",
+      "title": "Building and Maintaining Culture",
+      "goal": "Understand the importance of company culture and how to shape it intentionally.",
+      "key_points": [
+        "Culture is the set of behaviors and values that define a company.",
+        "Leaders must model and reinforce desired cultural attributes.",
+        "Hiring, firing, and promoting should align with cultural goals."
+      ]
+    },
+    {
+      "id": "the_ceo_role_and_life",
+      "title": "The CEO Role and Life",
+      "goal": "Gain insight into the unique challenges and responsibilities of being a CEO.",
+      "key_points": [
+        "The CEO\u2019s job is often lonely and filled with pressure.",
+        "Self-care and resilience are necessary to withstand the demands of leadership.",
+        "Delegation and building a strong executive team are essential for scaling."
+      ]
+    },
+    {
+      "id": "practical_advice_for_founders",
+      "title": "Practical Advice for Founders",
+      "goal": "Apply actionable tips and frameworks for managing people, products, and growth.",
+      "key_points": [
+        "Hire for strengths, not lack of weaknesses.",
+        "Train managers and invest in employee development.",
+        "Iterate quickly, accept feedback, and learn from mistakes."
+      ]
+    }
+  ]
+}

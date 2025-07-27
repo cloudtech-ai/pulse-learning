@@ -57,28 +57,52 @@
       "title": "Crossing the Chasm",
       "author": "Geoffrey A. Moore",
       "summary": "A playbook for taking technology products from early adopters to the mass market.",
-      "generative_title": "Crossing the Chasm by Geoffrey A. Moore"
+      "generative_title": "Crossing the Chasm by Geoffrey A. Moore",
+      "info": "startup_books/crossing_chasm_by_geoffrey/crossing_chasm_by_geoffrey_summary.json",
+      "strategies": "startup_books/crossing_chasm_by_geoffrey/crossing_chasm_by_geoffrey_strategies.json",
+      "studyPlan": {
+        "module_path": "startup_books/crossing_chasm_by_geoffrey/crossing_chasm_by_geoffrey_modules.json",
+        "lesson_path": "startup_books/crossing_chasm_by_geoffrey/crossing_chasm_by_geoffrey_lessons.json"
+      }
     },
     {
       "id": 206,
       "title": "Traction: How Any Startup Can Achieve Explosive Customer Growth",
       "author": "Gabriel Weinberg & Justin Mares",
       "summary": "A tactical guide to finding and scaling the right marketing channels for your startup.",
-      "generative_title": "Traction: How Any Startup Can Achieve Explosive Customer Growth by Gabriel Weinberg & Justin Mares"
+      "generative_title": "Traction: How Any Startup Can Achieve Explosive Customer Growth by Gabriel Weinberg & Justin Mares",
+      "info": "startup_books/traction_how_any_startup_can/traction_how_any_startup_can_summary.json",
+      "strategies": "startup_books/traction_how_any_startup_can/traction_how_any_startup_can_strategies.json",
+      "studyPlan": {
+        "module_path": "startup_books/traction_how_any_startup_can/traction_how_any_startup_can_modules.json",
+        "lesson_path": "startup_books/traction_how_any_startup_can/traction_how_any_startup_can_lessons.json"
+      }
     },
     {
       "id": 207,
       "title": "High Output Management",
       "author": "Andrew S. Grove",
       "summary": "A classic on building and managing high-performing teams and processes.",
-      "generative_title": "High Output Management by Andrew S. Grove"
+      "generative_title": "High Output Management by Andrew S. Grove",
+      "info": "startup_books/high_output_management_by_andrew/high_output_management_by_andrew_summary.json",
+      "strategies": "startup_books/high_output_management_by_andrew/high_output_management_by_andrew_strategies.json",
+      "studyPlan": {
+        "module_path": "startup_books/high_output_management_by_andrew/high_output_management_by_andrew_modules.json",
+        "lesson_path": "startup_books/high_output_management_by_andrew/high_output_management_by_andrew_lessons.json"
+      }
     },
     {
       "id": 208,
       "title": "The Hard Thing About Hard Things",
       "author": "Ben Horowitz",
       "summary": "Real-world advice on facing the toughest challenges as a startup leader.",
-      "generative_title": "The Hard Thing About Hard Things by Ben Horowitz"
+      "generative_title": "The Hard Thing About Hard Things by Ben Horowitz",
+      "info": "startup_books/hard_thing_about_hard/hard_thing_about_hard_summary.json",
+      "strategies": "startup_books/hard_thing_about_hard/hard_thing_about_hard_strategies.json",
+      "studyPlan": {
+        "module_path": "startup_books/hard_thing_about_hard/hard_thing_about_hard_modules.json",
+        "lesson_path": "startup_books/hard_thing_about_hard/hard_thing_about_hard_lessons.json"
+      }
     },
     {
       "id": 209,

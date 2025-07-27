@@ -1,0 +1,184 @@
+[
+  {
+    "id": 51,
+    "bookId": 1,
+    "title": "Bullseye Framework",
+    "summary": "A systematic process for identifying the most effective traction channels for your startup.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Startups have limited resources and need to focus on the channels most likely to drive growth. The Bullseye Framework helps prioritize and test channels efficiently."
+      },
+      {
+        "section": "Example",
+        "content": "A SaaS startup uses the Bullseye Framework to brainstorm all 19 traction channels, selects the top three most promising (e.g., content marketing, SEM, and PR), and runs small tests to see which yields the best results."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Brainstorm all possible traction channels.",
+          "Select the top three channels for focused testing.",
+          "Design small, inexpensive tests for each channel.",
+          "Double down on the channel that shows the most promise.",
+          "Revisit the process regularly as your startup evolves."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "bookId": 1,
+    "title": "Traction Testing",
+    "summary": "Running small, low-cost experiments to validate which marketing channels can drive meaningful growth.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Testing prevents wasting resources on ineffective channels and helps identify scalable growth opportunities early."
+      },
+      {
+        "section": "Example",
+        "content": "A marketplace startup spends $100 each on Facebook ads, Google Ads, and influencer outreach to see which channel brings the most signups."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set clear, measurable goals for each test.",
+          "Keep tests small and time-bound.",
+          "Track results and compare ROI across channels.",
+          "Iterate quickly based on findings.",
+          "Document learnings for future reference."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "bookId": 1,
+    "title": "Critical Path",
+    "summary": "Focusing on the most important tasks that will directly lead to traction and growth.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Startups often get distracted by non-essential tasks. Identifying the critical path ensures resources are dedicated to actions that move the needle."
+      },
+      {
+        "section": "Example",
+        "content": "A founder realizes that building a referral program is less important than improving onboarding, which is the current bottleneck to growth."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Identify the single most important goal for traction.",
+          "List all tasks and dependencies required to achieve it.",
+          "Prioritize work that directly impacts the goal.",
+          "Regularly reassess and adjust the critical path as needed.",
+          "Communicate priorities clearly to your team."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "bookId": 1,
+    "title": "Targeting Blogs",
+    "summary": "Leveraging influential blogs to reach your target audience and generate buzz.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Blogs often have dedicated, niche audiences. Getting featured can drive highly qualified traffic and early adopters."
+      },
+      {
+        "section": "Example",
+        "content": "A productivity app founder pitches their story to top productivity and tech blogs, resulting in a feature that brings thousands of new users."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Research blogs your target customers read.",
+          "Build relationships with bloggers through comments and social media.",
+          "Craft personalized pitches that offer value to the blog\u2019s audience.",
+          "Provide exclusive content or early access to bloggers.",
+          "Track coverage and measure resulting traffic and signups."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "bookId": 1,
+    "title": "Unconventional PR",
+    "summary": "Using creative, unexpected tactics to generate media coverage and word-of-mouth.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Unconventional PR can break through the noise and create memorable stories that spread organically."
+      },
+      {
+        "section": "Example",
+        "content": "A startup launches a quirky publicity stunt, like sending a giant inflatable mascot to a major event, which gets picked up by local and national media."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Brainstorm creative ideas that align with your brand.",
+          "Consider stunts, viral videos, or unique giveaways.",
+          "Ensure your tactic is newsworthy and shareable.",
+          "Prepare to handle increased attention and inquiries.",
+          "Follow up with journalists and bloggers after the event."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "bookId": 1,
+    "title": "Search Engine Marketing",
+    "summary": "Using paid search ads (like Google Ads) to drive targeted traffic to your website.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "SEM allows you to reach potential customers who are actively searching for solutions like yours, often with high intent to purchase."
+      },
+      {
+        "section": "Example",
+        "content": "An e-commerce startup bids on keywords related to their products, driving immediate traffic and sales from search ads."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Research and select high-intent keywords.",
+          "Set a clear budget and monitor spend closely.",
+          "Write compelling ad copy and use strong calls-to-action.",
+          "Optimize landing pages for conversions.",
+          "Continuously test and refine campaigns based on performance data."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "bookId": 1,
+    "title": "Social and Display Ads",
+    "summary": "Running paid advertisements on social media platforms and display networks to reach and engage your target audience.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Social and display ads can build brand awareness, retarget visitors, and drive conversions at scale."
+      },
+      {
+        "section": "Example",
+        "content": "A subscription box company uses Facebook and Instagram ads to showcase their product, targeting lookalike audiences and retargeting website visitors."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Define your target audience and choose the right platforms.",
+          "Create eye-catching visuals and concise messaging.",
+          "Experiment with different ad formats (carousel, video, stories).",
+          "Use retargeting to re-engage interested users.",
+          "Track metrics like CTR, CPA, and ROAS to optimize campaigns."
+        ]
+      }
+    ]
+  }
+]

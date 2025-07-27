@@ -1,0 +1,184 @@
+[
+  {
+    "id": 11,
+    "bookId": 1,
+    "title": "Embrace the Struggle",
+    "summary": "Accept that challenges and hardships are inevitable in leadership and entrepreneurship, and use them as opportunities to grow.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Facing difficulties head-on builds resilience and prepares you for the unpredictable nature of running a business."
+      },
+      {
+        "section": "Example",
+        "content": "When your company faces a sudden downturn, instead of panicking or blaming others, you acknowledge the pain and focus on actionable solutions."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Acknowledge your emotions during tough times.",
+          "Remind yourself that struggle is part of the process.",
+          "Seek support from mentors or peers.",
+          "Reflect on past struggles and how you overcame them.",
+          "Document lessons learned from each challenge."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "bookId": 1,
+    "title": "Lead by Example",
+    "summary": "Demonstrate the behaviors, values, and work ethic you expect from your team.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "People are more likely to follow leaders who model the standards they set, fostering trust and credibility."
+      },
+      {
+        "section": "Example",
+        "content": "If you expect punctuality, consistently arrive on time to meetings and deliver on your commitments."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Be transparent about your actions and decisions.",
+          "Admit mistakes openly and take responsibility.",
+          "Show commitment to the company\u2019s mission.",
+          "Treat everyone with respect, regardless of role.",
+          "Maintain a strong work ethic, especially during tough times."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "bookId": 1,
+    "title": "Make Tough Decisions",
+    "summary": "Be willing to make difficult choices, even when they are unpopular or emotionally challenging, for the good of the company.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Avoiding hard decisions can lead to bigger problems; decisive action keeps the company moving forward."
+      },
+      {
+        "section": "Example",
+        "content": "Letting go of a high-performing employee who is toxic to the team culture, despite their individual results."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Gather all relevant information before deciding.",
+          "Consult trusted advisors or mentors.",
+          "Communicate decisions clearly and compassionately.",
+          "Accept that not everyone will agree with you.",
+          "Reflect on the long-term impact, not just the short-term discomfort."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "bookId": 1,
+    "title": "Build a Strong Company Culture",
+    "summary": "Intentionally create and nurture a set of shared values, beliefs, and behaviors that define your organization.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "A strong culture attracts and retains talent, aligns teams, and guides decision-making in uncertain times."
+      },
+      {
+        "section": "Example",
+        "content": "Establishing rituals, such as regular all-hands meetings, and celebrating team wins to reinforce company values."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Define your company\u2019s core values and communicate them often.",
+          "Reward behaviors that exemplify the culture.",
+          "Address behaviors that undermine the culture immediately.",
+          "Solicit feedback from employees about the culture.",
+          "Lead cultural initiatives personally."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "bookId": 1,
+    "title": "Manage People Effectively",
+    "summary": "Develop the skills to hire, develop, motivate, and retain a high-performing team.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "The success of your company depends on the people you bring in and how you help them grow."
+      },
+      {
+        "section": "Example",
+        "content": "Providing regular, honest feedback and creating clear career paths for team members."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Invest time in hiring the right people.",
+          "Set clear expectations and goals.",
+          "Give timely, constructive feedback.",
+          "Recognize and reward good performance.",
+          "Support professional development."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "bookId": 1,
+    "title": "Adapt to Change",
+    "summary": "Stay flexible and open to new information, adjusting strategies and tactics as circumstances evolve.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Markets, technologies, and teams change rapidly; adaptability is key to survival and growth."
+      },
+      {
+        "section": "Example",
+        "content": "Pivoting your product strategy in response to customer feedback or market shifts."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Monitor industry trends and competitor moves.",
+          "Encourage experimentation and learning.",
+          "Be willing to abandon outdated processes.",
+          "Solicit input from diverse perspectives.",
+          "Communicate changes clearly to your team."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "bookId": 1,
+    "title": "Learn from Mistakes",
+    "summary": "View failures as valuable learning opportunities and use them to improve future performance.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Mistakes are inevitable; learning from them accelerates growth and prevents repeat errors."
+      },
+      {
+        "section": "Example",
+        "content": "After a failed product launch, conducting a blameless post-mortem to identify what went wrong and how to do better next time."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Encourage open discussion of failures.",
+          "Analyze mistakes without assigning blame.",
+          "Document lessons learned and share them.",
+          "Apply insights to future projects.",
+          "Model humility and a growth mindset."
+        ]
+      }
+    ]
+  }
+]

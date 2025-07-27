@@ -1,0 +1,73 @@
+{
+  "id": 1,
+  "title": "The Hard Thing About Hard Things",
+  "description": "A guide to navigating the challenges of building and running a startup, with insights on leadership, decision-making, and managing tough situations.",
+  "videoPreview": "Navigating Startup Challenges",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400053272i/22085024._SY475__.jpg",
+  "keyStrategies": [
+    {
+      "id": 11,
+      "title": "Embrace the Struggle",
+      "focused": true
+    },
+    {
+      "id": 12,
+      "title": "Lead by Example"
+    },
+    {
+      "id": 13,
+      "title": "Make Tough Decisions"
+    },
+    {
+      "id": 14,
+      "title": "Build a Strong Company Culture"
+    },
+    {
+      "id": 15,
+      "title": "Manage People Effectively"
+    },
+    {
+      "id": 16,
+      "title": "Adapt to Change"
+    },
+    {
+      "id": 17,
+      "title": "Learn from Mistakes"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Hard Thing About Hard Things \u2013 Overview",
+      "id": "ANTinDKyERw"
+    },
+    {
+      "title": "Leadership Lessons from Ben Horowitz",
+      "id": "YTKXPknpeJw"
+    },
+    {
+      "title": "Managing Tough Situations in Startups",
+      "id": "PgtIM_hsQt4"
+    },
+    {
+      "title": "Building a Resilient Company Culture",
+      "id": "c764c7HdhRo"
+    },
+    {
+      "title": "Decision-Making in Uncertain Times",
+      "id": "0h-WnOoQa_o"
+    },
+    {
+      "title": "Adapting to Change in Business",
+      "id": "uW2ECGellXM"
+    },
+    {
+      "title": "Learning from Failures and Mistakes",
+      "id": "A5xdZUVYvcE"
+    },
+    {
+      "title": "The Hard Thing About Hard Things by Ben Horowitz",
+      "id": "SDmzwQEYKVU"
+    }
+  ],
+  "bookUrl": "/book/show/22085024-summary-of-the-hard-thing-about-hard-things"
+}

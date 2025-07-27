@@ -1,0 +1,77 @@
+{
+  "id": "high_output_management",
+  "title": "High Output Management",
+  "description": "High Output Management by Andrew S. Grove is a foundational guide for managers seeking to maximize their team\u2019s productivity and effectiveness. The book blends practical advice with management theory, emphasizing measurable output, decision-making, and effective processes. Grove\u2019s insights stem from his experience leading Intel, focusing on high-leverage activities, performance measurement, and the importance of strong managerial practices. The book is widely praised for its actionable frameworks and clear approach to leadership in dynamic environments.",
+  "modules": [
+    {
+      "id": "management_as_a_process",
+      "title": "Management as a Process",
+      "goal": "Understand management as a systematic process focused on producing measurable output.",
+      "key_points": [
+        "Management involves designing and controlling processes to achieve organizational goals.",
+        "Output is the ultimate measure of a manager's effectiveness.",
+        "Managers must continuously evaluate and improve processes for higher productivity."
+      ]
+    },
+    {
+      "id": "leveraging_managerial_time",
+      "title": "Leveraging Managerial Time",
+      "goal": "Learn how to maximize impact by focusing on high-leverage activities.",
+      "key_points": [
+        "High-leverage activities amplify a manager\u2019s impact beyond their immediate actions.",
+        "Effective delegation and decision-making are crucial to productivity.",
+        "Managers should prioritize tasks that bring the greatest benefit to the team and organization."
+      ]
+    },
+    {
+      "id": "meetings_as_managerial_tools",
+      "title": "Meetings as Managerial Tools",
+      "goal": "Develop skills for using meetings to drive alignment, communication, and results.",
+      "key_points": [
+        "Meetings are essential tools for information exchange and decision-making.",
+        "Different types of meetings serve distinct purposes: one-on-ones, staff meetings, and operational reviews.",
+        "Preparation and clear objectives are key to holding effective meetings."
+      ]
+    },
+    {
+      "id": "decision_making_and_problem_solving",
+      "title": "Decision Making and Problem Solving",
+      "goal": "Enhance decision-making skills through structured approaches and problem analysis.",
+      "key_points": [
+        "Structured problem-solving aids in identifying root causes and effective solutions.",
+        "Timely and informed decisions keep teams moving forward.",
+        "Managers should balance data-driven analysis with intuition and experience."
+      ]
+    },
+    {
+      "id": "performance_management_and_feedback",
+      "title": "Performance Management and Feedback",
+      "goal": "Master techniques for setting expectations, evaluating performance, and giving feedback.",
+      "key_points": [
+        "Clear goals and measurable standards guide employee performance.",
+        "Regular, constructive feedback fosters growth and improvement.",
+        "Performance reviews should be objective, consistent, and tied to organizational outcomes."
+      ]
+    },
+    {
+      "id": "managing_teams_and_culture",
+      "title": "Managing Teams and Culture",
+      "goal": "Understand the dynamics of high-performing teams and how to nurture a productive culture.",
+      "key_points": [
+        "Strong team culture drives engagement and collaboration.",
+        "Managers play a critical role in setting norms and expectations.",
+        "Diversity, trust, and open communication are vital to team success."
+      ]
+    },
+    {
+      "id": "scaling_and_adapting_management",
+      "title": "Scaling and Adapting Management",
+      "goal": "Apply Grove\u2019s management principles to organizations of different sizes and evolving needs.",
+      "key_points": [
+        "Management practices must adapt as organizations grow and change.",
+        "Scalable systems and processes help maintain high output at any size.",
+        "Continuous learning and flexibility are essential for long-term effectiveness."
+      ]
+    }
+  ]
+}

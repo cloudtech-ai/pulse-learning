@@ -1,0 +1,77 @@
+{
+  "id": 6,
+  "title": "Crossing the Chasm",
+  "description": "A guide for marketing and selling high-tech products to mainstream customers, focusing on the gap between early adopters and the early majority.",
+  "videoPreview": "Crossing the Chasm Overview",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426566498i/25158597._SY475__.jpg",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Target a Niche Market",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Position the Product"
+    },
+    {
+      "id": 63,
+      "title": "Build a Whole Product"
+    },
+    {
+      "id": 64,
+      "title": "Leverage the Chasm"
+    },
+    {
+      "id": 65,
+      "title": "Create a Compelling Value Proposition"
+    },
+    {
+      "id": 66,
+      "title": "Develop a Marketing Strategy"
+    },
+    {
+      "id": 67,
+      "title": "Establish a Distribution Channel"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Crossing the Chasm \u2013 Introduction",
+      "id": "JI7Px-9-jcw"
+    },
+    {
+      "title": "Understanding the Technology Adoption Lifecycle",
+      "id": "LgWzF4mW2eQ"
+    },
+    {
+      "title": "Strategies for Crossing the Chasm",
+      "id": "Y-97AXOPzJo"
+    },
+    {
+      "title": "Building a Whole Product",
+      "id": "r-98YRAF1dY"
+    },
+    {
+      "title": "Positioning and Messaging",
+      "id": "OmD5VGLDFJs"
+    },
+    {
+      "title": "Creating a Compelling Value Proposition",
+      "id": "UGJberMuJI8"
+    },
+    {
+      "title": "Marketing Strategies for High-Tech Products",
+      "id": "5FJfEgE9RNg"
+    },
+    {
+      "title": "Establishing Distribution Channels",
+      "id": "sz58Y_BLH5Q"
+    },
+    {
+      "title": "Crossing the Chasm by Geoffrey A. Moore",
+      "id": "r_NE-EQ9tp8"
+    }
+  ],
+  "bookUrl": "/book/show/25158597-summary-of-the-book-crossing-the-chasm-by-geoffrey-a-moore"
+}

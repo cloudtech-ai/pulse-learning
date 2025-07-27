@@ -1,0 +1,177 @@
+[
+  {
+    "id": 61,
+    "bookId": 1,
+    "title": "Managerial Leverage",
+    "summary": "Maximize your impact by focusing on activities that multiply the output of your team.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Managerial leverage is about amplifying your effectiveness by investing time in activities that have the greatest positive effect on your team's results."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of solving every problem yourself, train a team member to handle recurring issues, freeing up your time for higher-impact work."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Delegate tasks that others can do.",
+          "Spend time on training and coaching.",
+          "Focus on decisions and actions that influence many people.",
+          "Continuously assess where your time has the most leverage."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 1,
+    "title": "Task Prioritization",
+    "summary": "Identify and focus on the most important tasks to maximize productivity and results.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Not all tasks are equally valuable. Prioritizing ensures that your time and energy are spent on what drives the most significant outcomes."
+      },
+      {
+        "section": "Example",
+        "content": "Choosing to address a critical customer issue before routine paperwork because it has a bigger impact on business success."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "List your tasks and rank them by impact.",
+          "Use frameworks like the Eisenhower Matrix.",
+          "Review and adjust priorities regularly.",
+          "Say no to low-value activities."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 1,
+    "title": "Performance Measurement",
+    "summary": "Track and evaluate results to ensure goals are met and improvements are made.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Measuring performance provides objective data to guide decisions, recognize achievements, and identify areas for growth."
+      },
+      {
+        "section": "Example",
+        "content": "Setting clear sales targets and reviewing weekly progress to identify trends and adjust strategies."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Define clear, measurable objectives.",
+          "Regularly review key metrics.",
+          "Give feedback based on data.",
+          "Adjust goals and processes as needed."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 1,
+    "title": "Decision-Making Processes",
+    "summary": "Establish structured approaches to making effective and timely decisions.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "A clear decision-making process reduces confusion, speeds up execution, and increases buy-in from your team."
+      },
+      {
+        "section": "Example",
+        "content": "Using a decision matrix to evaluate options and involve relevant stakeholders before choosing a new software tool."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Clarify who owns each decision.",
+          "Gather input from those affected.",
+          "Set deadlines for decisions.",
+          "Document and communicate decisions clearly."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 1,
+    "title": "Effective Meetings",
+    "summary": "Run meetings that are purposeful, efficient, and result in clear outcomes.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Well-run meetings save time, align teams, and drive progress, while poorly run meetings waste resources and create confusion."
+      },
+      {
+        "section": "Example",
+        "content": "Starting meetings with a clear agenda and ending with actionable next steps."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set and share an agenda in advance.",
+          "Start and end on time.",
+          "Assign roles (facilitator, note-taker).",
+          "Summarize decisions and action items."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "bookId": 1,
+    "title": "Training and Development",
+    "summary": "Invest in building your team's skills and capabilities for long-term success.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Continuous training ensures your team adapts to new challenges and maintains high performance."
+      },
+      {
+        "section": "Example",
+        "content": "Organizing regular workshops to upskill employees on new technologies relevant to your business."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Identify skill gaps through performance reviews.",
+          "Encourage knowledge sharing among team members.",
+          "Provide access to courses and learning resources.",
+          "Set development goals and track progress."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "bookId": 1,
+    "title": "Feedback and Communication",
+    "summary": "Foster open, timely, and constructive communication to improve performance and relationships.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Effective feedback and communication build trust, clarify expectations, and help individuals and teams grow."
+      },
+      {
+        "section": "Example",
+        "content": "Giving specific, actionable feedback after a project and inviting input from team members."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Give feedback promptly and respectfully.",
+          "Be specific and focus on behaviors, not personalities.",
+          "Encourage two-way communication.",
+          "Regularly check for understanding and alignment."
+        ]
+      }
+    ]
+  }
+]

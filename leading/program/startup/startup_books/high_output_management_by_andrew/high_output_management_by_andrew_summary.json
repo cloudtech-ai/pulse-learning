@@ -1,0 +1,77 @@
+{
+  "id": 6,
+  "title": "High Output Management",
+  "description": "A guide to managing and leading teams effectively, focusing on performance measurement, decision-making, and managerial leverage.",
+  "videoPreview": "Effective Management Techniques",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448843930i/28011906._SY475__.jpg",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Managerial Leverage",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Task Prioritization"
+    },
+    {
+      "id": 63,
+      "title": "Performance Measurement"
+    },
+    {
+      "id": 64,
+      "title": "Decision-Making Processes"
+    },
+    {
+      "id": 65,
+      "title": "Effective Meetings"
+    },
+    {
+      "id": 66,
+      "title": "Training and Development"
+    },
+    {
+      "id": 67,
+      "title": "Feedback and Communication"
+    }
+  ],
+  "videos": [
+    {
+      "title": "High Output Management \u2013 Overview",
+      "id": "SY64JpyBQyQ"
+    },
+    {
+      "title": "Managerial Leverage Explained",
+      "id": "UK3ClpsFKVA"
+    },
+    {
+      "title": "Effective Task Prioritization",
+      "id": "czh4rmk75jc"
+    },
+    {
+      "title": "Measuring Performance in Teams",
+      "id": "D2gDzMymHKQ"
+    },
+    {
+      "title": "Decision-Making for Managers",
+      "id": "uiWuUW-aSQA"
+    },
+    {
+      "title": "Conducting Effective Meetings",
+      "id": "wm0XtZ_K3kA"
+    },
+    {
+      "title": "Training and Development Strategies",
+      "id": "xOQukvibkYU"
+    },
+    {
+      "title": "Feedback and Communication Skills",
+      "id": "srY77hwWn_E"
+    },
+    {
+      "title": "High Output Management by Andrew S. Grove",
+      "id": "zU3ODECAZjE"
+    }
+  ],
+  "bookUrl": "/book/show/28011906-high-output-management-by-andrew-s-grove-summary-key-point-analysis"
+}

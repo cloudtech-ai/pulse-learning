@@ -1,0 +1,97 @@
+{
+  "id": "traction_customer_growth",
+  "title": "Traction: How Any Startup Can Achieve Explosive Customer Growth",
+  "description": "Traction provides startups with a systematic approach to achieving rapid and sustainable customer growth. The book introduces the concept of the 'Bullseye Framework,' which helps founders identify the most effective marketing channels for their business. Through real-world case studies and actionable strategies, the authors guide readers in selecting and executing the right traction channels. The focus is on balancing product development with customer acquisition to ensure startup success.",
+  "modules": [
+    {
+      "id": "introduction_to_traction",
+      "title": "Introduction to Traction",
+      "goal": "Understand the importance of traction and why startups should focus on growth alongside product development.",
+      "key_points": [
+        "Traction is the sign of real customer growth and validates product-market fit.",
+        "Startups often fail by focusing solely on product and neglecting distribution.",
+        "Balancing product development with traction efforts is crucial for startup success."
+      ]
+    },
+    {
+      "id": "bullseye_framework_overview",
+      "title": "The Bullseye Framework",
+      "goal": "Learn how to systematically prioritize and test marketing channels using the Bullseye Framework.",
+      "key_points": [
+        "The Bullseye Framework organizes 19 traction channels into three rings: Outer (brainstorm), Middle (test), and Inner (focus).",
+        "Startups should brainstorm all possible channels, test the most promising, and focus on the one that works best.",
+        "The framework encourages repeated, structured experimentation to find the best growth channel."
+      ]
+    },
+    {
+      "id": "traction_channels_part1",
+      "title": "Traction Channels: Part 1",
+      "goal": "Get acquainted with the first set of traction channels and how they can drive growth.",
+      "key_points": [
+        "Covers channels such as Viral Marketing, Public Relations, Unconventional PR, Search Engine Marketing, and Social & Display Ads.",
+        "Each channel is described with examples of how startups have leveraged them.",
+        "Emphasizes scalable and creative ways to reach new customers through these channels."
+      ]
+    },
+    {
+      "id": "traction_channels_part2",
+      "title": "Traction Channels: Part 2",
+      "goal": "Explore additional traction channels and evaluate their fit for different types of startups.",
+      "key_points": [
+        "Discusses channels like Offline Ads, Search Engine Optimization, Content Marketing, Email Marketing, and Engineering as Marketing.",
+        "Explains the mechanics and potential ROI of each channel.",
+        "Helps startups assess which channels align with their target audience and resources."
+      ]
+    },
+    {
+      "id": "traction_channels_part3",
+      "title": "Traction Channels: Part 3",
+      "goal": "Understand the final set of traction channels with real-world examples and selection tips.",
+      "key_points": [
+        "Covers channels such as Targeting Blogs, Business Development, Sales, Affiliate Programs, Existing Platforms, Trade Shows, and Community Building.",
+        "Provides guidance on leveraging partnerships and platforms for growth.",
+        "Highlights the importance of community and relationships in scaling traction."
+      ]
+    },
+    {
+      "id": "testing_and_focusing_channels",
+      "title": "Testing and Focusing on Channels",
+      "goal": "Master the process of channel testing, measurement, and focusing resources on the most promising channel.",
+      "key_points": [
+        "Describes how to design and run small-scale tests for each channel.",
+        "Emphasizes measuring results by key metrics to compare channel effectiveness.",
+        "Guides on doubling down on the channel that delivers the best traction."
+      ]
+    },
+    {
+      "id": "traction_and_product_development_balance",
+      "title": "Balancing Traction and Product Development",
+      "goal": "Learn strategies to allocate time and resources between building the product and driving traction.",
+      "key_points": [
+        "Advises that startups should spend 50% of their time on traction and 50% on product.",
+        "Explains how early traction can inform product decisions and attract investors.",
+        "Discusses overcoming founder bias and staying disciplined in growth efforts."
+      ]
+    },
+    {
+      "id": "case_studies_and_lessons_learned",
+      "title": "Case Studies and Lessons Learned",
+      "goal": "Apply lessons from real-world startup case studies to your own traction strategy.",
+      "key_points": [
+        "Presents stories of startups that achieved explosive growth by focusing on the right traction channels.",
+        "Illustrates common pitfalls and how to avoid them.",
+        "Provides actionable takeaways for implementing traction strategies in various industries."
+      ]
+    },
+    {
+      "id": "crafting_your_traction_strategy",
+      "title": "Crafting Your Traction Strategy",
+      "goal": "Synthesize the book's frameworks and insights to develop a personalized traction plan.",
+      "key_points": [
+        "Guides users to select, test, and implement traction channels based on their business model and market.",
+        "Encourages ongoing experimentation and iteration as the startup evolves.",
+        "Stresses the importance of adapting the Bullseye Framework as the company grows."
+      ]
+    }
+  ]
+}
