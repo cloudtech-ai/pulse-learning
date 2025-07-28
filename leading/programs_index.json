@@ -1,0 +1,20 @@
+[
+    {
+        "id": 2,
+        "name": "Startup Program",
+        "description": "A comprehensive program designed to guide entrepreneurs through the startup journey, from mindset development to product discovery and market growth.",
+        "file": "program/startup_program.json",
+        "summary": "A collection of resources and strategies for building successful startups.",
+        "last_updated_utc": "2025-07-08T05:14:38Z",
+        "moduleId": "002-Startup"
+    },
+    {
+        "id": 3,
+        "name": "CTO Program",
+        "description": "A comprehensive program for Chief Technology Officers to enhance their leadership skills, technical expertise, and strategic vision.",
+        "file": "program/cto_program.json",
+        "summary": "A collection of resources and strategies for CTOs to lead technology teams effectively.",
+        "last_updated_utc": "2025-07-08T05:14:38Z",
+        "moduleId": "003-CTO"
+    }
+]

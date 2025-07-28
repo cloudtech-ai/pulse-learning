@@ -5,5 +5,19 @@
     "file": "program/leadership/books.json",
     "summary": "A collection of books on leadership.",
     "last_updated_utc": "2025-07-08T05:14:38Z"
+  },
+  {
+    "id": "002-Startup",
+    "name": "Startup",
+    "file": "program/startup/books.json",
+    "summary": "A collection of books on startups.",
+    "last_updated_utc": "2025-07-08T05:14:38Z"
+  },
+  {
+    "id": "003-CTO",
+    "name": "CTO",
+    "file": "program/cto/books.json",
+    "summary": "A collection of resources and strategies for CTOs to lead technology teams effectively.",
+    "last_updated_utc": "2025-07-08T05:14:38Z"
   }
 ]
