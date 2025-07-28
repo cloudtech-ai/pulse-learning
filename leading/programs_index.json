@@ -6,7 +6,7 @@
         "file": "program/startup_program.json",
         "summary": "A collection of resources and strategies for building successful startups.",
         "last_updated_utc": "2025-07-08T05:14:38Z",
-        "moduleId": "002-Startup"
+        "bookCollectionId": "002-Startup"
     },
     {
         "id": 3,
@@ -15,6 +15,6 @@
         "file": "program/cto_program.json",
         "summary": "A collection of resources and strategies for CTOs to lead technology teams effectively.",
         "last_updated_utc": "2025-07-08T05:14:38Z",
-        "moduleId": "003-CTO"
+        "bookCollectionId": "003-CTO"
     }
 ]
