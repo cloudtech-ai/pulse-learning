@@ -1,0 +1,214 @@
+{
+    "5": [
+  {
+    "id": "business_and_entrepreneurship",
+    "title": "Business & Entrepreneurship",
+    "goal": "Understand how successful companies are built and scaled, and how to think like an entrepreneur.",
+    "keyConcepts": [
+      "Company growth strategies",
+      "Lean experimentation",
+      "Innovation and competition"
+    ],
+    "books": [
+      {
+        "id": 501,
+        "title": "Good to Great",
+        "author": "Jim Collins",
+        "summary": "Explores why some companies transition from good to great and how they sustain superior performance."
+      },
+      {
+        "id": 502,
+        "title": "The Lean Startup",
+        "author": "Eric Ries",
+        "summary": "A scientific approach to creating and managing successful startups through build-measure-learn cycles."
+      },
+      {
+        "id": 503,
+        "title": "Zero to One",
+        "author": "Peter Thiel",
+        "summary": "Explores how to create truly innovative businesses and the importance of bold, original thinking."
+      }
+    ]
+  },
+  {
+    "id": "psychology_and_human_behavior",
+    "title": "Psychology & Human Behavior",
+    "goal": "Gain insights into human decision-making, behavior, and habits to improve personal and professional outcomes.",
+    "keyConcepts": [
+      "Cognitive biases",
+      "Persuasion and influence",
+      "Habit formation"
+    ],
+    "books": [
+      {
+        "id": 504,
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "summary": "Examines two modes of thought—fast, intuitive thinking and slow, deliberate reasoning—and their impact on decision-making."
+      },
+      {
+        "id": 505,
+        "title": "Influence: The Psychology of Persuasion",
+        "author": "Robert Cialdini",
+        "summary": "Outlines six universal principles of persuasion and how they can be applied in everyday life."
+      },
+      {
+        "id": 506,
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "summary": "Demonstrates how small, consistent changes in habits lead to remarkable results over time."
+      }
+    ]
+  },
+  {
+    "id": "physical_fitness_and_health",
+    "title": "Physical Fitness & Health",
+    "goal": "Develop physical strength, endurance, and healthier lifestyle habits.",
+    "keyConcepts": [
+      "Strength training",
+      "Running and endurance",
+      "Long-term health practices"
+    ],
+    "books": [
+      {
+        "id": 507,
+        "title": "Bigger Leaner Stronger",
+        "author": "Michael Matthews",
+        "summary": "A practical guide to building muscle, losing fat, and getting healthy through evidence-based fitness."
+      },
+      {
+        "id": 508,
+        "title": "Born to Run",
+        "author": "Christopher McDougall",
+        "summary": "Tells the story of ultra-runners and the secrets of endurance from the Tarahumara tribe in Mexico."
+      },
+      {
+        "id": 509,
+        "title": "The New Rules of Lifting",
+        "author": "Lou Schuler & Alwyn Cosgrove",
+        "summary": "Provides structured strength training programs and nutritional advice for sustainable fitness."
+      }
+    ]
+  },
+  {
+    "id": "personal_finance_and_wealth",
+    "title": "Personal Finance & Wealth",
+    "goal": "Build financial literacy, develop investing skills, and achieve long-term wealth.",
+    "keyConcepts": [
+      "Wealth mindset",
+      "Value investing",
+      "Financial independence"
+    ],
+    "books": [
+      {
+        "id": 510,
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "summary": "Contrasts two approaches to money and investing, advocating financial education for wealth building."
+      },
+      {
+        "id": 511,
+        "title": "The Intelligent Investor",
+        "author": "Benjamin Graham",
+        "summary": "The classic guide to value investing and long-term financial security."
+      },
+      {
+        "id": 512,
+        "title": "Your Money or Your Life",
+        "author": "Vicki Robin",
+        "summary": "Focuses on transforming your relationship with money to achieve financial independence."
+      }
+    ]
+  },
+  {
+    "id": "self_improvement_and_motivation",
+    "title": "Self-Improvement & Motivation",
+    "goal": "Strengthen personal discipline, resilience, and mindfulness for personal growth.",
+    "keyConcepts": [
+      "Personal effectiveness",
+      "Resilience and grit",
+      "Living in the present"
+    ],
+    "books": [
+      {
+        "id": 513,
+        "title": "The 7 Habits of Highly Effective People",
+        "author": "Stephen R. Covey",
+        "summary": "A framework for personal effectiveness through timeless habits and principles."
+      },
+      {
+        "id": 514,
+        "title": "Can’t Hurt Me",
+        "author": "David Goggins",
+        "summary": "A memoir of mental toughness, resilience, and breaking past self-imposed limits."
+      },
+      {
+        "id": 515,
+        "title": "The Power of Now",
+        "author": "Eckhart Tolle",
+        "summary": "A spiritual guide to mindfulness and living fully in the present moment."
+      }
+    ]
+  },
+  {
+    "id": "leadership_and_management",
+    "title": "Leadership & Management",
+    "goal": "Learn how to inspire, manage, and drive teams effectively.",
+    "keyConcepts": [
+      "Servant leadership",
+      "Team dynamics",
+      "Intrinsic motivation"
+    ],
+    "books": [
+      {
+        "id": 516,
+        "title": "Leaders Eat Last",
+        "author": "Simon Sinek",
+        "summary": "Explains how great leaders build trust and prioritize the well-being of their teams."
+      },
+      {
+        "id": 517,
+        "title": "The Five Dysfunctions of a Team",
+        "author": "Patrick Lencioni",
+        "summary": "A leadership fable highlighting common dysfunctions in teams and strategies to overcome them."
+      },
+      {
+        "id": 518,
+        "title": "Drive",
+        "author": "Daniel H. Pink",
+        "summary": "Reveals the surprising truth about what motivates people—autonomy, mastery, and purpose."
+      }
+    ]
+  },
+  {
+    "id": "philosophy_and_wisdom",
+    "title": "Philosophy & Wisdom",
+    "goal": "Develop deeper wisdom, ethical reasoning, and life perspective.",
+    "keyConcepts": [
+      "Stoicism",
+      "Justice and society",
+      "Courage and self-acceptance"
+    ],
+    "books": [
+      {
+        "id": 519,
+        "title": "Meditations",
+        "author": "Marcus Aurelius",
+        "summary": "Personal reflections on Stoic philosophy and practical wisdom for life."
+      },
+      {
+        "id": 520,
+        "title": "The Republic",
+        "author": "Plato",
+        "summary": "A foundational philosophical work on justice, politics, and the ideal state."
+      },
+      {
+        "id": 521,
+        "title": "The Courage to Be Disliked",
+        "author": "Ichiro Kishimi & Fumitake Koga",
+        "summary": "Explains Adlerian psychology in an accessible dialogue, focusing on self-acceptance and freedom."
+      }
+    ]
+  }
+]
+}
