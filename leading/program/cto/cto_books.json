@@ -84,6 +84,12 @@
       "author": "Geoffrey A. Moore",
       "summary": "Classic book on taking new technology to mainstream markets, focusing on the challenges of moving from early adopters to the majority.",
       "generative_title": "Crossing the Chasm by Geoffrey A. Moore",
+      "info": "../startup/startup_books/crossing_chasm_by_geoffrey/crossing_chasm_by_geoffrey_summary.json",
+      "strategies": "../startup/startup_books/crossing_chasm_by_geoffrey/crossing_chasm_by_geoffrey_strategies.json",
+      "studyPlan": {
+        "module_path": "../startup/startup_books/crossing_chasm_by_geoffrey/crossing_chasm_by_geoffrey_modules.json",
+        "lesson_path": "../startup/startup_books/crossing_chasm_by_geoffrey/crossing_chasm_by_geoffrey_lessons.json"
+      }
     },
     {
       "id": 201,
@@ -91,6 +97,12 @@
       "author": "Eric Ries",
       "summary": "Lays out a scientific approach to creating and managing successful startups through continuous innovation and validated learning.",
       "generative_title": "The Lean Startup by Eric Ries",
+      "info": "../startup/startup_books/lestartup_by_eric/lestartup_by_eric_summary.json",
+      "strategies": "../startup/startup_books/lestartup_by_eric/lestartup_by_eric_strategies.json",
+      "studyPlan": {
+        "module_path": "../startup/startup_books/lestartup_by_eric/lestartup_by_eric_modules.json",
+        "lesson_path": "../startup/startup_books/lestartup_by_eric/lestartup_by_eric_lessons.json"
+      }
     },
     {
       "id": 309,
