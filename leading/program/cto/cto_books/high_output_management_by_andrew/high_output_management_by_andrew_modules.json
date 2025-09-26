@@ -1,0 +1,67 @@
+{
+  "id": "high_output_management",
+  "title": "High Output Management",
+  "description": "High Output Management by Andrew Grove is a classic business management book focused on maximizing productivity and effectiveness in organizations. Grove, former CEO of Intel, shares practical frameworks for managing teams, running meetings, making decisions, and scaling output. The book emphasizes the importance of leverage, managerial processes, and systematic thinking in leadership. It is widely regarded as an essential guide for managers at any level seeking to improve their impact.",
+  "modules": [
+    {
+      "id": "management_fundamentals",
+      "title": "Management Fundamentals",
+      "goal": "Understand the basic principles and responsibilities of a high-output manager.",
+      "key_points": [
+        "Managers multiply output by influencing the work of others, not just through direct actions.",
+        "A manager's output is the sum of their own work plus the work of their subordinates and their subordinate\u2019s subordinates.",
+        "Leverage is achieved by focusing on activities that have the greatest impact on overall results."
+      ]
+    },
+    {
+      "id": "leveraging_activities",
+      "title": "Leveraging Activities",
+      "goal": "Learn how to maximize managerial leverage through effective activities and delegation.",
+      "key_points": [
+        "High-leverage activities, such as training and decision-making, have a major impact on organizational output.",
+        "Delegation is essential but requires clarity, oversight, and appropriate follow-up.",
+        "Managers should continuously seek ways to increase their leverage and avoid low-impact tasks."
+      ]
+    },
+    {
+      "id": "meetings_and_communication",
+      "title": "Meetings and Communication",
+      "goal": "Master the art of running productive meetings and fostering open communication.",
+      "key_points": [
+        "Meetings should have clear objectives: process-oriented, mission-oriented, or one-on-one.",
+        "One-on-one meetings are valuable for coaching, feedback, and problem-solving.",
+        "Effective communication within teams reduces misunderstandings and increases alignment."
+      ]
+    },
+    {
+      "id": "decision_making_and_planning",
+      "title": "Decision Making and Planning",
+      "goal": "Develop structured approaches to decision-making and planning for better outcomes.",
+      "key_points": [
+        "Managers should use systematic processes for analyzing problems and making decisions.",
+        "Planning involves both setting objectives and determining the actions to reach them.",
+        "Regular review of plans and progress helps ensure flexibility and responsiveness."
+      ]
+    },
+    {
+      "id": "performance_management",
+      "title": "Performance Management",
+      "goal": "Implement effective methods for measuring and improving team and individual performance.",
+      "key_points": [
+        "Setting clear performance standards and metrics is crucial for accountability.",
+        "Feedback should be frequent, specific, and focused on outcomes and behaviors.",
+        "Performance reviews are opportunities for growth, not just evaluation."
+      ]
+    },
+    {
+      "id": "scaling_and_growth",
+      "title": "Scaling and Growth",
+      "goal": "Apply strategies for scaling managerial effectiveness and organizational growth.",
+      "key_points": [
+        "As organizations grow, processes and structure become increasingly important.",
+        "Managers must adapt their style and responsibilities as their teams expand.",
+        "Continuous improvement and learning are essential for sustained high output."
+      ]
+    }
+  ]
+}

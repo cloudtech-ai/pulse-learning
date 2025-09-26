@@ -1,0 +1,65 @@
+{
+  "id": 6,
+  "title": "The Manager's Path",
+  "description": "A guide to navigating the complex journey of engineering management, from managing individuals to leading entire organizations.",
+  "videoPreview": "Navigating Management Challenges",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484107737i/33369254._SY475__.jpg",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Transitioning from Engineer to Manager",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Managing Individuals"
+    },
+    {
+      "id": 63,
+      "title": "Managing a Team"
+    },
+    {
+      "id": 64,
+      "title": "Managing Multiple Teams"
+    },
+    {
+      "id": 65,
+      "title": "Managing Managers"
+    },
+    {
+      "id": 66,
+      "title": "Managing a Senior Leadership Role"
+    },
+    {
+      "id": 67,
+      "title": "Mentoring and Coaching"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Manager's Path \u2013 Overview",
+      "id": "O-AMMiPSWmk"
+    },
+    {
+      "title": "Transitioning to Management",
+      "id": "0B1rDYwP6w4"
+    },
+    {
+      "title": "Effective Team Management",
+      "id": "kHqotfdgNdw"
+    },
+    {
+      "title": "Leading Multiple Teams",
+      "id": "3KCUrarL4hI"
+    },
+    {
+      "title": "Mentoring and Coaching Strategies",
+      "id": "NuIjg8Y-tdU"
+    },
+    {
+      "title": "The Manager's Path by Camille Fournier",
+      "id": "DeinU3-sqdo"
+    }
+  ],
+  "bookUrl": "/book/show/33369254-the-manager-s-path"
+}

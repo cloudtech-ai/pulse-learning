@@ -1,0 +1,170 @@
+[
+  {
+    "id": 51,
+    "bookId": 1,
+    "title": "Set Clear Objectives",
+    "summary": "Define ambitious, qualitative goals that provide direction and motivation.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Clear objectives give teams and individuals a sense of purpose and help prioritize efforts toward what truly matters."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of 'Improve sales,' set an objective like 'Expand our market presence in the Northeast region.'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Make objectives inspiring and easy to understand.",
+          "Limit the number of objectives to maintain focus.",
+          "Ensure objectives are aligned with the organization's mission."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "bookId": 1,
+    "title": "Define Measurable Key Results",
+    "summary": "Attach specific, quantifiable outcomes to each objective to track progress and success.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Measurable key results provide clarity on what success looks like and enable objective assessment of progress."
+      },
+      {
+        "section": "Example",
+        "content": "For the objective 'Expand our market presence,' a key result could be 'Sign 10 new clients in the Northeast region by Q3.'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use numbers and deadlines for each key result.",
+          "Limit key results to 2-5 per objective for focus.",
+          "Ensure key results are outcome-based, not activity-based."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "bookId": 1,
+    "title": "Align OKRs Across Teams",
+    "summary": "Ensure objectives and key results are coordinated across all levels and teams for unified progress.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Alignment prevents duplication of effort, clarifies priorities, and fosters collaboration toward shared goals."
+      },
+      {
+        "section": "Example",
+        "content": "If the company objective is 'Improve customer satisfaction,' the support team's OKR could be 'Reduce average response time to under 2 hours.'"
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Hold cross-team meetings to discuss and align OKRs.",
+          "Cascade objectives from company to team to individual levels.",
+          "Encourage transparency by sharing OKRs openly."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "bookId": 1,
+    "title": "Track Progress Regularly",
+    "summary": "Monitor advancement toward key results frequently to stay on course and make timely adjustments.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Regular tracking keeps teams accountable, surfaces obstacles early, and enables agile responses to challenges."
+      },
+      {
+        "section": "Example",
+        "content": "Hold weekly check-ins to review progress on key results and discuss any blockers."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Use dashboards or OKR software to visualize progress.",
+          "Schedule recurring OKR review meetings.",
+          "Celebrate small wins to maintain momentum."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "bookId": 1,
+    "title": "Foster a Culture of Accountability",
+    "summary": "Encourage ownership of objectives and key results at every level of the organization.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Accountability drives commitment, ensures follow-through, and builds trust within teams."
+      },
+      {
+        "section": "Example",
+        "content": "Team members publicly commit to their OKRs and regularly share updates on their progress."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Make OKRs visible to everyone in the organization.",
+          "Encourage honest reporting of progress and setbacks.",
+          "Recognize and reward accountability and results."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "bookId": 1,
+    "title": "Encourage Stretch Goals",
+    "summary": "Set ambitious targets that push teams beyond their comfort zones to achieve extraordinary results.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Stretch goals inspire innovation and drive higher performance, even if not fully achieved."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of aiming for a 5% increase in sales, set a stretch goal of 20% growth."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Frame stretch goals as opportunities for learning, not just targets.",
+          "Balance ambition with realism to avoid burnout.",
+          "Celebrate progress toward stretch goals, not just completion."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "bookId": 1,
+    "title": "Review and Reflect",
+    "summary": "Regularly evaluate outcomes, learn from successes and failures, and refine future OKRs.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Reflection enables continuous improvement, helps identify best practices, and prevents repeating mistakes."
+      },
+      {
+        "section": "Example",
+        "content": "At the end of each quarter, teams discuss what worked, what didn\u2019t, and how to improve next cycle\u2019s OKRs."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Schedule dedicated review sessions after each OKR cycle.",
+          "Encourage open, blame-free discussions about outcomes.",
+          "Document lessons learned and apply them to future planning."
+        ]
+      }
+    ]
+  }
+]

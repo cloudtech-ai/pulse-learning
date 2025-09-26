@@ -1,0 +1,87 @@
+{
+  "id": "drive_the_surprising_truth_about_what_motivates_us",
+  "title": "Drive: The Surprising Truth About What Motivates Us",
+  "description": "Drive by Daniel H. Pink explores the science of motivation, challenging traditional beliefs about what drives people to succeed. Drawing on decades of research, Pink argues that autonomy, mastery, and purpose are the true drivers of high performance and satisfaction. The book provides actionable insights for individuals, educators, and leaders seeking to foster motivation in themselves and others. Through engaging examples and practical advice, Pink redefines how we approach work, learning, and achievement.",
+  "modules": [
+    {
+      "id": "introduction_to_motivation",
+      "title": "Introduction to Motivation",
+      "goal": "Understand the traditional views of motivation and why they may be outdated.",
+      "key_points": [
+        "Traditional motivational models rely heavily on external rewards and punishments ('carrots and sticks').",
+        "Recent research suggests these approaches can be ineffective or even detrimental in modern contexts.",
+        "A shift toward intrinsic motivation is necessary for higher engagement and creativity."
+      ]
+    },
+    {
+      "id": "three_elements_of_motivation",
+      "title": "The Three Elements of Motivation",
+      "goal": "Identify and explain the three key components of intrinsic motivation.",
+      "key_points": [
+        "Autonomy: the desire to direct our own lives.",
+        "Mastery: the urge to get better at something that matters.",
+        "Purpose: the yearning to do what we do in the service of something larger than ourselves."
+      ]
+    },
+    {
+      "id": "autonomy_in_action",
+      "title": "Autonomy in Action",
+      "goal": "Explore how offering autonomy increases engagement and performance.",
+      "key_points": [
+        "People are more motivated when they have control over what they do, when they do it, and how they do it.",
+        "Autonomy can be implemented in workplaces, schools, and personal projects.",
+        "Empowering choice and flexibility leads to higher satisfaction and innovation."
+      ]
+    },
+    {
+      "id": "mastery_the_path_to_excellence",
+      "title": "Mastery: The Path to Excellence",
+      "goal": "Understand the importance of mastery and how to foster it.",
+      "key_points": [
+        "Mastery is an ongoing process, not a destination.",
+        "Pursuing mastery requires effort, practice, and resilience in the face of setbacks.",
+        "Organizations and educators can support mastery by providing feedback and opportunities for growth."
+      ]
+    },
+    {
+      "id": "purpose_finding_meaning",
+      "title": "Purpose: Finding Meaning in What We Do",
+      "goal": "Examine the role of purpose in sustaining motivation and fulfillment.",
+      "key_points": [
+        "Purpose connects individual effort to a broader meaning or societal good.",
+        "People are more motivated when they understand how their work contributes to a bigger picture.",
+        "Organizations can help by articulating clear missions and connecting employees to meaningful goals."
+      ]
+    },
+    {
+      "id": "rethinking_rewards",
+      "title": "Rethinking Rewards",
+      "goal": "Analyze the effects of external rewards and how to use them wisely.",
+      "key_points": [
+        "External rewards can undermine intrinsic motivation, especially for complex or creative tasks.",
+        "Rewards are most effective when unexpected or tied to genuine accomplishment.",
+        "Moving beyond 'if-then' rewards can foster deeper engagement and long-term motivation."
+      ]
+    },
+    {
+      "id": "practical_applications",
+      "title": "Practical Applications of Motivation Science",
+      "goal": "Learn how to apply motivation principles in work, education, and personal life.",
+      "key_points": [
+        "Leaders and educators can design environments that promote autonomy, mastery, and purpose.",
+        "Individuals can use these principles to set more meaningful goals and habits.",
+        "Pink offers actionable strategies for transforming organizations and classrooms."
+      ]
+    },
+    {
+      "id": "drive_in_review",
+      "title": "Drive in Review",
+      "goal": "Summarize the main lessons from the book and encourage ongoing reflection.",
+      "key_points": [
+        "Motivation is fueled by autonomy, mastery, and purpose\u2014not just external rewards.",
+        "Redesigning systems and mindsets around intrinsic motivation leads to greater success and satisfaction.",
+        "Ongoing self-reflection and adaptation are key to maintaining motivation in a changing world."
+      ]
+    }
+  ]
+}

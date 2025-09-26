@@ -1,0 +1,67 @@
+{
+  "id": "an_elegant_puzzle",
+  "title": "An Elegant Puzzle: Systems of Engineering Management",
+  "description": "An Elegant Puzzle by Will Larson explores the complex challenges of engineering management, offering actionable frameworks and insights for building resilient organizations. The book draws from Larson\u2019s extensive experience to tackle topics like team growth, technical debt, and organizational scaling. With a focus on systems thinking, it provides practical strategies for managers to optimize teams, foster healthy cultures, and navigate organizational change. The book is a guide for both new and experienced engineering managers seeking to improve effectiveness and lead high-performing teams.",
+  "modules": [
+    {
+      "id": "systems_thinking_in_management",
+      "title": "Systems Thinking in Engineering Management",
+      "goal": "Understand the value and application of systems thinking in managing engineering teams and organizations.",
+      "key_points": [
+        "Introduces the concept of systems thinking for addressing complex management problems.",
+        "Explains feedback loops, bottlenecks, and leverage points within engineering organizations.",
+        "Highlights the importance of holistic approaches over isolated solutions."
+      ]
+    },
+    {
+      "id": "team_organization_and_growth",
+      "title": "Team Organization and Growth",
+      "goal": "Learn how to structure, grow, and evolve engineering teams effectively.",
+      "key_points": [
+        "Discusses different team structures and their impact on productivity.",
+        "Explores strategies for hiring, onboarding, and developing engineers.",
+        "Addresses scaling teams while maintaining culture and quality."
+      ]
+    },
+    {
+      "id": "managing_technical_debt",
+      "title": "Managing Technical Debt",
+      "goal": "Identify, prioritize, and systematically address technical debt within engineering projects.",
+      "key_points": [
+        "Defines technical debt and its impact on long-term team efficiency.",
+        "Presents methods for measuring and communicating technical debt.",
+        "Shares frameworks for balancing technical debt with feature development."
+      ]
+    },
+    {
+      "id": "planning_and_execution",
+      "title": "Planning and Execution",
+      "goal": "Master strategies for setting goals, planning projects, and ensuring reliable delivery.",
+      "key_points": [
+        "Covers effective goal-setting and prioritization techniques.",
+        "Examines estimation, scheduling, and resource allocation.",
+        "Highlights the significance of adaptability and learning from failure."
+      ]
+    },
+    {
+      "id": "managing_through_change",
+      "title": "Managing Through Change",
+      "goal": "Develop skills for leading teams through periods of change and uncertainty.",
+      "key_points": [
+        "Explores approaches to organizational and cultural change.",
+        "Describes how to maintain morale and productivity during transitions.",
+        "Provides frameworks for clear communication and decision-making in uncertain environments."
+      ]
+    },
+    {
+      "id": "building_resilient_organizations",
+      "title": "Building Resilient Organizations",
+      "goal": "Apply principles for creating robust, adaptable, and healthy engineering organizations.",
+      "key_points": [
+        "Outlines practices for fostering psychological safety and trust.",
+        "Explains the role of infrastructure, process, and leadership in resilience.",
+        "Emphasizes continuous improvement and long-term sustainability."
+      ]
+    }
+  ]
+}

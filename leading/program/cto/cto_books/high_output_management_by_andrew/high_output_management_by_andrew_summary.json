@@ -1,0 +1,65 @@
+{
+  "id": 6,
+  "title": "High Output Management",
+  "description": "A guide to managing and leading teams effectively, focusing on output-oriented management techniques, decision-making processes, and performance measurement.",
+  "videoPreview": "Effective Management Techniques",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/nophoto/book/111x148._SY475__.png",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Output-Oriented Management",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Decision-Making Processes"
+    },
+    {
+      "id": 63,
+      "title": "Performance Measurement"
+    },
+    {
+      "id": 64,
+      "title": "Task Prioritization"
+    },
+    {
+      "id": 65,
+      "title": "Effective Meetings"
+    },
+    {
+      "id": 66,
+      "title": "Feedback and Coaching"
+    },
+    {
+      "id": 67,
+      "title": "Managing Teams"
+    }
+  ],
+  "videos": [
+    {
+      "title": "High Output Management \u2013 Overview",
+      "id": "SY64JpyBQyQ"
+    },
+    {
+      "title": "Decision-Making in Management",
+      "id": "Jg62oeEzMkU"
+    },
+    {
+      "title": "Measuring Performance Effectively",
+      "id": "LqqZYZJgjtA"
+    },
+    {
+      "title": "Conducting Effective Meetings",
+      "id": "wm0XtZ_K3kA"
+    },
+    {
+      "title": "Providing Feedback and Coaching",
+      "id": "4HF6cdN7bxk"
+    },
+    {
+      "title": "Managing and Leading Teams",
+      "id": "7eAh7uEFhdg"
+    }
+  ],
+  "bookUrl": "/book/show/138754841-high-output-management-by-grove-andrew-s-1st-edition-1983-hardcover"
+}

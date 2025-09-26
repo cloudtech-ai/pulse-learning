@@ -1,0 +1,67 @@
+{
+  "id": "team_topologies",
+  "title": "Team Topologies: Organizing Business and Technology Teams for Fast Flow",
+  "description": "Team Topologies provides a practical, modern framework for structuring technology teams to optimize for fast flow and effective collaboration. The authors introduce four fundamental team types and three key team interaction modes, helping organizations design teams that align with software architecture and business needs. By emphasizing team cognitive load, boundaries, and evolution, the book empowers leaders to create organizational structures that adapt to change and promote sustained delivery performance. The approach is rooted in real-world examples and actionable guidance for continuous improvement.",
+  "modules": [
+    {
+      "id": "foundations_of_team_topologies",
+      "title": "Foundations of Team Topologies",
+      "goal": "Understand the core concepts and reasons behind adopting a team-first approach.",
+      "key_points": [
+        "Explains the limitations of traditional org charts and the importance of team boundaries.",
+        "Introduces the concept of cognitive load and its impact on team performance.",
+        "Highlights the need for adaptive, responsive team structures."
+      ]
+    },
+    {
+      "id": "four_fundamental_team_types",
+      "title": "The Four Fundamental Team Types",
+      "goal": "Learn about the four team types and their roles in a modern software organization.",
+      "key_points": [
+        "Describes the purpose and characteristics of Stream-aligned, Enabling, Complicated Subsystem, and Platform teams.",
+        "Explains how each team type contributes to organizational goals.",
+        "Outlines when and why to create each team type."
+      ]
+    },
+    {
+      "id": "three_team_interaction_modes",
+      "title": "The Three Team Interaction Modes",
+      "goal": "Identify and apply effective modes of team interaction for different situations.",
+      "key_points": [
+        "Defines Collaboration, X-as-a-Service, and Facilitating interaction modes.",
+        "Explains when to use each interaction mode based on team context.",
+        "Discusses the importance of limiting unnecessary collaboration to reduce cognitive load."
+      ]
+    },
+    {
+      "id": "designing_team_structures_for_flow",
+      "title": "Designing Team Structures for Fast Flow",
+      "goal": "Apply Team Topologies principles to design team structures that enable fast, effective delivery.",
+      "key_points": [
+        "Explains how to align team boundaries with software architecture and value streams.",
+        "Discusses techniques for reducing handoffs and dependencies.",
+        "Covers the role of Conway\u2019s Law and team APIs in organization design."
+      ]
+    },
+    {
+      "id": "evolution_and_sensing_team_boundaries",
+      "title": "Evolution and Sensing Team Boundaries",
+      "goal": "Enable continuous improvement by monitoring and evolving team structures.",
+      "key_points": [
+        "Describes signals that indicate when team boundaries need to change.",
+        "Provides strategies for evolving team topologies as business and technology evolve.",
+        "Emphasizes feedback loops and organizational sensing mechanisms."
+      ]
+    },
+    {
+      "id": "practical_implementation_and_case_studies",
+      "title": "Practical Implementation and Case Studies",
+      "goal": "Translate Team Topologies theory into actionable steps using real-world examples.",
+      "key_points": [
+        "Shares case studies from organizations applying Team Topologies principles.",
+        "Provides guidance on overcoming common challenges in implementation.",
+        "Offers tips for leaders to drive culture change and sustain improvements."
+      ]
+    }
+  ]
+}

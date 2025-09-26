@@ -1,0 +1,68 @@
+{
+  "id": "measure_what_matters",
+  "title": "Measure What Matters",
+  "description": "Measure What Matters by John Doerr explores the power of setting and tracking Objectives and Key Results (OKRs) to drive organizational success. The book details how OKRs have been used by leading companies to foster focus, alignment, and accountability. Through real-world examples and actionable advice, Doerr illustrates how individuals and teams can set ambitious goals and measure progress. The book provides practical frameworks for leaders and contributors to implement OKRs in any environment.",
+  "modules": [
+    {
+      "id": "introduction_to_okrs",
+      "title": "Introduction to OKRs",
+      "goal": "Understand the fundamentals of Objectives and Key Results and why they matter.",
+      "key_points": [
+        "OKRs are a simple goal-setting framework that fosters clarity and alignment.",
+        "Objectives define what you want to achieve; Key Results measure progress toward that goal.",
+        "OKRs are designed to be transparent and ambitious, pushing teams beyond their comfort zones."
+      ]
+    },
+    {
+      "id": "benefits_of_okrs",
+      "title": "Benefits of OKRs",
+      "goal": "Recognize the key benefits of using OKRs within organizations.",
+      "key_points": [
+        "OKRs drive focus by identifying top priorities.",
+        "They align teams and individuals around common goals.",
+        "OKRs increase accountability through measurable outcomes.",
+        "The framework encourages continuous learning and adaptability."
+      ]
+    },
+    {
+      "id": "setting_effective_okrs",
+      "title": "Setting Effective OKRs",
+      "goal": "Learn how to create impactful, actionable, and measurable OKRs.",
+      "key_points": [
+        "Objectives should be qualitative, inspiring, and time-bound.",
+        "Key Results must be specific, quantitative, and challenging yet achievable.",
+        "OKRs should be revisited regularly to track progress and adjust as needed."
+      ]
+    },
+    {
+      "id": "okrs_in_practice",
+      "title": "OKRs in Practice",
+      "goal": "Explore real-world examples of OKRs implementation in leading organizations.",
+      "key_points": [
+        "Google used OKRs to drive rapid growth and innovation.",
+        "The Gates Foundation leveraged OKRs for social impact and measurement.",
+        "Success stories highlight the adaptability of OKRs across industries."
+      ]
+    },
+    {
+      "id": "common_challenges_and_solutions",
+      "title": "Common Challenges and Solutions",
+      "goal": "Identify obstacles to successful OKR adoption and strategies to overcome them.",
+      "key_points": [
+        "Resistance to change and lack of clarity can hinder OKR adoption.",
+        "Leadership commitment and transparency are critical for success.",
+        "Regular check-ins and feedback loops reinforce accountability."
+      ]
+    },
+    {
+      "id": "sustaining_a_culture_of_measurement",
+      "title": "Sustaining a Culture of Measurement",
+      "goal": "Understand how to foster a long-term culture of goal-setting and measurement.",
+      "key_points": [
+        "Integrate OKRs into daily routines and performance reviews.",
+        "Encourage open communication and celebrate achievements.",
+        "Continuously refine OKRs based on feedback and organizational growth."
+      ]
+    }
+  ]
+}

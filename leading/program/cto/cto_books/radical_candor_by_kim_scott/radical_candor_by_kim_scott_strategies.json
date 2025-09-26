@@ -1,0 +1,177 @@
+[
+  {
+    "id": 61,
+    "bookId": 5,
+    "title": "Care Personally",
+    "summary": "Show genuine concern for your colleagues as people, not just as employees.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Building trust and strong relationships is foundational for effective communication and feedback. People are more receptive to candor when they know you care about them as individuals."
+      },
+      {
+        "section": "Example",
+        "content": "Take time to ask about a team member\u2019s well-being or family, and remember important details about their lives."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Check in regularly with colleagues about non-work topics.",
+          "Listen actively and empathetically.",
+          "Remember and acknowledge important events in others\u2019 lives.",
+          "Offer support during difficult times."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 5,
+    "title": "Challenge Directly",
+    "summary": "Give clear, honest feedback\u2014even when it\u2019s uncomfortable.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Direct challenges help people grow and improve. Avoiding tough conversations can lead to misunderstandings and stagnation."
+      },
+      {
+        "section": "Example",
+        "content": "Tell a colleague directly when their work doesn\u2019t meet expectations, while also expressing your confidence in their ability to improve."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Be specific about what needs to change.",
+          "Focus on behaviors, not personalities.",
+          "Balance honesty with respect.",
+          "Prepare for the conversation but be open to dialogue."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 5,
+    "title": "Solicit Feedback",
+    "summary": "Actively seek input on your own performance and behavior.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Inviting feedback demonstrates humility and a willingness to grow. It also models the behavior you want to see in others."
+      },
+      {
+        "section": "Example",
+        "content": "Ask your team, 'What\u2019s one thing I could do better?' after a meeting or project."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Ask open-ended questions about your impact.",
+          "Listen without interrupting or defending.",
+          "Thank people for their honesty.",
+          "Act on the feedback you receive."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 5,
+    "title": "Give Praise",
+    "summary": "Recognize and celebrate others\u2019 achievements and positive behaviors.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Positive reinforcement encourages repeat behaviors and boosts morale. Genuine praise builds trust and motivation."
+      },
+      {
+        "section": "Example",
+        "content": "Publicly acknowledge a team member\u2019s creative solution to a challenging problem."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Be specific about what you\u2019re praising.",
+          "Deliver praise promptly.",
+          "Make it personal and sincere.",
+          "Balance public and private recognition based on the individual\u2019s preference."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 5,
+    "title": "Give Criticism",
+    "summary": "Offer constructive feedback to help others improve.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Constructive criticism is essential for growth and development. When delivered with care, it helps people correct course and reach their potential."
+      },
+      {
+        "section": "Example",
+        "content": "Privately let a colleague know that their recent report was unclear, and suggest ways to improve clarity next time."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Be timely and specific.",
+          "Focus on actions and outcomes, not character.",
+          "Offer suggestions for improvement.",
+          "Check in after to support progress."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "bookId": 5,
+    "title": "Gauge Reactions",
+    "summary": "Observe and respond to how others react to your feedback.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Understanding others\u2019 responses helps you adjust your approach and ensures your message is received as intended."
+      },
+      {
+        "section": "Example",
+        "content": "Notice if a team member becomes defensive or withdrawn after feedback, and follow up to clarify your intentions."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Watch for verbal and nonverbal cues.",
+          "Ask clarifying questions if someone seems upset.",
+          "Be willing to revisit the conversation.",
+          "Adjust your style based on individual needs."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "bookId": 5,
+    "title": "Encourage Growth",
+    "summary": "Support your colleagues\u2019 development and career aspirations.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Helping others grow fosters engagement, loyalty, and high performance. People thrive when they feel supported in their ambitions."
+      },
+      {
+        "section": "Example",
+        "content": "Help a team member identify stretch assignments or training opportunities aligned with their goals."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Discuss career aspirations regularly.",
+          "Provide resources and opportunities for learning.",
+          "Offer mentorship or coaching.",
+          "Celebrate progress and milestones."
+        ]
+      }
+    ]
+  }
+]

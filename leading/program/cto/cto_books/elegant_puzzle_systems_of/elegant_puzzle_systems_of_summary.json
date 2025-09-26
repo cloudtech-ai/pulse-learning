@@ -1,0 +1,69 @@
+{
+  "id": 6,
+  "title": "An Elegant Puzzle: Systems of Engineering Management",
+  "description": "A guide to solving complex organizational challenges in engineering management, focusing on balancing technical and human factors.",
+  "videoPreview": "Engineering Management Insights",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556221385i/45303387._SY475__.jpg",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Building Effective Teams",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Scaling Organizations"
+    },
+    {
+      "id": 63,
+      "title": "Managing Technical Debt"
+    },
+    {
+      "id": 64,
+      "title": "Career Development"
+    },
+    {
+      "id": 65,
+      "title": "Decision Making Frameworks"
+    },
+    {
+      "id": 66,
+      "title": "Cultural Change"
+    },
+    {
+      "id": 67,
+      "title": "Leadership and Influence"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Building and Leading Effective Teams",
+      "id": "_6j1aeXPhEk"
+    },
+    {
+      "title": "Scaling Engineering Organizations",
+      "id": "qz7uaQ8pjt8"
+    },
+    {
+      "title": "Managing Technical Debt in Engineering",
+      "id": "QzEs4rivVdQ"
+    },
+    {
+      "title": "Career Development in Tech",
+      "id": "k2Fr6ajRLvo"
+    },
+    {
+      "title": "Decision Making in Engineering Management",
+      "id": "lmLKy8Ht6WU"
+    },
+    {
+      "title": "Driving Cultural Change",
+      "id": "nmILyiph3A4"
+    },
+    {
+      "title": "An Elegant Puzzle: Systems of Engineering Management by Will Larson",
+      "id": "DsOyyigf5mM"
+    }
+  ],
+  "bookUrl": "/book/show/45303387-an-elegant-puzzle"
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1,
+  "title": "Team Topologies",
+  "description": "A practical guide to organizational design and team interaction patterns for IT companies, focusing on four fundamental team topologies and three core interaction modes to improve software delivery performance.",
+  "videoPreview": "Understanding Team Topologies",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563409554i/44135420._SY475__.jpg",
+  "keyStrategies": [
+    {
+      "id": 11,
+      "title": "Stream-Aligned Team",
+      "focused": true
+    },
+    {
+      "id": 12,
+      "title": "Enabling Team"
+    },
+    {
+      "id": 13,
+      "title": "Complicated Subsystem Team"
+    },
+    {
+      "id": 14,
+      "title": "Platform Team"
+    },
+    {
+      "id": 15,
+      "title": "Collaboration Mode"
+    },
+    {
+      "id": 16,
+      "title": "X-as-a-Service Mode"
+    },
+    {
+      "id": 17,
+      "title": "Facilitating Mode"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Introduction to Team Topologies",
+      "id": "LFetVTVJLJU"
+    },
+    {
+      "title": "Stream-Aligned Teams Explained",
+      "id": "bh7uUbdI21Y"
+    },
+    {
+      "title": "The Role of Enabling Teams",
+      "id": "g8y1J5OAzYY"
+    },
+    {
+      "title": "Understanding Complicated Subsystem Teams",
+      "id": "ai0vbQuipNw"
+    },
+    {
+      "title": "Team Interaction Modes",
+      "id": "5qZbusqmLfE"
+    },
+    {
+      "title": "Collaboration and X-as-a-Service",
+      "id": "uVi6wms4j_o"
+    },
+    {
+      "title": "Facilitating Mode in Practice",
+      "id": "va3l0s6VhOw"
+    },
+    {
+      "title": "Team Topologies by Matthew Skelton & Manuel Pais",
+      "id": "TMO776Yafmc"
+    }
+  ],
+  "bookUrl": "/book/show/44135420-team-topologies"
+}

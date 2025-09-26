@@ -1,0 +1,177 @@
+[
+  {
+    "id": 61,
+    "bookId": 1,
+    "title": "Transitioning from Engineer to Manager",
+    "summary": "Shift your mindset from individual contributor to leader, focusing on enabling others\u2019 success.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "The transition requires letting go of direct technical ownership and embracing responsibility for people, processes, and outcomes."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of writing code, you spend time in one-on-ones, helping team members solve blockers and grow in their roles."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Schedule regular one-on-ones with each team member.",
+          "Delegate technical tasks to others, focusing on guidance.",
+          "Seek feedback from peers and your own manager about your leadership style.",
+          "Reflect weekly on your impact as a manager versus as an engineer."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 1,
+    "title": "Managing Individuals",
+    "summary": "Support, develop, and motivate each team member to help them reach their potential.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Individual growth and satisfaction drive team performance and retention."
+      },
+      {
+        "section": "Example",
+        "content": "You notice an engineer is disengaged and, through regular check-ins, discover they want to work on more challenging projects."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Hold consistent one-on-ones focused on career development.",
+          "Give timely, specific feedback\u2014both positive and constructive.",
+          "Understand each person\u2019s strengths, goals, and motivations.",
+          "Advocate for growth opportunities tailored to individual interests."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 1,
+    "title": "Managing a Team",
+    "summary": "Foster collaboration, set clear goals, and build a healthy team culture.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "A cohesive team delivers better results and creates a positive work environment."
+      },
+      {
+        "section": "Example",
+        "content": "You facilitate a retrospective to address communication issues, leading to improved team dynamics."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set clear, shared goals and expectations.",
+          "Encourage open communication and psychological safety.",
+          "Celebrate team achievements and learn from failures together.",
+          "Regularly assess and address team health and morale."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 1,
+    "title": "Managing Multiple Teams",
+    "summary": "Coordinate across teams, align on strategy, and ensure effective collaboration.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Managing multiple teams requires balancing priorities and resolving cross-team dependencies."
+      },
+      {
+        "section": "Example",
+        "content": "You organize a cross-team planning session to synchronize project timelines and resource allocation."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Establish regular syncs between team leads.",
+          "Communicate organizational priorities clearly.",
+          "Identify and resolve inter-team blockers quickly.",
+          "Promote knowledge sharing and collaboration across teams."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 1,
+    "title": "Managing Managers",
+    "summary": "Lead through other managers by setting direction, coaching, and building a strong management layer.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Effective management at this level multiplies leadership impact and ensures organizational consistency."
+      },
+      {
+        "section": "Example",
+        "content": "You mentor a new manager on handling performance issues, helping them grow into their role."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Hold regular skip-level meetings to stay connected with all layers.",
+          "Coach managers on leadership and people development.",
+          "Set clear expectations for management responsibilities.",
+          "Encourage peer support and learning among managers."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "bookId": 1,
+    "title": "Managing a Senior Leadership Role",
+    "summary": "Shape organizational vision, influence company strategy, and lead through ambiguity.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Senior leaders set the tone for the organization and drive large-scale impact."
+      },
+      {
+        "section": "Example",
+        "content": "You work with executives to define a new product direction, aligning teams and resources to deliver on the vision."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Communicate vision and strategy clearly and frequently.",
+          "Build relationships with other senior leaders and stakeholders.",
+          "Anticipate and manage organizational change.",
+          "Model resilience and adaptability in the face of uncertainty."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "bookId": 1,
+    "title": "Mentoring and Coaching",
+    "summary": "Guide others\u2019 growth by sharing experience, asking questions, and providing support.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Mentoring and coaching develop future leaders and foster a culture of learning."
+      },
+      {
+        "section": "Example",
+        "content": "You help a team member navigate a challenging project by offering advice and encouraging self-reflection."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Listen actively and ask open-ended questions.",
+          "Share relevant experiences without prescribing solutions.",
+          "Encourage mentees to set and pursue their own goals.",
+          "Provide constructive feedback and celebrate progress."
+        ]
+      }
+    ]
+  }
+]

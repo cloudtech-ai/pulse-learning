@@ -1,0 +1,80 @@
+[
+  {
+    "id": 61,
+    "bookId": 7,
+    "title": "Autonomy",
+    "summary": "The desire to direct our own lives and have control over our work and decisions.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Autonomy increases motivation and engagement by allowing people to make choices about how they work, when they work, and what they work on. This sense of control leads to higher satisfaction and better performance."
+      },
+      {
+        "section": "Example",
+        "content": "An employee is given the freedom to choose their own project deadlines and methods, resulting in greater creativity and ownership of their work."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set your own goals and timelines where possible.",
+          "Negotiate for flexible work hours or remote work options.",
+          "Identify areas where you can make independent decisions.",
+          "Ask for projects that allow creative input.",
+          "Reflect regularly on what aspects of your work you control and seek to expand them."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 7,
+    "title": "Mastery",
+    "summary": "The urge to get better and better at something that matters to us.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Mastery is a key driver of intrinsic motivation. The process of continual improvement and learning keeps us engaged and fulfilled, even when progress is slow."
+      },
+      {
+        "section": "Example",
+        "content": "A musician practices daily, striving to improve their technique and learn new pieces, finding satisfaction in the gradual progress."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set specific, challenging, and achievable learning goals.",
+          "Seek regular feedback to guide your improvement.",
+          "Break big skills into smaller, manageable parts.",
+          "Embrace deliberate practice and be patient with setbacks.",
+          "Celebrate small wins and progress milestones."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 7,
+    "title": "Purpose",
+    "summary": "The sense that what we do produces something meaningful and serves something larger than ourselves.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Purpose connects our work to a broader mission, increasing motivation, resilience, and satisfaction. When we see how our efforts contribute to something bigger, we are more likely to persist and excel."
+      },
+      {
+        "section": "Example",
+        "content": "A teacher finds meaning in helping students grow and succeed, which motivates them to go above and beyond in their work."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Reflect on how your work benefits others or aligns with your values.",
+          "Connect daily tasks to larger goals or missions.",
+          "Share your purpose with colleagues or friends for accountability.",
+          "Seek out projects or roles that align with your sense of meaning.",
+          "Regularly revisit and refine your personal mission statement."
+        ]
+      }
+    ]
+  }
+]

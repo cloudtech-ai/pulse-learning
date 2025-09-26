@@ -1,0 +1,57 @@
+{
+  "id": 6,
+  "title": "Inspired: How To Create Products Customers Love",
+  "description": "A guide to building successful products by understanding customer needs, fostering innovation, and creating a strong product culture.",
+  "videoPreview": "Creating Products Customers Love",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/nophoto/book/111x148._SY475__.png",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Understand the Customer Problem",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Empower Product Teams"
+    },
+    {
+      "id": 63,
+      "title": "Focus on Outcomes, Not Output"
+    },
+    {
+      "id": 64,
+      "title": "Embrace Continuous Discovery"
+    },
+    {
+      "id": 65,
+      "title": "Build a Strong Product Culture"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Understanding Customer Needs",
+      "id": "2C-2v99paQM"
+    },
+    {
+      "title": "Empowering Product Teams",
+      "id": "CqJ4So-JjLA"
+    },
+    {
+      "title": "Focusing on Outcomes",
+      "id": "_4bd_TnrDPo"
+    },
+    {
+      "title": "Continuous Discovery",
+      "id": "9RFaz9ZBXpk"
+    },
+    {
+      "title": "Building Product Culture",
+      "id": "mdPCnOqFCDo"
+    },
+    {
+      "title": "Inspired: How To Create Products Customers Love by Marty Cagan",
+      "id": "2DFIjFqusVM"
+    }
+  ],
+  "bookUrl": "/book/show/218783054-inspired-how-to-create-tech-products-customers-love-by-marty-cagan-insp"
+}

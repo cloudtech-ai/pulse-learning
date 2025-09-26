@@ -1,0 +1,65 @@
+{
+  "id": 6,
+  "title": "Radical Candor",
+  "description": "A guide to effective leadership and communication by caring personally and challenging directly, fostering a culture of open feedback and growth.",
+  "videoPreview": "The Essence of Radical Candor",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482838407i/29939161._SY475__.jpg",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Care Personally",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Challenge Directly"
+    },
+    {
+      "id": 63,
+      "title": "Solicit Feedback"
+    },
+    {
+      "id": 64,
+      "title": "Give Praise"
+    },
+    {
+      "id": 65,
+      "title": "Give Criticism"
+    },
+    {
+      "id": 66,
+      "title": "Gauge Reactions"
+    },
+    {
+      "id": 67,
+      "title": "Encourage Growth"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Radical Candor \u2013 Overview of Key Concepts",
+      "id": "YLBDkz0TwLM"
+    },
+    {
+      "title": "How to Implement Radical Candor in Your Team",
+      "id": "O9hDTLo5rLA"
+    },
+    {
+      "title": "The Importance of Caring Personally",
+      "id": "uzDsT-25w14"
+    },
+    {
+      "title": "How to Challenge Directly",
+      "id": "Di5AmDOZYjE"
+    },
+    {
+      "title": "Giving and Receiving Feedback Effectively",
+      "id": "sPWRjjj2iok"
+    },
+    {
+      "title": "Building a Culture of Radical Candor",
+      "id": "zEo1xo3Fov4"
+    }
+  ],
+  "bookUrl": "/book/show/29939161-radical-candor"
+}

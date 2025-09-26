@@ -1,0 +1,97 @@
+{
+  "id": "the_managers_path",
+  "title": "The Manager's Path",
+  "description": "The Manager's Path by Camille Fournier is a comprehensive guide to navigating the technical management track, from mentorship to executive leadership. The book covers the unique challenges and responsibilities at each stage of an engineering manager's career, offering practical advice and real-world examples. It emphasizes the importance of communication, mentorship, team building, and strategic thinking. Readers gain actionable insights into managing individuals, leading teams, and driving organizational change in technical environments.",
+  "modules": [
+    {
+      "id": "introduction_to_technical_leadership",
+      "title": "Introduction to Technical Leadership",
+      "goal": "Understand the landscape of technical management and why strong leadership is critical in engineering organizations.",
+      "key_points": [
+        "Defines the difference between management and leadership in tech.",
+        "Explains why engineers need managers and what successful management looks like.",
+        "Outlines the career progression from individual contributor to high-level manager."
+      ]
+    },
+    {
+      "id": "being_a_mentor",
+      "title": "Being a Mentor",
+      "goal": "Learn the basics of mentorship and how to support peers and junior engineers effectively.",
+      "key_points": [
+        "Explains the role and responsibilities of a mentor in technical environments.",
+        "Provides guidance on giving constructive feedback and supporting career growth.",
+        "Discusses the mutual benefits of mentorship for both mentor and mentee."
+      ]
+    },
+    {
+      "id": "tech_lead_role",
+      "title": "The Tech Lead Role",
+      "goal": "Recognize the transition from individual contributor to tech lead and the new challenges it brings.",
+      "key_points": [
+        "Describes the expectations and responsibilities of a tech lead.",
+        "Covers balancing hands-on work with leadership duties.",
+        "Highlights the importance of communication and decision-making."
+      ]
+    },
+    {
+      "id": "managing_individuals",
+      "title": "Managing Individuals",
+      "goal": "Build foundational skills for managing individual engineers and their growth.",
+      "key_points": [
+        "Focuses on one-on-one meetings and career development.",
+        "Addresses performance management and setting clear expectations.",
+        "Discusses supporting engineers through challenges and feedback."
+      ]
+    },
+    {
+      "id": "managing_teams",
+      "title": "Managing Teams",
+      "goal": "Develop the skills needed to lead and scale engineering teams effectively.",
+      "key_points": [
+        "Covers team dynamics, motivation, and trust-building.",
+        "Explains conflict resolution and fostering collaboration.",
+        "Highlights the importance of hiring and onboarding."
+      ]
+    },
+    {
+      "id": "managing_multiple_teams",
+      "title": "Managing Multiple Teams",
+      "goal": "Prepare for the challenges of managing managers and overseeing several teams.",
+      "key_points": [
+        "Shares strategies for delegating and empowering direct reports.",
+        "Explains the importance of setting vision and priorities across teams.",
+        "Discusses managing up and aligning with organizational goals."
+      ]
+    },
+    {
+      "id": "director_and_vp_roles",
+      "title": "Director and VP Roles",
+      "goal": "Understand the expanded scope and responsibilities at senior management levels.",
+      "key_points": [
+        "Explains the shift from operational to strategic leadership.",
+        "Covers organizational design, scaling, and cross-functional collaboration.",
+        "Discusses influencing company culture and broader business impact."
+      ]
+    },
+    {
+      "id": "managing_change_and_growth",
+      "title": "Managing Change and Growth",
+      "goal": "Learn to lead teams and organizations through growth, change, and uncertainty.",
+      "key_points": [
+        "Addresses managing through organizational change and scaling challenges.",
+        "Highlights communication strategies during transitions.",
+        "Shares insights on resilience and adaptability for leaders."
+      ]
+    },
+    {
+      "id": "the_manager_s_path_summary",
+      "title": "The Manager's Path: Key Takeaways",
+      "goal": "Review essential lessons and actionable advice for technical leaders at every level.",
+      "key_points": [
+        "Summarizes critical skills for each management stage.",
+        "Encourages continuous learning and self-reflection.",
+        "Emphasizes the value of empathy, clarity, and vision in leadership."
+      ]
+    }
+  ]
+}

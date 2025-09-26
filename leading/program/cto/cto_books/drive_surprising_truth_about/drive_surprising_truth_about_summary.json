@@ -1,0 +1,33 @@
+{
+  "id": 6,
+  "title": "Drive: The Surprising Truth About What Motivates Us",
+  "description": "Explores the science of motivation, revealing the mismatch between what science knows and what business does, and how we can improve performance and satisfaction by focusing on autonomy, mastery, and purpose.",
+  "videoPreview": "The Puzzle of Motivation",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681600758i/121381148._SY475__.jpg",
+  "keyStrategies": [
+    {
+      "id": 61,
+      "title": "Autonomy",
+      "focused": true
+    },
+    {
+      "id": 62,
+      "title": "Mastery"
+    },
+    {
+      "id": 63,
+      "title": "Purpose"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Surprising Truth About What Motivates Us",
+      "id": "u6XAPnuFjJc"
+    },
+    {
+      "title": "Daniel Pink on the Science of Motivation",
+      "id": "pmVNhxQMCjk"
+    }
+  ],
+  "bookUrl": "/book/show/121381148-summary-of-drive"
+}

@@ -1,0 +1,177 @@
+[
+  {
+    "id": 11,
+    "bookId": 1,
+    "title": "Stream-Aligned Team",
+    "summary": "A team aligned to a single, valuable stream of work, empowered to deliver value end-to-end with minimal dependencies.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Stream-aligned teams reduce handoffs and dependencies, enabling faster delivery and clearer ownership of outcomes."
+      },
+      {
+        "section": "Example",
+        "content": "A product team responsible for the entire customer onboarding flow, from UI to backend, can iterate quickly and respond to feedback without waiting on other teams."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Define clear value streams based on business goals or customer journeys.",
+          "Empower teams with cross-functional skills to own delivery end-to-end.",
+          "Minimize dependencies with other teams by providing necessary autonomy.",
+          "Regularly review and adjust team boundaries as business needs evolve."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "bookId": 1,
+    "title": "Enabling Team",
+    "summary": "A team that helps other teams overcome obstacles, acquire missing capabilities, and adopt new practices or technologies.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Enabling teams accelerate learning and adoption of new skills, reducing friction and supporting continuous improvement."
+      },
+      {
+        "section": "Example",
+        "content": "A DevOps enablement team works with product teams to introduce CI/CD pipelines, providing hands-on guidance and training."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Identify capability gaps or bottlenecks in stream-aligned teams.",
+          "Work closely with teams for a limited time to transfer knowledge.",
+          "Focus on coaching, not taking over delivery responsibilities.",
+          "Rotate enabling team members to keep skills and perspectives fresh."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "bookId": 1,
+    "title": "Complicated Subsystem Team",
+    "summary": "A team responsible for building and maintaining parts of the system that require specialist knowledge and expertise.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Complex subsystems (e.g., algorithms, protocols) benefit from dedicated focus, reducing cognitive load for other teams."
+      },
+      {
+        "section": "Example",
+        "content": "A team of data scientists maintains the recommendation engine, providing a well-defined API for product teams to use."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Clearly define subsystem boundaries and interfaces.",
+          "Document APIs and provide support for consuming teams.",
+          "Limit the scope to genuinely complex or high-risk areas.",
+          "Regularly communicate with dependent teams to ensure alignment."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "bookId": 1,
+    "title": "Platform Team",
+    "summary": "A team that builds and maintains internal platforms to accelerate delivery by stream-aligned teams, reducing their cognitive load.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Platforms provide reusable services, tools, and infrastructure, enabling product teams to focus on delivering business value."
+      },
+      {
+        "section": "Example",
+        "content": "A platform team provides a self-service deployment platform, so product teams can deploy applications without deep infrastructure knowledge."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Treat platform as a product\u2014engage with users and gather feedback.",
+          "Provide clear documentation and easy onboarding.",
+          "Automate common tasks and offer self-service capabilities.",
+          "Continuously improve based on user needs and pain points."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "bookId": 1,
+    "title": "Collaboration Mode",
+    "summary": "A team interaction mode where two or more teams work closely together for a defined period to solve a complex problem or deliver a feature.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Collaboration mode enables rapid knowledge sharing and problem-solving when tackling uncertainty or integrating complex systems."
+      },
+      {
+        "section": "Example",
+        "content": "A product team and a platform team collaborate intensively for a sprint to integrate a new authentication service."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Define clear goals and timeframes for collaboration.",
+          "Ensure regular communication and shared decision-making.",
+          "Document learnings and outcomes for future reference.",
+          "Return to normal team boundaries once the goal is achieved."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "bookId": 1,
+    "title": "X-as-a-Service Mode",
+    "summary": "A team interaction mode where one team provides a well-defined service or capability to others via clear interfaces and documentation.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "X-as-a-Service mode reduces dependencies and enables teams to consume capabilities without deep knowledge of their implementation."
+      },
+      {
+        "section": "Example",
+        "content": "A platform team offers a logging service with a documented API, so product teams can easily integrate logging without building it themselves."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Define and document service interfaces and SLAs.",
+          "Automate onboarding and support processes where possible.",
+          "Monitor usage and gather feedback to improve the service.",
+          "Communicate changes and updates proactively to consumers."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "bookId": 1,
+    "title": "Facilitating Mode",
+    "summary": "A team interaction mode where one team helps another team improve its ways of working, often through coaching, workshops, or process improvements.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Facilitating mode accelerates learning and adoption of better practices, fostering a culture of continuous improvement."
+      },
+      {
+        "section": "Example",
+        "content": "An enabling team runs a workshop to help a product team adopt trunk-based development and improve deployment frequency."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Focus on enabling teams to solve their own problems.",
+          "Use workshops, pairing, and coaching to transfer knowledge.",
+          "Encourage experimentation and iterative improvement.",
+          "Follow up to ensure changes are sustained and effective."
+        ]
+      }
+    ]
+  }
+]

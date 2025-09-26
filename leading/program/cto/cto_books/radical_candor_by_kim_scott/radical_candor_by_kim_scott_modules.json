@@ -1,0 +1,87 @@
+{
+  "id": "radical_candor",
+  "title": "Radical Candor",
+  "description": "Radical Candor by Kim Scott explores the art of giving effective feedback, building strong relationships, and leading teams with empathy and directness. The book introduces the Radical Candor framework, which emphasizes caring personally while challenging directly. Through practical advice and real-world examples, readers learn how to foster open communication, address tough issues, and create a culture of trust and high performance. The book is an essential guide for anyone seeking to be a better boss, teammate, or communicator.",
+  "modules": [
+    {
+      "id": "introduction_to_radical_candor",
+      "title": "Introduction to Radical Candor",
+      "goal": "Understand the core concept and importance of Radical Candor.",
+      "key_points": [
+        "Radical Candor means caring personally and challenging directly.",
+        "It is a framework for giving and receiving feedback effectively.",
+        "Leaders must balance empathy and directness to build trust."
+      ]
+    },
+    {
+      "id": "the_radical_candor_framework",
+      "title": "The Radical Candor Framework",
+      "goal": "Learn about the four quadrants of the Radical Candor feedback model.",
+      "key_points": [
+        "The framework consists of Radical Candor, Obnoxious Aggression, Ruinous Empathy, and Manipulative Insincerity.",
+        "Radical Candor is the ideal: caring personally while challenging directly.",
+        "Understanding the other three quadrants helps avoid common feedback pitfalls."
+      ]
+    },
+    {
+      "id": "building_trust_and_relationships",
+      "title": "Building Trust and Relationships",
+      "goal": "Discover strategies for building meaningful relationships at work.",
+      "key_points": [
+        "Strong relationships are the foundation of effective leadership.",
+        "Take time to get to know team members personally and professionally.",
+        "Trust enables open communication and honest feedback."
+      ]
+    },
+    {
+      "id": "giving_and_receiving_feedback",
+      "title": "Giving and Receiving Feedback",
+      "goal": "Master practical techniques for delivering and accepting feedback.",
+      "key_points": [
+        "Feedback should be specific, sincere, and delivered in a timely manner.",
+        "Encourage two-way feedback to foster a culture of improvement.",
+        "Receiving feedback graciously is as important as giving it."
+      ]
+    },
+    {
+      "id": "guidance_and_growth",
+      "title": "Guidance and Growth",
+      "goal": "Understand how Radical Candor supports team development and personal growth.",
+      "key_points": [
+        "Regular guidance helps individuals learn, grow, and improve.",
+        "Use Radical Candor to help team members achieve their full potential.",
+        "Coaching, praise, and criticism are all crucial for development."
+      ]
+    },
+    {
+      "id": "creating_a_culture_of_radical_candor",
+      "title": "Creating a Culture of Radical Candor",
+      "goal": "Explore how to embed Radical Candor in team and organizational culture.",
+      "key_points": [
+        "Model Radical Candor as a leader to inspire others.",
+        "Establish norms for open, honest, and respectful communication.",
+        "Address resistance and create psychological safety for all team members."
+      ]
+    },
+    {
+      "id": "overcoming_challenges_and_common_mistakes",
+      "title": "Overcoming Challenges and Common Mistakes",
+      "goal": "Identify and address obstacles to practicing Radical Candor.",
+      "key_points": [
+        "Common mistakes include being too harsh or too lenient.",
+        "Recognize and correct drift into other feedback quadrants.",
+        "Handle difficult conversations with empathy and clarity."
+      ]
+    },
+    {
+      "id": "radical_candor_in_action",
+      "title": "Radical Candor in Action",
+      "goal": "See real-world examples and applications of Radical Candor principles.",
+      "key_points": [
+        "Case studies illustrate successes and failures in Radical Candor.",
+        "Practical tips for applying Radical Candor in diverse workplace scenarios.",
+        "Continuous practice is required to master Radical Candor."
+      ]
+    }
+  ]
+}

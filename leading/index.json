@@ -16,8 +16,8 @@
   {
     "id": "003-CTO",
     "name": "CTO",
-    "file": "program/cto/books.json",
+    "file": "program/cto/cto_books.json",
     "summary": "A collection of resources and strategies for CTOs to lead technology teams effectively.",
-    "last_updated_utc": "2025-07-08T05:14:38Z"
+    "last_updated_utc": "2025-09-25T05:14:38Z"
   }
 ]

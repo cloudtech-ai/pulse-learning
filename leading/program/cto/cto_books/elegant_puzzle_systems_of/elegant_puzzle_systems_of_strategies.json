@@ -1,0 +1,184 @@
+[
+  {
+    "id": 61,
+    "bookId": 1,
+    "title": "Building Effective Teams",
+    "summary": "Create high-performing, collaborative teams by focusing on trust, clear goals, and healthy communication.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Effective teams are the foundation of successful engineering organizations. They deliver better results, adapt to change, and foster innovation."
+      },
+      {
+        "section": "Example",
+        "content": "A team with clear roles, regular retrospectives, and open feedback channels consistently delivers high-quality features and quickly resolves conflicts."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Define clear team goals and responsibilities.",
+          "Foster psychological safety and trust.",
+          "Encourage open and honest communication.",
+          "Hold regular retrospectives to reflect and improve.",
+          "Celebrate team successes and learn from failures."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 1,
+    "title": "Scaling Organizations",
+    "summary": "Grow your organization sustainably by evolving processes, structures, and communication as the team expands.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "As organizations grow, complexity increases. Scaling effectively prevents bottlenecks, miscommunication, and loss of culture."
+      },
+      {
+        "section": "Example",
+        "content": "Introducing cross-team sync meetings and clear escalation paths helps a growing engineering org maintain alignment and momentum."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Document and standardize key processes.",
+          "Invest in onboarding and mentorship.",
+          "Regularly assess and adjust team structures.",
+          "Establish clear communication channels.",
+          "Monitor for signs of process or communication breakdown."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 1,
+    "title": "Managing Technical Debt",
+    "summary": "Balance delivering new features with maintaining and improving existing systems to avoid long-term slowdowns.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Unchecked technical debt leads to slower development, more bugs, and lower morale. Proactive management keeps systems healthy."
+      },
+      {
+        "section": "Example",
+        "content": "A team schedules regular 'debt sprints' to refactor legacy code, reducing incidents and improving developer productivity."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Track and prioritize technical debt items.",
+          "Allocate time for debt reduction in each sprint.",
+          "Communicate the impact of debt to stakeholders.",
+          "Refactor incrementally rather than in large rewrites.",
+          "Celebrate progress on reducing technical debt."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 1,
+    "title": "Career Development",
+    "summary": "Support engineers\u2019 growth through feedback, mentorship, and clear advancement paths.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Career growth opportunities increase retention, motivation, and team capability."
+      },
+      {
+        "section": "Example",
+        "content": "A manager holds regular 1:1s to discuss goals, provides stretch assignments, and helps engineers prepare for promotions."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Hold regular career conversations with team members.",
+          "Provide actionable feedback and coaching.",
+          "Offer mentorship and learning opportunities.",
+          "Define and communicate clear promotion criteria.",
+          "Encourage ownership of personal development."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 1,
+    "title": "Decision Making Frameworks",
+    "summary": "Use structured approaches to make transparent, consistent, and effective decisions.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Frameworks reduce bias, clarify trade-offs, and build trust in leadership decisions."
+      },
+      {
+        "section": "Example",
+        "content": "A team uses a RACI matrix to clarify roles and a decision log to document major choices and their rationale."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Adopt frameworks like RACI, DACI, or decision logs.",
+          "Clearly define who is responsible and accountable.",
+          "Document decisions and reasoning.",
+          "Review and iterate on frameworks as needed.",
+          "Encourage input from diverse perspectives."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "bookId": 1,
+    "title": "Cultural Change",
+    "summary": "Intentionally shape and evolve organizational culture to support desired behaviors and outcomes.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Culture drives how people interact, solve problems, and respond to challenges. Healthy cultures enable high performance."
+      },
+      {
+        "section": "Example",
+        "content": "Leadership models vulnerability and openness, encouraging a culture where feedback is valued and mistakes are seen as learning opportunities."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Model desired behaviors as a leader.",
+          "Communicate values and expectations clearly.",
+          "Recognize and reward cultural exemplars.",
+          "Address toxic behaviors promptly.",
+          "Gather feedback on cultural health regularly."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "bookId": 1,
+    "title": "Leadership and Influence",
+    "summary": "Lead by example, inspire others, and drive positive change through influence rather than authority.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Effective leaders motivate teams, build trust, and create environments where people do their best work."
+      },
+      {
+        "section": "Example",
+        "content": "A leader earns trust by consistently supporting their team, advocating for their needs, and communicating transparently during change."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Lead with empathy and integrity.",
+          "Communicate vision and purpose clearly.",
+          "Empower others to take ownership.",
+          "Build relationships across the organization.",
+          "Seek feedback and continuously improve your leadership style."
+        ]
+      }
+    ]
+  }
+]

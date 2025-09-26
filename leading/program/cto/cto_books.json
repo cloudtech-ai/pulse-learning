@@ -1,0 +1,122 @@
+{
+  "books": [
+    {
+      "id": 301,
+      "title": "The Manager's Path",
+      "author": "Camille Fournier",
+      "summary": "A practical guide to growing as an engineering leader, covering mentoring, managing teams, and organizational structure.",
+      "generative_title": "The Manager's Path by Camille Fournier",
+      "info": "cto_books/managers_path_by_camille/managers_path_by_camille_summary.json",
+      "strategies": "cto_books/managers_path_by_camille/managers_path_by_camille_strategies.json",
+      "studyPlan": {
+        "module_path": "cto_books/managers_path_by_camille/managers_path_by_camille_modules.json",
+        "lesson_path": "cto_books/managers_path_by_camille/managers_path_by_camille_lessons.json"
+      }
+    },
+    {
+      "id": 302,
+      "title": "An Elegant Puzzle: Systems of Engineering Management",
+      "author": "Will Larson",
+      "summary": "Explores engineering management at scale, providing frameworks for team organization, growth, and effective leadership.",
+      "generative_title": "An Elegant Puzzle: Systems of Engineering Management by Will Larson",
+      "info": "cto_books/elegant_puzzle_systems_of/elegant_puzzle_systems_of_summary.json",
+      "strategies": "cto_books/elegant_puzzle_systems_of/elegant_puzzle_systems_of_strategies.json",
+      "studyPlan": {
+        "module_path": "cto_books/elegant_puzzle_systems_of/elegant_puzzle_systems_of_modules.json",
+        "lesson_path": "cto_books/elegant_puzzle_systems_of/elegant_puzzle_systems_of_lessons.json"
+      }
+    },
+    {
+      "id": 303,
+      "title": "Team Topologies",
+      "author": "Matthew Skelton & Manuel Pais",
+      "summary": "Explains how to design teams for fast flow and organizational effectiveness, introducing team types and interaction modes.",
+      "generative_title": "Team Topologies by Matthew Skelton & Manuel Pais",
+      "info": "cto_books/team_topologies_by_matthew_skelton/team_topologies_by_matthew_skelton_summary.json",
+      "strategies": "cto_books/team_topologies_by_matthew_skelton/team_topologies_by_matthew_skelton_strategies.json",
+      "studyPlan": {
+        "module_path": "cto_books/team_topologies_by_matthew_skelton/team_topologies_by_matthew_skelton_modules.json",
+        "lesson_path": "cto_books/team_topologies_by_matthew_skelton/team_topologies_by_matthew_skelton_lessons.json"
+      }
+    },
+    {
+      "id": 304,
+      "title": "Radical Candor",
+      "author": "Kim Scott",
+      "summary": "Shows leaders how to care personally and challenge directly, fostering honest communication and strong relationships.",
+      "generative_title": "Radical Candor by Kim Scott",
+      "info": "cto_books/radical_candor_by_kim_scott/radical_candor_by_kim_scott_summary.json",
+      "strategies": "cto_books/radical_candor_by_kim_scott/radical_candor_by_kim_scott_strategies.json",
+      "studyPlan": {
+        "module_path": "cto_books/radical_candor_by_kim_scott/radical_candor_by_kim_scott_modules.json",
+        "lesson_path": "cto_books/radical_candor_by_kim_scott/radical_candor_by_kim_scott_lessons.json"
+      }
+    },
+    {
+      "id": 305,
+      "title": "Drive: The Surprising Truth About What Motivates Us",
+      "author": "Daniel H. Pink",
+      "summary": "Explores the science of motivation, focusing on autonomy, mastery, and purpose as drivers of high performance.",
+      "generative_title": "Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink",
+      "info": "cto_books/drive_surprising_truth_about/drive_surprising_truth_about_summary.json",
+      "strategies": "cto_books/drive_surprising_truth_about/drive_surprising_truth_about_strategies.json",
+      "studyPlan": {
+        "module_path": "cto_books/drive_surprising_truth_about/drive_surprising_truth_about_modules.json",
+        "lesson_path": "cto_books/drive_surprising_truth_about/drive_surprising_truth_about_lessons.json"
+      }
+    },
+    {
+      "id": 306,
+      "title": "Inspired: How To Create Products Customers Love",
+      "author": "Marty Cagan",
+      "summary": "A comprehensive guide to building products customers want, from idea to launch, emphasizing customer discovery and product teams.",
+      "generative_title": "Inspired: How To Create Products Customers Love by Marty Cagan",
+      "info": "cto_books/inspired_how_to_create_products/inspired_how_to_create_products_summary.json",
+      "strategies": "cto_books/inspired_how_to_create_products/inspired_how_to_create_products_strategies.json",
+      "studyPlan": {
+        "module_path": "cto_books/inspired_how_to_create_products/inspired_how_to_create_products_modules.json",
+        "lesson_path": "cto_books/inspired_how_to_create_products/inspired_how_to_create_products_lessons.json"
+      }
+    },
+    {
+      "id": 205,
+      "title": "Crossing the Chasm",
+      "author": "Geoffrey A. Moore",
+      "summary": "Classic book on taking new technology to mainstream markets, focusing on the challenges of moving from early adopters to the majority.",
+      "generative_title": "Crossing the Chasm by Geoffrey A. Moore",
+    },
+    {
+      "id": 201,
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "summary": "Lays out a scientific approach to creating and managing successful startups through continuous innovation and validated learning.",
+      "generative_title": "The Lean Startup by Eric Ries",
+    },
+    {
+      "id": 309,
+      "title": "High Output Management",
+      "author": "Andrew Grove",
+      "summary": "Legendary management book focusing on the principles of effective operations, productivity, and scaling organizations.",
+      "generative_title": "High Output Management by Andrew Grove",
+      "info": "cto_books/high_output_management_by_andrew/high_output_management_by_andrew_summary.json",
+      "strategies": "cto_books/high_output_management_by_andrew/high_output_management_by_andrew_strategies.json",
+      "studyPlan": {
+        "module_path": "cto_books/high_output_management_by_andrew/high_output_management_by_andrew_modules.json",
+        "lesson_path": "cto_books/high_output_management_by_andrew/high_output_management_by_andrew_lessons.json"
+      }
+    },
+    {
+      "id": 310,
+      "title": "Measure What Matters",
+      "author": "John Doerr",
+      "summary": "Explains how to use Objectives and Key Results (OKRs) to focus, align, and achieve breakthrough results in any organization.",
+      "generative_title": "Measure What Matters by John Doerr",
+      "info": "cto_books/measure_what_matters_by_john/measure_what_matters_by_john_summary.json",
+      "strategies": "cto_books/measure_what_matters_by_john/measure_what_matters_by_john_strategies.json",
+      "studyPlan": {
+        "module_path": "cto_books/measure_what_matters_by_john/measure_what_matters_by_john_modules.json",
+        "lesson_path": "cto_books/measure_what_matters_by_john/measure_what_matters_by_john_lessons.json"
+      }
+    }
+  ]
+}

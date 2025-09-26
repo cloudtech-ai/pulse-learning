@@ -1,0 +1,177 @@
+[
+  {
+    "id": 61,
+    "bookId": 1,
+    "title": "Output-Oriented Management",
+    "summary": "Focus on maximizing the output of your team or organization, not just activity or effort.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Prioritizing output ensures that resources and time are spent on activities that drive results, rather than just keeping busy."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of tracking hours worked, a manager measures the number of completed projects that meet quality standards."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Define clear output metrics for your team.",
+          "Regularly review progress against these metrics.",
+          "Encourage team members to focus on end results, not just process.",
+          "Eliminate or delegate tasks that do not contribute to key outputs."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 1,
+    "title": "Decision-Making Processes",
+    "summary": "Adopt structured approaches to making decisions efficiently and effectively.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Clear decision-making reduces confusion, speeds up execution, and increases accountability."
+      },
+      {
+        "section": "Example",
+        "content": "A team uses a decision matrix to evaluate and choose between competing project proposals."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Clarify who is responsible for making each decision.",
+          "Gather relevant data before deciding.",
+          "Encourage open discussion and dissent before finalizing decisions.",
+          "Document decisions and communicate them clearly."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 1,
+    "title": "Performance Measurement",
+    "summary": "Implement systems to objectively measure and track performance at individual and team levels.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Measuring performance helps identify strengths, weaknesses, and opportunities for improvement."
+      },
+      {
+        "section": "Example",
+        "content": "A manager sets quarterly goals and uses key performance indicators (KPIs) to track progress."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Define measurable goals for each role.",
+          "Review performance data regularly.",
+          "Provide feedback based on objective results.",
+          "Adjust goals and metrics as needed to stay aligned with business objectives."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 1,
+    "title": "Task Prioritization",
+    "summary": "Systematically prioritize tasks to ensure the most important work gets done first.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Prioritization prevents wasted effort and ensures that critical objectives are met on time."
+      },
+      {
+        "section": "Example",
+        "content": "A manager uses the Eisenhower Matrix to distinguish between urgent and important tasks."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "List all tasks and rank them by impact and urgency.",
+          "Delegate or defer low-priority tasks.",
+          "Review priorities daily or weekly.",
+          "Communicate priorities clearly to your team."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 1,
+    "title": "Effective Meetings",
+    "summary": "Run meetings that are purposeful, time-efficient, and result in clear outcomes.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Well-run meetings save time, foster collaboration, and drive action."
+      },
+      {
+        "section": "Example",
+        "content": "A team leader sends an agenda before the meeting and ends with clear action items and owners."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set a clear agenda and share it in advance.",
+          "Start and end meetings on time.",
+          "Assign roles (facilitator, note-taker, timekeeper).",
+          "Summarize decisions and next steps at the end."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "bookId": 1,
+    "title": "Feedback and Coaching",
+    "summary": "Provide regular, constructive feedback and coaching to help team members grow and improve.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Feedback and coaching drive continuous improvement and employee engagement."
+      },
+      {
+        "section": "Example",
+        "content": "A manager schedules monthly 1:1s to discuss progress, challenges, and development goals."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Give feedback promptly and specifically.",
+          "Balance positive and constructive feedback.",
+          "Set clear expectations for improvement.",
+          "Support team members with resources and guidance."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "bookId": 1,
+    "title": "Managing Teams",
+    "summary": "Lead teams by setting direction, building trust, and enabling collaboration.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Effective team management boosts morale, productivity, and innovation."
+      },
+      {
+        "section": "Example",
+        "content": "A manager holds regular team check-ins to align on goals and address obstacles together."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set clear team goals and roles.",
+          "Foster open communication and psychological safety.",
+          "Recognize and celebrate team achievements.",
+          "Resolve conflicts quickly and fairly."
+        ]
+      }
+    ]
+  }
+]

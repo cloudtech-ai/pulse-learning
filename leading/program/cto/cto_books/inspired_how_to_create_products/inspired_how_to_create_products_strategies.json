@@ -1,0 +1,127 @@
+[
+  {
+    "id": 61,
+    "bookId": 1,
+    "title": "Understand the Customer Problem",
+    "summary": "Deeply explore and validate the real problems customers face before building solutions.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Building products based on assumptions or internal opinions often leads to solutions that customers don\u2019t need or want. Understanding the real customer problem ensures you create value and reduce wasted effort."
+      },
+      {
+        "section": "Example",
+        "content": "A team interviews users and discovers that their main pain point is not the lack of features, but the complexity of the current workflow. This insight leads to a redesign focused on simplicity."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Conduct regular customer interviews and observations.",
+          "Use techniques like problem interviews, journey mapping, and empathy mapping.",
+          "Validate assumptions with real users before moving to solutions.",
+          "Document and share customer insights with the team."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bookId": 1,
+    "title": "Empower Product Teams",
+    "summary": "Give product teams autonomy and responsibility to solve customer problems in ways they see fit.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Empowered teams are more motivated, innovative, and accountable. They are closer to the customer and can make better decisions quickly, leading to better products."
+      },
+      {
+        "section": "Example",
+        "content": "Instead of prescribing solutions, leadership gives the team a clear objective (e.g., reduce onboarding time) and lets them experiment and decide how to achieve it."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Set clear goals and desired outcomes, not tasks.",
+          "Encourage cross-functional collaboration within teams.",
+          "Trust teams to make decisions and learn from failures.",
+          "Provide support and resources, but avoid micromanagement."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bookId": 1,
+    "title": "Focus on Outcomes, Not Output",
+    "summary": "Prioritize the impact your product has on users and the business, rather than the number of features delivered.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Measuring success by output (features shipped) can lead to bloated products and wasted effort. Focusing on outcomes ensures you\u2019re solving real problems and delivering value."
+      },
+      {
+        "section": "Example",
+        "content": "A team shifts from tracking the number of releases to measuring user engagement and satisfaction, leading to more meaningful improvements."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Define clear, measurable outcomes for each initiative.",
+          "Use metrics like customer satisfaction, retention, or task completion rates.",
+          "Regularly review progress against outcomes, not just deliverables.",
+          "Celebrate impact, not just activity."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bookId": 1,
+    "title": "Embrace Continuous Discovery",
+    "summary": "Make learning about customers and their needs an ongoing process, not a one-time event.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "Customer needs and markets evolve. Continuous discovery helps teams stay aligned with real problems and opportunities, reducing risk and increasing product relevance."
+      },
+      {
+        "section": "Example",
+        "content": "A team schedules weekly customer interviews and usability tests, quickly iterating on ideas based on feedback."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Schedule regular customer touchpoints (interviews, surveys, tests).",
+          "Share discovery insights with the whole team.",
+          "Use rapid prototyping and experimentation.",
+          "Document and revisit learnings frequently."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bookId": 1,
+    "title": "Build a Strong Product Culture",
+    "summary": "Foster an environment where product thinking, collaboration, and customer focus are valued and practiced.",
+    "details": [
+      {
+        "section": "Why it matters",
+        "content": "A strong product culture attracts and retains talent, encourages innovation, and ensures everyone is aligned around delivering value to customers."
+      },
+      {
+        "section": "Example",
+        "content": "A company celebrates learning from failed experiments and regularly shares customer stories to keep teams inspired and focused."
+      },
+      {
+        "section": "Practice Tips",
+        "content": [
+          "Encourage open communication and cross-functional collaboration.",
+          "Reward learning, experimentation, and customer-centricity.",
+          "Invest in ongoing training and development.",
+          "Make customer impact a core value in decision-making."
+        ]
+      }
+    ]
+  }
+]

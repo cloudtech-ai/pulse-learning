@@ -1,0 +1,77 @@
+{
+  "id": 5,
+  "title": "Measure What Matters",
+  "description": "A guide to implementing Objectives and Key Results (OKRs) to drive focus, alignment, and engagement within organizations.",
+  "videoPreview": "Introduction to OKRs",
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534119932i/41131223._SY475__.jpg",
+  "keyStrategies": [
+    {
+      "id": 51,
+      "title": "Set Clear Objectives",
+      "focused": true
+    },
+    {
+      "id": 52,
+      "title": "Define Measurable Key Results"
+    },
+    {
+      "id": 53,
+      "title": "Align OKRs Across Teams"
+    },
+    {
+      "id": 54,
+      "title": "Track Progress Regularly"
+    },
+    {
+      "id": 55,
+      "title": "Foster a Culture of Accountability"
+    },
+    {
+      "id": 56,
+      "title": "Encourage Stretch Goals"
+    },
+    {
+      "id": 57,
+      "title": "Review and Reflect"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Introduction to OKRs",
+      "id": "2V8G7XnhBfs"
+    },
+    {
+      "title": "How to Set Effective OKRs",
+      "id": "KPAIaEv6N1s"
+    },
+    {
+      "title": "Aligning OKRs Across Teams",
+      "id": "f_jwEu0JoX0"
+    },
+    {
+      "title": "Tracking OKR Progress",
+      "id": "C9byWdxfonI"
+    },
+    {
+      "title": "Creating a Culture of Accountability with OKRs",
+      "id": "BDoikELB27E"
+    },
+    {
+      "title": "Encouraging Stretch Goals",
+      "id": "p5smj9VprQw"
+    },
+    {
+      "title": "Reviewing and Reflecting on OKRs",
+      "id": "i9WYNhiMQ-c"
+    },
+    {
+      "title": "The Impact of OKRs on Company Culture",
+      "id": "bQyWooehppY"
+    },
+    {
+      "title": "Measure What Matters by John Doerr",
+      "id": "DXSIHm115gk"
+    }
+  ],
+  "bookUrl": "/book/show/41131223-summary"
+}

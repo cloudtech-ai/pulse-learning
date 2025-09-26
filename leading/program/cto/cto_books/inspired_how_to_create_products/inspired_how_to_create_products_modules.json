@@ -1,0 +1,57 @@
+{
+  "id": "inspired_cagan",
+  "title": "Inspired: How To Create Products Customers Love",
+  "description": "Inspired by Marty Cagan is a comprehensive guide for product managers, designers, and technology leaders on building successful products. The book emphasizes the importance of understanding customers, empowering teams, and creating a strong product culture. It covers practical methods, leadership insights, and real-world examples to help organizations deliver products that are both valuable and loved by users. Through actionable advice and frameworks, Cagan reveals what separates great product teams from the rest, making this book essential reading for anyone involved in product creation.",
+  "modules": [
+    {
+      "id": "role_of_product_management",
+      "title": "The Role of Product Management",
+      "goal": "Understand the fundamental responsibilities and mindset of effective product managers.",
+      "key_points": [
+        "Product managers are responsible for maximizing the value of products by deeply understanding customer problems.",
+        "Great product managers act as the voice of the customer and bridge between business, design, and engineering.",
+        "The role requires strong leadership, decision-making, and collaboration skills."
+      ]
+    },
+    {
+      "id": "product_teams_and_culture",
+      "title": "Product Teams and Culture",
+      "goal": "Recognize the importance of empowered, cross-functional teams and a supportive product culture.",
+      "key_points": [
+        "High-performing teams are cross-functional and empowered to solve problems, not just deliver features.",
+        "A strong product culture values experimentation, learning, and customer-centricity.",
+        "Leaders must create an environment where teams can own outcomes and innovate."
+      ]
+    },
+    {
+      "id": "discovering_and_validating_ideas",
+      "title": "Discovering and Validating Ideas",
+      "goal": "Learn effective approaches to finding and validating product ideas before development.",
+      "key_points": [
+        "Successful products are grounded in a deep understanding of real customer needs.",
+        "Product discovery involves rapid prototyping, user testing, and iterative experimentation.",
+        "Validation techniques save time and resources by reducing the risk of building the wrong thing."
+      ]
+    },
+    {
+      "id": "building_products_users_love",
+      "title": "Building Products Users Love",
+      "goal": "Explore the process of turning validated ideas into products that deliver real value.",
+      "key_points": [
+        "Collaboration between product, design, and engineering is crucial for creating impactful products.",
+        "Continuous feedback, iteration, and learning drive product quality and customer satisfaction.",
+        "Shipping early and often enables teams to learn from real users and improve quickly."
+      ]
+    },
+    {
+      "id": "leadership_and_scaling_product_organizations",
+      "title": "Leadership and Scaling Product Organizations",
+      "goal": "Understand the leadership qualities and organizational strategies that enable product success at scale.",
+      "key_points": [
+        "Product leaders set vision, strategy, and empower teams to execute autonomously.",
+        "Hiring, mentoring, and developing talent are central to building strong product organizations.",
+        "Scaling requires maintaining product culture and clear communication as organizations grow."
+      ]
+    }
+  ]
+}
